@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bulk_01",
+    "type": "bulk",
+    "title_en": "Maximum Mass",
+    "title_fa": "حجم حداکثری",
+    "description_en": "Heavy compound movements and high calories to pack on size.",
+    "description_fa": "حرکات سنگین ترکیبی و کالری بالا برای افزایش حجم.",
+    "weeks": 8,
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "shred_01",
+    "type": "shred",
+    "title_en": "Aggressive Shred",
+    "title_fa": "کات تهاجمی",
+    "description_en": "High intensity and cardio focus to reveal deep muscle definition.",
+    "description_fa": "شدت بالا و تمرکز بر هوازی برای نمایان کردن کات عضلانی.",
+    "weeks": 6,
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "recomp_01",
+    "type": "recomp",
+    "title_en": "Massive & Shredded",
+    "title_fa": "حجیم و کات (ترکیبی)",
+    "description_en": "The Holy Grail: Building muscle while losing body fat simultaneously.",
+    "description_fa": "جام مقدس: عضله‌سازی همزمان با چربی‌سوزی.",
+    "weeks": 10,
+    "difficulty": "Pro"
+  }
+]

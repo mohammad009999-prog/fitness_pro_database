@@ -1,0 +1,50 @@
+{
+  "jay_c": {
+    "full_routine_en": "Day 1: Delts, Traps, Triceps (20-30 sets)\nDay 2: Back (Width & Thickness)\nDay 3: Rest\nDay 4: Chest & Biceps\nDay 5: Quads (The Quad Stomp Workout)\nDay 6: Hamstrings & Calves\nDay 7: Rest",
+    "full_routine_fa": "روز ۱: سرشانه، کول، پشت‌بازو (۲۰-۳۰ ست)\nروز ۲: زیربغل (عرض و ضخامت)\nروز ۳: استراحت\nروز ۴: سینه و جلوبازو\nروز ۵: چهارسر ران (تمرین مشهور Quad Stomp)\nروز ۶: همسترینگ و ساق پا\nروز ۷: استراحت",
+    "nutrition_en": "Meal 1: 15 egg whites, 2 whole eggs, 1 cup oatmeal.\nMeal 2: 10oz Steak, 2 cups White Rice.\nMeal 3: 10oz Chicken, 2 cups Brown Rice.\nMeal 4: 10oz Buffalo meat, 2 cups Rice.\nMeal 5: 10oz Chicken, Sweet Potato.",
+    "nutrition_fa": "وعده ۱: ۱۵ سفیده تخم‌مرغ، ۲ تخم‌مرغ کامل، ۱ پیمانه جو دوسر.\nوعده ۲: ۲۸۰ گرم استیک، ۲ پیمانه برنج سفید.\nوعده ۳: ۲۸۰ گرم مرغ، ۲ پیمانه برنج قهوه‌ای.\nوعده ۴: ۲۸۰ گرم گوشت بوفالو، ۲ پیمانه برنج.\nوعده ۵: ۲۸۰ گرم مرغ، سیب‌زمینی شیرین.",
+    "supps_en": "Pre-Workout: Stimulants + 5g Creatine.\nIntra-Workout: 15g BCAA.\nPost-Workout: 60g Whey Isolate + Vitargo.",
+    "supps_fa": "قبل تمرین: محرک + ۵ گرم کراتین.\nحین تمرین: ۱۵ گرم BCAA.\nبعد از تمرین: ۶۰ گرم وی ایزوله + ویتارگو."
+  },
+  "ronnie_c": {
+    "full_routine_en": "Power-Bodybuilding Style:\nDay 1: Back/Biceps (Deadlifts 800lb)\nDay 2: Legs (Squats 800lb)\nDay 3: Chest/Triceps\nDay 4: Back/Biceps\nDay 5: Legs\nDay 6: Chest/Shoulders/Triceps\nDay 7: Rest",
+    "full_routine_fa": "سبک پاور-بادی‌بیلدینگ:\nروز ۱: زیربغل و جلوبازو (ددلیفت ۳۶۰ کیلویی)\nروز ۲: پا (اسکات ۳۶۰ کیلویی)\nروز ۳: سینه و پشت‌بازو\nروز ۴: زیربغل و جلوبازو\nروز ۵: پا\nروز ۶: سینه، سرشانه و پشت‌بازو\nروز ۷: استراحت",
+    "nutrition_en": "Extreme Protein:\nMeal 1: 2 cups Egg Whites, Grits.\nMeal 2-5: 10oz Chicken or Beef with Rice.\nMeal 6: Protein Shake.",
+    "nutrition_fa": "پروتئین فوق سنگین:\nوعده ۱: ۲ پیمانه سفیده تخم‌مرغ.\nوعده ۲ تا ۵: ۲۸۰ گرم مرغ یا گوشت با برنج.\nوعده ۶: شیک پروتئین.",
+    "supps_en": "Heavy Weight Gainer, Amino Acids, Joint Support.",
+    "supps_fa": "گینر سنگین، آمینواسیدها، مکمل مفاصل."
+  },
+  "arnold_s": {
+    "full_routine_en": "The Double Split (High Volume):\nAM: Chest/Back | PM: Legs\nAM: Shoulders/Arms | PM: Calves/Abs\nRepeat for 6 days straight.",
+    "full_routine_fa": "دابل اسپلیت (حجم بسیار بالا):\nصبح: سینه و پشت | عصر: پا\nصبح: سرشانه و بازو | عصر: ساق و شکم\nتکرار برای ۶ روز متوالی.",
+    "nutrition_en": "High Protein/High Calorie:\nBreakfast: 3-4 Eggs, Bacon, Ezekiel Bread.\nLunch/Dinner: Steak/Fish with Potatoes and Salad.\nWhole Milk used in Shakes.",
+    "nutrition_fa": "پروتئین و کالری بالا:\nصبحانه: ۳-۴ تخم مرغ، بیکن، نان حزقیال.\nناهار/شام: استیک یا ماهی با سیب‌زمینی و سالاد.\nاستفاده از شیر کامل در شیک‌ها.",
+    "supps_en": "Desiccated Liver Tablets, Magnesium, Vitamin C.",
+    "supps_fa": "قرص جگر خشک شده، منیزیم، ویتامین C."
+  },
+  "hadi_c": {
+    "full_routine_en": "Mechanical Tension Focus:\nDay 1: Chest (Incline heavy)\nDay 2: Back (Thickness focus)\nDay 3: Shoulders (Side delts)\nDay 4: Arms\nDay 5: Legs (Extreme intensity)\nRepeat cycle.",
+    "full_routine_fa": "تمرکز بر تنش مکانیکی:\nروز ۱: سینه (پرس بالا سینه سنگین)\nروز ۲: زیربغل (تمرکز بر ضخامت)\nروز ۳: سرشانه (بخش جانبی)\nروز ۴: بازو\nروز ۵: پا (شدت بسیار بالا)\nتکرار چرخه.",
+    "nutrition_en": "Clean & Precise:\nMeal 1: Egg whites, Oats, Blueberries.\nMeal 2-5: White Fish or Chicken, Jasmine Rice.\nMeal 6: Salmon and Green Greens.",
+    "nutrition_fa": "پاک و دقیق:\nوعده ۱: سفیده تخم مرغ، جو دوسر، بلوبری.\nوعده ۲ تا ۵: ماهی سفید یا مرغ، برنج یاسمین.\nوعده ۶: ماهی سالمون و سبزیجات سبز.",
+    "supps_en": "Whey Isolate, Glutamine, Multivitamin.",
+    "supps_fa": "وی ایزوله، گلوتامین، مولتی‌ویتامین."
+  },
+  "lee_h": {
+    "full_routine_en": "Stimulate Don't Annihilate:\nDay 1: Chest/Arms\nDay 2: Legs\nDay 3: Back/Shoulders\n1 Day Rest, Then Repeat.",
+    "full_routine_fa": "تحریک کن، نابود نکن:\nروز ۱: سینه و بازوها\nروز ۲: پاها\nروز ۳: زیربغل و سرشانه\n۱ روز استراحت، سپس تکرار.",
+    "nutrition_en": "Balanced approach:\nModerate Protein, High Fiber, Low Fat. 6 Meals small portions.",
+    "nutrition_fa": "رویکرد متعادل:\nپروتئین متوسط، فیبر بالا، چربی کم. ۶ وعده با حجم کوچک.",
+    "supps_en": "Amino Acids, Vitamin B Complex.",
+    "supps_fa": "آمینواسیدها، ویتامین B کمپلکس."
+  },
+  "phil_h": {
+    "full_routine_en": "FST-7 Protocol:\nDay 1: Quads/Hams/Calves\nDay 2: Back/Biceps\nDay 3: Chest/Triceps\nDay 4: Shoulders\nIncludes 7 sets of 12 reps with 30s rest for fascia stretch.",
+    "full_routine_fa": "پروتکل FST-7:\nروز ۱: ران، پشت پا، ساق\nروز ۲: زیربغل و جلوبازو\nروز ۳: سینه و پشت‌بازو\nروز ۴: سرشانه\nشامل ۷ ست ۱۲ تکراری با ۳۰ ثانیه استراحت برای کشش فاشیا.",
+    "nutrition_en": "3D Fullness Diet:\nMeal 1: 12oz Chicken, 1 cup Egg whites.\nMeal 2-5: Steak or Chicken, 2 cups Rice.\nMeal 6: Tilapia, Asparagus.",
+    "nutrition_fa": "رژیم حجم سه بعدی:\nوعده ۱: ۳۴۰ گرم مرغ، ۱ پیمانه سفیده.\nوعده ۲ تا ۵: استیک یا مرغ، ۲ پیمانه برنج.\nوعده ۶: ماهی تیلاپیا، مارچوبه.",
+    "supps_en": "Pre-Workout Pump formulas, Whey Isolate, BCAAs.",
+    "supps_fa": "فرمول‌های پمپ قبل تمرین، وی ایزوله، BCAA."
+  }
+}

@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "jay_cutler",
+    "name_en": "Jay Cutler",
+    "name_fa": "جی کاتلر",
+    "category": "male",
+    "title": "4x Mr. Olympia Champion",
+    "bio_en": "Jason Isaac Cutler is an American IFBB professional bodybuilder and a 4-time Mr. Olympia champion, winning in 2006, 2007, 2009, and 2010. Known for his massive size, incredible conditioning, and fierce rivalries, he is one of the most iconic figures in modern bodybuilding history.",
+    "bio_fa": "جیسون آیزاک کاتلر بدنساز حرفه‌ای آمریکایی و ۴ دوره قهرمان مستر المپیا در سال‌های ۲۰۰۶، ۲۰۰۷، ۲۰۰۹ و ۲۰۱۰ است. او به خاطر حجم عظیم، کات فوق‌العاده و رقابت‌های نفس‌گیرش یکی از برجسته‌ترین چهره‌های تاریخ بدنسازی مدرن است.",
+    "off_season_routine_style": "High-Volume Mass Split with Abs & Cardio",
+    "contest_routine_style": "High-Intensity Pre-Contest Shredding & FST-7 Integration",
+    "off_season_diet": {
+      "calories": 5500,
+      "protein_g": 450,
+      "carbs_g": 650,
+      "fats_g": 120,
+      "notes_en": "High calorie bulking phase focused on heavy lean mass accumulation with 6 daily clean meals.",
+      "notes_fa": "دوره حجم پرکالری متمرکز بر ساخت توده عضلانی خشک با ۶ وعده غذایی پاک در روز.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "12 egg whites, 3 whole eggs, 2 cups oatmeal, 1 cup blueberries", "meal_2": "12 oz chicken breast, 2 cups white rice, broccoli", "meal_3": "12 oz lean beef steak, 2 large sweet potatoes", "meal_4": "12 oz turkey breast, 2 cups brown rice, asparagus", "meal_5": "10 oz salmon, 2 cups quinoa, mixed vegetables", "meal_6": "Casein protein shake, 2 tbsp almond butter, cream of rice" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3800,
+      "protein_g": 480,
+      "carbs_g": 300,
+      "fats_g": 70,
+      "notes_en": "Low carb, high protein cutting phase with daily fasted cardio to strip off subcutaneous fat while retaining muscle density.",
+      "notes_fa": "دوره کات کم‌کربوهیدرات و پروتئین بالا همراه با هوازی ناشتای روزانه برای حذف چربی زیرپوستی و حفظ چگالی عضلانی.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "10 egg whites, 2 whole eggs, 1 cup oatmeal", "meal_2": "10 oz chicken breast, 1.5 cups white rice, asparagus", "meal_3": "10 oz lean turkey, 1 cup brown rice", "meal_4": "10 oz white fish, large green salad with olive oil", "meal_5": "10 oz steak, steamed green beans", "meal_6": "Isolate whey protein shake with glutamine" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Calves & Abs", "focus_fa": "سینه، ساق پا و شکم", "exercises": [ { "name": "Incline Hammer Press", "sets": 4, "reps": "8-12", "rest_sec": 90 }, { "name": "Flat Dumbbell Press", "sets": 4, "reps": "10-15", "rest_sec": 75 }, { "name": "Incline Dumbbell Fly", "sets": 4, "reps": "12-15", "rest_sec": 60 }, { "name": "Cable Crossover", "sets": 7, "reps": "15", "rest_sec": 60 }, { "name": "Standing Calf Raise", "sets": 4, "reps": "12-15", "rest_sec": 45 }, { "name": "Hanging Leg Raise", "sets": 3, "reps": "15-20", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Triceps & Biceps", "focus_fa": "پشت‌بازو و جلوبازو", "exercises": [ { "name": "Cable Rope Pushdown", "sets": 3, "reps": "10-12", "rest_sec": 60 }, { "name": "EZ Bar Close-Grip Extension", "sets": 7, "reps": "12", "rest_sec": 60 }, { "name": "Machine Dip", "sets": 3, "reps": "12", "rest_sec": 60 }, { "name": "EZ Bar Curl", "sets": 4, "reps": "12-15", "rest_sec": 60 }, { "name": "Dumbbell Alternate Bicep Curl", "sets": 3, "reps": "12", "rest_sec": 60 }, { "name": "Dumbbell Hammer Curl", "sets": 3, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Back & Cardio", "focus_fa": "پشت و زیربغل به همراه هوازی", "exercises": [ { "name": "Wide-Grip Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Barbell Deadlift", "sets": 4, "reps": "8-10", "rest_sec": 120 }, { "name": "T-Bar Row", "sets": 3, "reps": "10", "rest_sec": 90 }, { "name": "Dumbbell One-Arm Row", "sets": 3, "reps": "10", "rest_sec": 60 }, { "name": "Cable Seated Row", "sets": 3, "reps": "10", "rest_sec": 60 }, { "name": "Treadmill Fast Walk", "sets": 1, "reps": "25 mins", "rest_sec": 0 } ] },
+      { "day": 4, "focus_en": "Rest & Recovery", "focus_fa": "استراحت و ریکاوری", "exercises": [] },
+      { "day": 5, "focus_en": "Shoulders & Traps & Abs", "focus_fa": "سرشانه، کول و شکم", "exercises": [ { "name": "Leverage Shoulder Press", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Dumbbell Seated Side Lateral Raise", "sets": 6, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Overhead Front Raise", "sets": 3, "reps": "10", "rest_sec": 60 }, { "name": "Smith Machine Shrug", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Rope Crunch", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 6, "focus_en": "Legs (Quads & Hamstrings)", "focus_fa": "پا (چهارسر و پشت‌پای)", "exercises": [ { "name": "Leg Extension", "sets": 3, "reps": "12-15", "rest_sec": 60 }, { "name": "Barbell Squat", "sets": 4, "reps": "8-12", "rest_sec": 120 }, { "name": "Leg Press", "sets": 4, "reps": "10-12", "rest_sec": 90 }, { "name": "Hack Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Lying Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت مطلق", "exercises": [] }
+    ]
+  },
+  {
+    "id": "arnold_schwarzenegger",
+    "name_en": "Arnold Schwarzenegger",
+    "name_fa": "آرنولد شوارتزنگر",
+    "category": "male",
+    "title": "7x Mr. Olympia Champion",
+    "bio_en": "Arnold Alois Schwarzenegger is an Austrian-American actor, filmmaker, businessman, author, and former professional bodybuilder. He is considered by many to be one of the greatest bodybuilders of all time, winning the Mr. Olympia title 7 times and popularizing the sport globally.",
+    "bio_fa": "آرنولد آلویس شوارتزنگر بازیگر، فیلمساز، تاجر، نویسنده و بدنساز حرفه‌ای سابق اتریشی-آمریکایی است. او توسط بسیاری به عنوان یکی از بزرگترین بدنسازان تمام دوران در نظر گرفته می‌شود که ۷ بار عنوان مستر المپیا را کسب کرد و ورزش بدنسازی را در سراسر جهان محبوب ساخت.",
+    "off_season_routine_style": "Golden Six & Antagonist Split with Abs",
+    "contest_routine_style": "High-Volume Superset Definition Split",
+    "off_season_diet": {
+      "calories": 5000,
+      "protein_g": 350,
+      "carbs_g": 550,
+      "fats_g": 140,
+      "notes_en": "Traditional 1970s heavy bodybuilding diet focusing on whole foods, whole milk, eggs, red meat, and massive carbohydrate intake.",
+      "notes_fa": "رژیم غذایی سنتی بدنسازی دهه ۷۰ میلادی متمرکز بر غذاهای کامل، شیر کامل، تخم‌مرغ، گوشت قرمز و مصرف بالای کربوهیدرات.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "6 whole eggs, 4 strips of bacon, large bowl of oatmeal with whole milk", "meal_2": "Whole milk protein shake with heavy cream and banana", "meal_3": "16 oz sirloin steak, baked potatoes with butter, large salad", "meal_4": "Cottage cheese bowl with pineapple chunks and nuts", "meal_5": "12 oz roasted chicken, large portion of brown rice, vegetables", "meal_6": "Whole milk and protein supplement blend before bed" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3200,
+      "protein_g": 380,
+      "carbs_g": 200,
+      "fats_g": 80,
+      "notes_en": "Pre-contest low carbohydrate fat-stripping plan to maximize muscle separation and vascularity.",
+      "notes_fa": "رژیم چربی‌سوزی پیش از مسابقه با کربوهیدرات کم برای حداکثر تفکیک عضلانی و رگه‌داری.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, 2 whole eggs, dry toast", "meal_2": "Tuna salad without mayo, celery sticks", "meal_3": "10 oz grilled steak, steamed broccoli", "meal_4": "Whey protein isolate shake with water", "meal_5": "10 oz chicken breast, green beans", "meal_6": "Cottage cheese with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Back & Abs", "focus_fa": "سینه، پشت و شکم", "exercises": [ { "name": "Barbell Bench Press", "sets": 5, "reps": "6-12", "rest_sec": 90 }, { "name": "Wide-Grip Pull-Up", "sets": 4, "reps": "10-12", "rest_sec": 90 }, { "name": "Incline Barbell Press", "sets": 4, "reps": "8-10", "rest_sec": 90 }, { "name": "Bent Over Barbell Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Roman Chair Sit-up", "sets": 5, "reps": "25", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Standing Dumbbell Press", "sets": 4, "reps": "8-12", "rest_sec": 75 }, { "name": "Side Lateral Raise", "sets": 5, "reps": "12", "rest_sec": 60 }, { "name": "Barbell Curl", "sets": 5, "reps": "10", "rest_sec": 60 }, { "name": "Skull Crusher", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs & Calves", "focus_fa": "پا و ساق", "exercises": [ { "name": "Barbell Squat", "sets": 5, "reps": "8-12", "rest_sec": 120 }, { "name": "Stiff-Legged Deadlift", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Standing Calf Raise", "sets": 5, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 4, "focus_en": "Chest & Back & Abs", "focus_fa": "سینه، پشت و شکم (دور دوم)", "exercises": [ { "name": "Dumbbell Flyes", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "T-Bar Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Chin-Up", "sets": 3, "reps": "Max", "rest_sec": 60 }, { "name": "Leg Raise", "sets": 4, "reps": "25", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو (دور دوم)", "exercises": [ { "name": "Behind The Neck Press", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Seated Alternate Dumbbell Curl", "sets": 5, "reps": "10", "rest_sec": 60 }, { "name": "Triceps Pushdown", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 6, "focus_en": "Legs & Calves", "focus_fa": "پا و ساق (دور دوم)", "exercises": [ { "name": "Leg Extension", "sets": 4, "reps": "15", "rest_sec": 60 }, { "name": "Leg Curl", "sets": 4, "reps": "15", "rest_sec": 60 }, { "name": "Seated Calf Raise", "sets": 4, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت مطلق", "exercises": [] }
+    ]
+  },
+  {
+    "id": "ronnie_coleman",
+    "name_en": "Ronnie Coleman",
+    "name_fa": "رونی کلمن",
+    "category": "male",
+    "title": "8x Mr. Olympia Champion",
+    "bio_en": "Ronnie Dean Coleman is an American retired professional bodybuilder. He won eight consecutive Mr. Olympia titles and is widely regarded as one of the greatest bodybuilders in history, famous for his inhuman strength and massive size.",
+    "bio_fa": "رونی دین کلمن بدنساز حرفه‌ای بازنشسته آمریکایی است. او هشت عنوان متوالی مستر المپیا را کسب کرد و به طور گسترده به عنوان یکی از بزرگترین بدنسازان تاریخ شناخته می‌شود که به خاطر قدرت غیرانسانی و حجم عظیمش مشهور است.",
+    "off_season_routine_style": "Heavy Power-Building Split with Abs",
+    "contest_routine_style": "High-Weight Low-Rep Pre-Contest Mass Split",
+    "off_season_diet": {
+      "calories": 6000,
+      "protein_g": 500,
+      "carbs_g": 700,
+      "fats_g": 130,
+      "notes_en": "Extremely high calorie off-season regimen featuring massive portions of chicken, steak, grits, and rice.",
+      "notes_fa": "رژیم غذایی فوق‌العاده پرکالری در دوره حجم شامل وعده‌های حجیم مرغ، استیک، حلیم ذرت (گریتس) و برنج.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "2 cups grits, 2 cups egg whites, 1 cup cheese, turkey sausage", "meal_2": "16 oz chicken breast, 2 large baked potatoes", "meal_3": "16 oz steak, 2 cups white rice, pinto beans", "meal_4": "16 oz turkey breast, 2 cups pasta with marinara", "meal_5": "20 oz fish (tilapia/salmon), 2 cups rice", "meal_6": "Casein shake with peanut butter" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 4000,
+      "protein_g": 520,
+      "carbs_g": 320,
+      "fats_g": 60,
+      "notes_en": "Strict pre-contest cutting phase focusing on lean poultry, white fish, and complex carbs while maintaining heavy lifting.",
+      "notes_fa": "رژیم دقیق کات پیش از مسابقه تمرکز بر مرغ بدون چربی، ماهی سفید و کربوهیدرات‌های پیچیده ضمن حفظ تمرینات سنگین.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "1.5 cups egg whites, 1 cup oatmeal", "meal_2": "14 oz chicken breast, 1.5 cups white rice", "meal_3": "14 oz tilapia, 1.5 cups brown rice, asparagus", "meal_4": "14 oz lean turkey, sweet potato", "meal_5": "Whey isolate shake with glutamine", "meal_6": "Egg white omelet with spinach" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Back & Biceps & Abs", "focus_fa": "پشت، جلوبازو و شکم", "exercises": [ { "name": "Barbell Deadlift", "sets": 4, "reps": "6-10", "rest_sec": 120 }, { "name": "Barbell Row", "sets": 5, "reps": "10-12", "rest_sec": 90 }, { "name": "T-Bar Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Barbell Curl", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Crunches", "sets": 4, "reps": "25", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Legs", "focus_fa": "پا (سنگین)", "exercises": [ { "name": "Barbell Squat", "sets": 5, "reps": "10", "rest_sec": 120 }, { "name": "Leg Press", "sets": 4, "reps": "12", "rest_sec": 90 }, { "name": "Lunge", "sets": 3, "reps": "10", "rest_sec": 90 }, { "name": "Lying Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Chest & Triceps", "focus_fa": "سینه و پشت‌بازو", "exercises": [ { "name": "Flat Bench Press", "sets": 5, "reps": "12", "rest_sec": 90 }, { "name": "Incline Barbell Press", "sets": 4, "reps": "12", "rest_sec": 90 }, { "name": "Flat Dumbbell Fly", "sets": 3, "reps": "12", "rest_sec": 60 }, { "name": "Skullcrushers", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 4, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Seated Dumbbell Press", "sets": 4, "reps": "10-12", "rest_sec": 90 }, { "name": "Side Lateral Raise", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Front Plate Raise", "sets": 3, "reps": "12", "rest_sec": 60 }, { "name": "Hanging Leg Raise", "sets": 4, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Legs (Quad Focus)", "focus_fa": "پا (تکمیلی)", "exercises": [ { "name": "Front Squat", "sets": 4, "reps": "12", "rest_sec": 90 }, { "name": "Hack Squat", "sets": 3, "reps": "12", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "15", "rest_sec": 60 } ] },
+      { "day": 6, "focus_en": "Chest & Arms", "focus_fa": "سینه و بازو تکمیلی", "exercises": [ { "name": "Incline Dumbbell Press", "sets": 4, "reps": "12", "rest_sec": 90 }, { "name": "Preacher Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "phil_heath",
+    "name_en": "Phil Heath",
+    "name_fa": "فیل هیث",
+    "category": "male",
+    "title": "7x Mr. Olympia Champion",
+    "bio_en": "Phillip Jerrod Heath is an American professional bodybuilder and a 7-time Mr. Olympia winner, matching Arnold Schwarzenegger's title count. Nicknamed 'The Gift', he is renowned for his incredible 3D muscle fullness and tight waistline.",
+    "bio_fa": "فیلیپ جرود هیث بدنساز حرفه‌ای آمریکایی و ۷ دوره قهرمان مستر المپیا است که تعداد عناوینش با آرنولد شوارتزنگر برابری می‌کند. او ملقب به «هدیه» (The Gift)، به خاطر پری عضلانی سه‌بعدی و دور کمر باریکش مشهور است.",
+    "off_season_routine_style": "FST-7 Advanced Split with Cardio",
+    "contest_routine_style": "FST-7 Pre-Contest Precision Hypertrophy",
+    "off_season_diet": {
+      "calories": 5200,
+      "protein_g": 420,
+      "carbs_g": 600,
+      "fats_g": 110,
+      "notes_en": "High protein mass building plan using lean meats, complex carbohydrates, and targeted supplementation.",
+      "notes_fa": "برنامه ساخت حجم با پروتئین بالا با استفاده از گوشت‌های کم‌چرب، کربوهیدرات‌های پیچیده و مکمل‌های هدفمند.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "1.5 cups egg whites, 1 whole egg, 1.5 cups oatmeal, berries", "meal_2": "10 oz chicken breast, 2 cups jasmine rice, pineapple", "meal_3": "10 oz lean steak, 2 large sweet potatoes, green beans", "meal_4": "10 oz turkey breast, 2 cups brown rice", "meal_5": "10 oz white fish, quinoa, asparagus", "meal_6": "Whey isolate and casein blend with almond butter" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3500,
+      "protein_g": 450,
+      "carbs_g": 250,
+      "fats_g": 55,
+      "notes_en": "Contest preparation diet emphasizing low glycemic carbs, lean protein sources, and consistent metabolic conditioning.",
+      "notes_fa": "رژیم آمادگی مسابقه با تأکید بر کربوهیدرات‌های با شاخص گلیسمی پایین، منابع پروتئین کم‌چرب و تهویه متابولیک مداوم.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "1.2 cups egg whites, 1 cup oatmeal", "meal_2": "8 oz chicken breast, 1 cup basmati rice", "meal_3": "8 oz flank steak, asparagus", "meal_4": "8 oz turkey breast, sweet potato", "meal_5": "White fish fillet, mixed salad", "meal_6": "Casein shake with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Lower Body & Cardio", "focus_fa": "پایین تنه و هوازی", "exercises": [ { "name": "Stiff-Leg Deadlift", "sets": 4, "reps": "8-10", "rest_sec": 90 }, { "name": "Leg Press", "sets": 4, "reps": "10-12", "rest_sec": 90 }, { "name": "Seated Leg Curls (FST-7)", "sets": 7, "reps": "10-12", "rest_sec": 45 }, { "name": "Stationary Bike", "sets": 1, "reps": "30 mins", "rest_sec": 0 } ] },
+      { "day": 2, "focus_en": "Chest & Triceps", "focus_fa": "سینه و پشت‌بازو", "exercises": [ { "name": "Dumbbell Incline Press", "sets": 4, "reps": "10-12", "rest_sec": 75 }, { "name": "Flat Bench Press", "sets": 3, "reps": "10", "rest_sec": 90 }, { "name": "Pec Deck (FST-7)", "sets": 7, "reps": "10-12", "rest_sec": 45 } ] },
+      { "day": 3, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 4, "focus_en": "Back & Biceps", "focus_fa": "پشت و جلوبازو", "exercises": [ { "name": "T-Bar Row", "sets": 4, "reps": "12", "rest_sec": 90 }, { "name": "Lat Pulldown", "sets": 3, "reps": "10", "rest_sec": 75 }, { "name": "Straight-Arm Pulldown (FST-7)", "sets": 7, "reps": "10-12", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Shoulders & Traps", "focus_fa": "سرشانه و کول", "exercises": [ { "name": "Smith Machine Military Press", "sets": 4, "reps": "10-12", "rest_sec": 75 }, { "name": "Dumbbell Lateral Raise (FST-7)", "sets": 7, "reps": "10-12", "rest_sec": 45 } ] },
+      { "day": 6, "focus_en": "Cardio & Core", "focus_fa": "هوازی و شکم", "exercises": [ { "name": "Treadmill HIIT", "sets": 1, "reps": "30 mins", "rest_sec": 0 }, { "name": "Ab Crunch Machine", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "dorian_yates",
+    "name_en": "Dorian Yates",
+    "name_fa": "دوریان یتس",
+    "category": "male",
+    "title": "6x Mr. Olympia Champion",
+    "bio_en": "Dorian Andrew Mientjez Yates is an English former professional bodybuilder who won the Mr. Olympia title six consecutive times from 1992 to 1997. He revolutionized the sport by bringing unprecedented mass and conditioning, popularizing High-Intensity Training (HIT).",
+    "bio_fa": "دوریان اندرو مینتیز یتس بدنساز حرفه‌ای سابق انگلیسی است که ۶ سال متوالی از سال ۱۹۹۲ تا ۱۹۹۷ عنوان مستر المپیا را کسب کرد. او با آوردن حجم و کات بی‌سابقه و محبوب کردن تمرینات با شدت بالا (HIT)، این ورزش را متحول کرد.",
+    "off_season_routine_style": "Blood and Guts (High-Intensity)",
+    "contest_routine_style": "HIT Pre-Contest Low Volume High Weight",
+    "off_season_diet": {
+      "calories": 4800,
+      "protein_g": 380,
+      "carbs_g": 520,
+      "fats_g": 100,
+      "notes_en": "Off-season mass diet built on heavy proteins, complex starches, and oats to support intense, low-frequency HIT workouts.",
+      "notes_fa": "رژیم حجم دوره استراحت ساخته شده بر پایه پروتئین‌های سنگین، نشاسته‌های پیچیده و جو دوسر برای حمایت از تمرینات HIT پرشدت و کم‌فرکانس.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "1.5 cups oatmeal, protein scoop, 6 egg whites", "meal_2": "10 oz chicken breast, baked potato, vegetables", "meal_3": "12 oz rump steak, 2 cups brown rice", "meal_4": "10 oz turkey breast, 1.5 cups pasta", "meal_5": "10 oz white fish, large salad with olive oil", "meal_6": "Cottage cheese and whey isolate shake" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3000,
+      "protein_g": 400,
+      "carbs_g": 180,
+      "fats_g": 50,
+      "notes_en": "Contest prep calorie deficit focusing on lean meats and minimal simple carbs to preserve dense muscle tissue.",
+      "notes_fa": "کسری کالری آماده‌سازی مسابقه متمرکز بر گوشت‌های کم‌چرب و حداقل کربوهیدرات ساده برای حفظ بافت عضلانی متراکم.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "1 cup oatmeal, 6 egg whites", "meal_2": "8 oz chicken, green beans", "meal_3": "8 oz steak, small sweet potato", "meal_4": "8 oz white fish, steamed broccoli", "meal_5": "Whey protein isolate shake with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Delts, Traps, Triceps, Abs", "focus_fa": "سرشانه، کول، پشت‌بازو و شکم", "exercises": [ { "name": "Seated Dumbbell Press", "sets": 3, "reps": "6-8", "rest_sec": 90 }, { "name": "Side Lateral Raise", "sets": 3, "reps": "8-10", "rest_sec": 60 }, { "name": "Cable Pushdown", "sets": 3, "reps": "8-10", "rest_sec": 60 }, { "name": "Crunches", "sets": 3, "reps": "25", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Back & Biceps", "focus_fa": "پشت و زیربغل", "exercises": [ { "name": "Nautilus Pulldown", "sets": 3, "reps": "8-10", "rest_sec": 90 }, { "name": "Barbell Row", "sets": 3, "reps": "6-8", "rest_sec": 90 }, { "name": "Deadlift", "sets": 2, "reps": "6", "rest_sec": 120 } ] },
+      { "day": 3, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 4, "focus_en": "Chest & Biceps & Abs", "focus_fa": "سینه، جلوبازو و شکم", "exercises": [ { "name": "Incline Barbell Press", "sets": 3, "reps": "6-8", "rest_sec": 90 }, { "name": "Flat Dumbbell Press", "sets": 2, "reps": "6-8", "rest_sec": 90 }, { "name": "EZ Bar Curl", "sets": 3, "reps": "6-8", "rest_sec": 60 }, { "name": "Hanging Leg Raise", "sets": 3, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Legs", "focus_fa": "پای سنگین", "exercises": [ { "name": "Leg Extension", "sets": 3, "reps": "10-15", "rest_sec": 60 }, { "name": "Barbell Squat", "sets": 3, "reps": "8-10", "rest_sec": 120 }, { "name": "Leg Press", "sets": 2, "reps": "10-12", "rest_sec": 90 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "frank_zane",
+    "name_en": "Frank Zane",
+    "name_fa": "فرانک زین",
+    "category": "male",
+    "title": "3x Mr. Olympia Champion",
+    "bio_en": "Frank Zane is an American former professional bodybuilder and author. A 3-time Mr. Olympia winner, his physique is widely considered one of the best in bodybuilding history, emphasizing symmetry, proportion, and aesthetic lines rather than sheer bulk.",
+    "bio_fa": "فرانک زین بدنساز حرفه‌ای سابق و نویسنده آمریکایی است. او که ۳ بار قهرمان مستر المپیا شده، فیزیک بدنی‌اش به عنوان یکی از بهترین‌ها در تاریخ بدنسازی شناخته می‌شود که به جای حجم خالص، بر تقارن، تناسب و خطوط زیبایی‌شناختی تأکید دارد.",
+    "off_season_routine_style": "Aesthetic Symmetry with Cardio & Abs",
+    "contest_routine_style": "High-Rep Definition & Vacuum Pose Focus",
+    "off_season_diet": {
+      "calories": 3500,
+      "protein_g": 280,
+      "carbs_g": 350,
+      "fats_g": 80,
+      "notes_en": "Moderate calorie clean bulking plan focusing on high protein, moderate complex carbs, and low body fat maintenance.",
+      "notes_fa": "رژیم حجم پاک با کالری متوسط متمرکز بر پروتئین بالا، کربوهیدرات‌های پیچیده متوسط و حفظ چربی پایین بدن.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 eggs, 1 cup oatmeal, orange juice", "meal_2": "Cottage cheese, whole wheat toast, handful of almonds", "meal_3": "8 oz chicken breast, brown rice, steamed vegetables", "meal_4": "Protein shake with skim milk and banana", "meal_5": "8 oz fish or steak, baked potato, salad", "meal_6": "Amino acid supplement before bed" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2400,
+      "protein_g": 300,
+      "carbs_g": 120,
+      "fats_g": 40,
+      "notes_en": "Low calorie, high protein, low carb cutting diet designed to maintain muscle mass while achieving stage dryness.",
+      "notes_fa": "رژیم کات کم‌کالری، پروتئین بالا و کربوهیدرات پایین طراحی شده برای حفظ توده عضلانی ضمن دستیابی به خشکی روی صحنه.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 egg whites, 1 whole egg, small portion of oatmeal", "meal_2": "Cottage cheese with water", "meal_3": "6 oz tuna or chicken breast, green salad", "meal_4": "Amino acids and protein powder", "meal_5": "6 oz white fish, steamed zucchini", "meal_6": "Water with lemon" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Upper Body (Pull) & Abs", "focus_fa": "بالاتنه (کشش) و شکم", "exercises": [ { "name": "Wide-Grip Chin-Up", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Row", "sets": 4, "reps": "8-10", "rest_sec": 60 }, { "name": "Concentration Curl", "sets": 3, "reps": "10", "rest_sec": 45 }, { "name": "Non-Stop Crunches", "sets": 5, "reps": "30", "rest_sec": 30 } ] },
+      { "day": 2, "focus_en": "Legs & Abs", "focus_fa": "پا و شکم", "exercises": [ { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Front Squat", "sets": 4, "reps": "8-10", "rest_sec": 90 }, { "name": "Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Vacuum Pose Practice", "sets": 5, "reps": "1 min", "rest_sec": 30 } ] },
+      { "day": 3, "focus_en": "Upper Body (Push)", "focus_fa": "بالاتنه (فشار)", "exercises": [ { "name": "Incline Bench Press", "sets": 4, "reps": "8-10", "rest_sec": 75 }, { "name": "Dumbbell Press", "sets": 3, "reps": "8-10", "rest_sec": 60 }, { "name": "Triceps Pushdown", "sets": 3, "reps": "10", "rest_sec": 45 } ] },
+      { "day": 4, "focus_en": "Cardio & Recovery", "focus_fa": "هوازی و ریکاوری", "exercises": [ { "name": "Outdoor Jogging", "sets": 1, "reps": "30 mins", "rest_sec": 0 } ] },
+      { "day": 5, "focus_en": "Full Body Tone & Abs", "focus_fa": "کل بدن تقویتی و شکم", "exercises": [ { "name": "Cable Crossover", "sets": 3, "reps": "12", "rest_sec": 45 }, { "name": "Lat Pulldown", "sets": 3, "reps": "12", "rest_sec": 45 }, { "name": "Roman Chair Sit-up", "sets": 4, "reps": "25", "rest_sec": 45 } ] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "lee_haney",
+    "name_en": "Lee Haney",
+    "name_fa": "لی هینی",
+    "category": "male",
+    "title": "8x Mr. Olympia Champion",
+    "bio_en": "Lee Haney is an American former professional bodybuilder. He shares the record of eight Mr. Olympia titles with Ronnie Coleman. His philosophy of 'stimulate, not annihilate' allowed him to build massive size without severe injuries.",
+    "bio_fa": "لی هینی بدنساز حرفه‌ای سابق آمریکایی است. او رکورد هشت عنوان مستر المپیا را با رونی کلمن به اشتراک می‌گذارد. فلسفه او «تحریک کن، نه انہدام» به او اجازه داد تا بدون آسیب‌های شدید، حجم عظیمی بسازد.",
+    "off_season_routine_style": "Stimulate, Don't Annihilate with Abs",
+    "contest_routine_style": "Pre-Contest High Frequency Mass Retention",
+    "off_season_diet": {
+      "calories": 5000,
+      "protein_g": 400,
+      "carbs_g": 550,
+      "fats_g": 110,
+      "notes_en": "Balanced high protein mass building diet using poultry, fish, rice, and oatmeal.",
+      "notes_fa": "رژیم متوازن ساخت حجم با پروتئین بالا با استفاده از مرغ، ماهی، برنج و جو دوسر.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "6 egg whites, 2 whole eggs, 1.5 cups oatmeal", "meal_2": "10 oz chicken breast, 2 cups rice", "meal_3": "12 oz steak, baked sweet potato", "meal_4": "10 oz turkey breast, brown rice", "meal_5": "10 oz fish, mixed salad", "meal_6": "Protein isolate shake with milk" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3400,
+      "protein_g": 420,
+      "carbs_g": 240,
+      "fats_g": 55,
+      "notes_en": "Clean pre-contest cutting meal plan designed to shed fat while maintaining full, rounded muscle bellies.",
+      "notes_fa": "برنامه غذایی پاک کات پیش از مسابقه طراحی شده برای چربی‌سوزی ضمن حفظ شکم‌های عضلانی پر و گرد.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, 1 whole egg, 1 cup oatmeal", "meal_2": "8 oz chicken breast, 1 cup white rice", "meal_3": "8 oz flank steak, green beans", "meal_4": "8 oz turkey, sweet potato", "meal_5": "White fish, broccoli", "meal_6": "Casein protein shake" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Arms & Abs", "focus_fa": "سینه، بازو و شکم", "exercises": [ { "name": "Bench Press", "sets": 4, "reps": "8-10", "rest_sec": 90 }, { "name": "Incline Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Barbell Curl", "sets": 3, "reps": "10", "rest_sec": 60 }, { "name": "Crunches", "sets": 4, "reps": "25", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Back", "focus_fa": "پشت", "exercises": [ { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Row", "sets": 4, "reps": "10", "rest_sec": 90 } ] },
+      { "day": 3, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 4, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Military Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Side Lateral", "sets": 4, "reps": "12", "rest_sec": 45 }, { "name": "Leg Raise", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "larry_scott",
+    "name_en": "Larry Scott",
+    "name_fa": "لری اسکات",
+    "category": "male",
+    "title": "2x Mr. Olympia Champion (First Ever)",
+    "bio_en": "Larry Scott, nicknamed 'The Legend', was an American professional bodybuilder who became the very first Mr. Olympia champion in 1965 and successfully defended his title in 1966. Famous for his phenomenal arm development and the invention of the Scott Curl.",
+    "bio_fa": "لری اسکات ملقب به «افسانه»، بدنساز حرفه‌ای آمریکایی بود که در سال ۱۹۶۵ به عنوان اولین قهرمان تاریخ مستر المپیا شناخته شد و در سال ۱۹۶۶ از عنوان خود دفاع کرد. او به خاطر توسعه فوق‌العاده بازو و اختراع جلوبازو لری اسکات مشهور است.",
+    "off_season_routine_style": "Old-School High Volume Bicep & Shoulder Focus",
+    "contest_routine_style": "Pre-Contest High Density Circuit",
+    "off_season_diet": {
+      "calories": 4500,
+      "protein_g": 320,
+      "carbs_g": 480,
+      "fats_g": 120,
+      "notes_en": "Classic 1960s high calorie bodybuilding nutrition featuring whole milk, red meat, eggs, and heavy starches.",
+      "notes_fa": "تغذیه کلاسیک بدنسازی پرکالری دهه ۱۹۶۰ شامل شیر کامل، گوشت قرمز، تخم‌مرغ و نشاسته‌های سنگین.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "6 whole eggs, hash browns, toast with butter, whole milk", "meal_2": "Steak sandwich with whole milk", "meal_3": "Roast beef, baked potato, large green salad", "meal_4": "Cottage cheese with cream and peaches", "meal_5": "12 oz chicken, rice, vegetables", "meal_6": "Whole milk and raw eggs blend" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2800,
+      "protein_g": 340,
+      "carbs_g": 150,
+      "fats_g": 50,
+      "notes_en": "Pre-contest low carbohydrate fat-stripping diet to reveal extreme muscle hardness.",
+      "notes_fa": "رژیم چربی‌سوزی کم‌کربوهیدرات پیش از مسابقه برای نمایان کردن سختی شدید عضلانی.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, 1 whole egg, dry toast", "meal_2": "8 oz lean beef, green salad", "meal_3": "8 oz chicken breast, steamed green beans", "meal_4": "Cottage cheese with water", "meal_5": "White fish, asparagus", "meal_6": "Protein powder with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Shoulders", "focus_fa": "سینه و سرشانه", "exercises": [ { "name": "Flat Bench Press", "sets": 5, "reps": "8-10", "rest_sec": 90 }, { "name": "Dumbbell Flyes", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Seated Overhead Press", "sets": 4, "reps": "8-10", "rest_sec": 75 } ] },
+      { "day": 2, "focus_en": "Arms (Biceps & Triceps)", "focus_fa": "بازو (جلوبازو و پشت‌بازو)", "exercises": [ { "name": "Preacher Curl (Scott Curl)", "sets": 6, "reps": "8-10", "rest_sec": 60 }, { "name": "Close-Grip Bench Press", "sets": 5, "reps": "8-10", "rest_sec": 75 }, { "name": "Triceps Pushdown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Back & Legs", "focus_fa": "پشت و پا", "exercises": [ { "name": "Barbell Squat", "sets": 5, "reps": "10", "rest_sec": 120 }, { "name": "Barbell Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 4, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 5, "focus_en": "Chest & Arms", "focus_fa": "سینه و بازو", "exercises": [ { "name": "Incline Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Barbell Bicep Curl", "sets": 5, "reps": "8", "rest_sec": 60 } ] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "sergio_oliva",
+    "name_en": "Sergio Oliva",
+    "name_fa": "سرجیو اولیوا",
+    "category": "male",
+    "title": "3x Mr. Olympia Champion",
+    "bio_en": "Sergio Oliva, nicknamed 'The Myth', was a Cuban-American professional bodybuilder. A 3-time Mr. Olympia winner, he was famous for his impossibly wide V-taper, tiny waist, and massive muscle mass that famously defeated Arnold Schwarzenegger.",
+    "bio_fa": "سرجیو اولیوا ملقب به «اسطوره»، بدنساز حرفه‌ای کوبایی-آمریکایی بود. او که ۳ بار قهرمان مستر المپیا شد، به خاطر فرم وی-شکل (V-taper) فوق‌العاده پهن، کمر بسیار باریک و حجم عظیم عضلانی‌اش که حتی آرنولد شوارتزنگر را شکست داد، مشهور بود.",
+    "off_season_routine_style": "High-Volume V-Taper Mass Split",
+    "contest_routine_style": "Pre-Contest High Intensity V-Taper Shock Routine",
+    "off_season_diet": {
+      "calories": 5200,
+      "protein_g": 420,
+      "carbs_g": 580,
+      "fats_g": 120,
+      "notes_en": "Massive calorie surplus fueling superhuman workouts with heavy beef, eggs, milk, and rice.",
+      "notes_fa": "مازاد کالری عظیم برای سوخت‌رسانی به تمرینات فراانسانی با گوشت گنم، تخم‌مرغ، شیر و برنج.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "6 eggs, whole milk, large bowl of oatmeal", "meal_2": "16 oz steak, baked potatoes", "meal_3": "12 oz chicken, 2 cups rice", "meal_4": "Cottage cheese with fruits and nuts", "meal_5": "12 oz fish, pasta, vegetables", "meal_6": "Whole milk protein shake" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3300,
+      "protein_g": 440,
+      "carbs_g": 220,
+      "fats_g": 55,
+      "notes_en": "Pre-contest cutting phase focusing on strict lean proteins and minimal carbs to accentuate his legendary waist-to-shoulder ratio.",
+      "notes_fa": "رژیم کات پیش از مسابقه متمرکز بر پروتئین‌های پاک و سخت و حداقل کربوهیدرات برای برجسته کردن نسبت افسانه‌ای کمر به سرشانه.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, dry toast", "meal_2": "10 oz chicken breast, green beans", "meal_3": "10 oz flank steak, small sweet potato", "meal_4": "White fish, asparagus", "meal_5": "Whey isolate shake", "meal_6": "Cottage cheese with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Back (Superset)", "focus_fa": "سینه و پشت (سوپرست)", "exercises": [ { "name": "Bench Press", "sets": 5, "reps": "10", "rest_sec": 75 }, { "name": "Wide-Grip Chin-Up", "sets": 5, "reps": "10", "rest_sec": 75 }, { "name": "Incline Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Row", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Military Press", "sets": 5, "reps": "10", "rest_sec": 75 }, { "name": "Barbell Curl", "sets": 5, "reps": "10", "rest_sec": 60 }, { "name": "Skull Crusher", "sets": 5, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Barbell Squat", "sets": 6, "reps": "10", "rest_sec": 120 }, { "name": "Leg Extension", "sets": 4, "reps": "15", "rest_sec": 60 }, { "name": "Leg Curl", "sets": 4, "reps": "15", "rest_sec": 60 } ] },
+      { "day": 4, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 5, "focus_en": "Chest & Back", "focus_fa": "سینه و پشت (دور دوم)", "exercises": [ { "name": "Dumbbell Flyes", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "T-Bar Row", "sets": 4, "reps": "10", "rest_sec": 75 } ] },
+      { "day": 6, "focus_en": "Arms & Shoulders", "focus_fa": "بازو و سرشانه (دور دوم)", "exercises": [ { "name": "Preacher Curl", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Triceps Pushdown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "chris_dickerson",
+    "name_en": "Chris Dickerson",
+    "name_fa": "کریس دیکرسون",
+    "category": "male",
+    "title": "Mr. Olympia Champion",
+    "bio_en": "Chester 'Chris' Dickerson was an American professional bodybuilder. In 1982, at age 43, he became the oldest bodybuilder at the time to win the Mr. Olympia title, renowned for his classic lines, flawless symmetry, and posing presentation.",
+    "bio_fa": "چستر «کریس» دیکرسون بدنساز حرفه‌ای آمریکایی بود. در سال ۱۹۸۲ و در سن ۴۳ سالگی، او مسن‌ترین بدنساز تاریخ تا آن زمان شد که عنوان مستر المپیا را کسب کرد و به خاطر خطوط کلاسیک، تقارن بی‌نقص و نحوه پوزگیری‌اش مشهور بود.",
+    "off_season_routine_style": "Classic Proportion & Symmetry Split",
+    "contest_routine_style": "High Definition Pre-Contest Posing Routine",
+    "off_season_diet": {
+      "calories": 4000,
+      "protein_g": 300,
+      "carbs_g": 450,
+      "fats_g": 90,
+      "notes_en": "Balanced clean nutrition to maintain muscular shape and conditioning year-round.",
+      "notes_fa": "تغذیه پاک و متوازن برای حفظ فرم عضلانی و آمادگی در تمام طول سال.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, oatmeal, fresh fruit", "meal_2": "Chicken breast salad with olive oil", "meal_3": "Steak, baked potato, vegetables", "meal_4": "Protein shake with milk", "meal_5": "Fish and brown rice", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2600,
+      "protein_g": 320,
+      "carbs_g": 140,
+      "fats_g": 45,
+      "notes_en": "Strict contest cutting diet ensuring razor-sharp stage conditioning.",
+      "notes_fa": "رژیم سخت کات پیش از مسابقه که آمادگی بسیار خشک روی صحنه را تضمین می‌کند.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 egg whites, dry toast", "meal_2": "6 oz turkey breast, green beans", "meal_3": "6 oz steak, small sweet potato", "meal_4": "White fish, asparagus", "meal_5": "Whey protein with water", "meal_6": "Cottage cheese with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Back", "focus_fa": "سینه و پشت", "exercises": [ { "name": "Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Overhead Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs & Abs", "focus_fa": "پا و شکم", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 4, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 5, "focus_en": "Upper Body Tone", "focus_fa": "بالاتنه تقویتی", "exercises": [ { "name": "Incline Press", "sets": 3, "reps": "12", "rest_sec": 60 }, { "name": "Seated Row", "sets": 3, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "samir_bannout",
+    "name_en": "Samir Bannout",
+    "name_fa": "سمیر بنوت",
+    "category": "male",
+    "title": "Mr. Olympia Champion",
+    "bio_en": "Samir Bannout, nicknamed 'The Lion of Lebanon', is a Lebanese former professional bodybuilder who won the Mr. Olympia title in 1983. He was celebrated for having one of the most aesthetically refined, symmetrical lower backs and conditioning profiles in history.",
+    "bio_fa": "سمیر بنوت ملقب به «شیر لبنان»، بدنساز حرفه‌ای سابق لبنانی است که در سال ۱۹۸۳ عنوان مستر المپیا را کسب کرد. او به خاطر داشتن یکی از زیباترین، متقارن‌ترین کمرهای پایین و پروفایل کات در تاریخ شناخته می‌شد.",
+    "off_season_routine_style": "Aesthetic Mass & Symmetry Split",
+    "contest_routine_style": "Pre-Contest Definition & Detail Routine",
+    "off_season_diet": {
+      "calories": 4400,
+      "protein_g": 350,
+      "carbs_g": 480,
+      "fats_g": 100,
+      "notes_en": "Clean off-season diet focusing on Mediterranean quality lean proteins, complex grains, and olive oils.",
+      "notes_fa": "رژیم پاک دوره استراحت متمرکز بر پروتئین‌های باکیفیت مدیترانه‌ای، غلات پیچیده و روغن زیتون.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, 1 whole egg, oatmeal, dates", "meal_2": "10 oz grilled chicken, brown rice, tomatoes", "meal_3": "10 oz lamb or steak, baked potato, salad", "meal_4": "Whey protein shake with milk and nuts", "meal_5": "10 oz fish, quinoa, steamed vegetables", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2900,
+      "protein_g": 380,
+      "carbs_g": 160,
+      "fats_g": 50,
+      "notes_en": "Contest preparation diet tailored to achieve the iconic 'Christmas tree' lower back separation.",
+      "notes_fa": "رژیم آمادگی مسابقه سفارشی‌سازی شده برای دستیابی به جداشدگی معروف «درخت کریسمس» در کمر پایین.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, dry toast", "meal_2": "8 oz chicken breast, green beans", "meal_3": "8 oz lean steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate shake with water", "meal_6": "Cottage cheese with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Triceps", "focus_fa": "سینه و پشت‌بازو", "exercises": [ { "name": "Incline Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Flat Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Triceps Pushdown", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Back & Biceps", "focus_fa": "پشت و جلوبازو", "exercises": [ { "name": "Barbell Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 4, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Lateral Raise", "sets": 4, "reps": "12", "rest_sec": 45 }, { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "lee_labrada",
+    "name_en": "Lee Labrada",
+    "name_fa": "لی لابراڈا",
+    "category": "male",
+    "title": "IFBB Hall of Famer & Olympia Runner-Up",
+    "bio_en": "Lee Labrada is an American former professional bodybuilder known as 'The One', famous for his incredible symmetry, proportion, and consistently placing in the top ranks of the Mr. Olympia throughout the late 1980s and early 1990s.",
+    "bio_fa": "لی لابراڈا بدنساز حرفه‌ای سابق آمریکایی ملقب به «شماره یک» است که به خاطر تقارن باورنکردنی، تناسب و کسب مداوم رتبه‌های برتر مستر المپیا در اواخر دهه ۸۰ و اوایل دهه ۹۰ میلادی شناخته می‌شود.",
+    "off_season_routine_style": "Proportional Hypertrophy & Symmetry",
+    "contest_routine_style": "Pre-Contest High Conditioning Split",
+    "off_season_diet": {
+      "calories": 4200,
+      "protein_g": 340,
+      "carbs_g": 460,
+      "fats_g": 90,
+      "notes_en": "High quality lean protein and complex starch mass building diet.",
+      "notes_fa": "رژیم ساخت حجم با پروتئین پاک باکیفیت بالا و نشاسته‌های پیچیده.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, brown rice, broccoli", "meal_3": "Lean steak, baked potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2700,
+      "protein_g": 360,
+      "carbs_g": 150,
+      "fats_g": 45,
+      "notes_en": "Contest prep diet designed to maintain sharp muscle separation and razor conditioning.",
+      "notes_fa": "رژیم آماده‌سازی مسابقه طراحی شده برای حفظ جداسازی عضلانی تیز و آمادگی برنده.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, dry toast", "meal_2": "6 oz chicken breast, green beans", "meal_3": "6 oz flank steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Triceps", "focus_fa": "سینه و پشت‌بازو", "exercises": [ { "name": "Incline Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Flat Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Triceps Pushdown", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Back & Biceps", "focus_fa": "پشت و جلوبازو", "exercises": [ { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Seated Cable Row", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 4, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Lateral Raise", "sets": 4, "reps": "12", "rest_sec": 45 }, { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "shawn_ray",
+    "name_en": "Shawn Ray",
+    "name_fa": "شان ری",
+    "category": "male",
+    "title": "IFBB Hall of Famer & Olympia Top Contender",
+    "bio_en": "Shawn Ray is an American former professional bodybuilder. He placed in the top five at the Mr. Olympia contest 12 consecutive times between 1988 and 2001, celebrated for having one of the most symmetrical, flawless, and balanced physiques in the history of the sport.",
+    "bio_fa": "شان ری بدنساز حرفه‌ای سابق آمریکایی است. او بین سال‌های ۱۹۸۸ تا ۲۰۰۱ در ۱۲ مسابقه متوالی مستر المپیا در جمع پنج نفر برتر قرار گرفت و به خاطر داشتن یکی از متقارن‌ترین، بی‌نقص‌ترین و متوازن‌ترین فیزیک‌های تاریخ بدنسازی تجلیل شد.",
+    "off_season_routine_style": "Balanced Symmetry & Proportion Split",
+    "contest_routine_style": "Pre-Contest Symmetry & Definition Routine",
+    "off_season_diet": {
+      "calories": 4300,
+      "protein_g": 350,
+      "carbs_g": 470,
+      "fats_g": 95,
+      "notes_en": "Clean off-season mass building diet emphasizing high-grade protein and complex carbohydrates.",
+      "notes_fa": "رژیم پاک حجم دوره استراحت با تأکید بر پروتئین درجه یک و کربوهیدرات‌های پیچیده.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, brown rice, vegetables", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2750,
+      "protein_g": 370,
+      "carbs_g": 150,
+      "fats_g": 45,
+      "notes_en": "Strict pre-contest cutting diet for pristine conditioning and muscle separation.",
+      "notes_fa": "رژیم سخت کات پیش از مسابقه برای آمادگی بی‌نقص و تفکیک عضلانی.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, dry toast", "meal_2": "6 oz chicken breast, green beans", "meal_3": "6 oz steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Triceps", "focus_fa": "سینه و پشت‌بازو", "exercises": [ { "name": "Incline Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Flat Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Triceps Pushdown", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Back & Biceps", "focus_fa": "پشت و جلوبازو", "exercises": [ { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Seated Cable Row", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 4, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Lateral Raise", "sets": 4, "reps": "12", "rest_sec": 45 }, { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "kevin_levrone",
+    "name_en": "Kevin Levrone",
+    "name_fa": "کوین لورون",
+    "category": "male",
+    "title": "IFBB Hall of Famer & Multi-Time Olympia Runner-Up",
+    "bio_en": "Kevin Mark Levrone is an American former professional bodybuilder, IFBB Hall of Famer, and musician. Known as 'The Maryland Muscle Machine', he is regarded as one of the most talented bodybuilders to ever grace the Mr. Olympia stage, famous for his ability to pack on muscle mass rapidly.",
+    "bio_fa": "کوین مارک لورون بدنساز حرفه‌ای سابق آمریکایی، عضو تالار مشاهیر IFBB و موزیسین است. او که ملقب به «ماشین عضلانی مریلند» است، به عنوان یکی از بااستعدادترین بدنسازان تاریخ مستر المپیا شناخته می‌شود که به خاطر توانایی سریع در ساخت توده عضلانی معروف است.",
+    "off_season_routine_style": "Rapid Mass Hypertrophy Split",
+    "contest_routine_style": "Pre-Contest High Intensity Shock Routine",
+    "off_season_diet": {
+      "calories": 5000,
+      "protein_g": 400,
+      "carbs_g": 600,
+      "fats_g": 110,
+      "notes_en": "High calorie off-season diet utilizing heavy proteins and massive carbohydrates to support rapid muscle growth.",
+      "notes_fa": "رژیم پرکالری دوره استراحت با استفاده از پروتئین‌های سنگین و کربوهیدرات‌های عظیم برای حمایت از رشد سریع عضلات.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "6 egg whites, oatmeal, whole milk", "meal_2": "12 oz chicken, 2 cups rice", "meal_3": "14 oz steak, baked potatoes", "meal_4": "Whey protein with peanut butter", "meal_5": "12 oz fish, quinoa, vegetables", "meal_6": "Casein shake" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3200,
+      "protein_g": 420,
+      "carbs_g": 220,
+      "fats_g": 50,
+      "notes_en": "Contest cutting diet designed for extreme definition and dryness while preserving massive shoulder and arm size.",
+      "notes_fa": "رژیم کات مسابقه طراحی شده برای تفکیک شدید و خشکی ضمن حفظ حجم عظیم سرشانه و بازو.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, dry toast", "meal_2": "10 oz chicken breast, green beans", "meal_3": "10 oz steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Shoulders", "focus_fa": "سینه و سرشانه", "exercises": [ { "name": "Bench Press", "sets": 4, "reps": "8-10", "rest_sec": 90 }, { "name": "Incline Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Military Press", "sets": 4, "reps": "8-10", "rest_sec": 75 } ] },
+      { "day": 2, "focus_en": "Back", "focus_fa": "پشت", "exercises": [ { "name": "Barbell Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 120 }, { "name": "Leg Press", "sets": 4, "reps": "12", "rest_sec": 90 } ] },
+      { "day": 4, "focus_en": "Arms", "focus_fa": "بازو", "exercises": [ { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Skull Crusher", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "chris_cormier",
+    "name_en": "Chris Cormier",
+    "name_fa": "کریس کورمیر",
+    "category": "male",
+    "title": "IFBB Pro & Multi-Time Olympia Contender",
+    "bio_en": "Chris Cormier, nicknamed 'The Real Deal', is an American professional bodybuilder who achieved numerous victories and top placings at the Arnold Classic and Mr. Olympia contests during the 1990s and 2000s.",
+    "bio_fa": "کریس کورمیر ملقب به «معامله واقعی»، بدنساز حرفه‌ای آمریکایی است که در طول دهه‌های ۹۰ و ۲۰۰۰ پیروزی‌ها و رتبه‌های برتر متعددی را در مسابقات آرنولد کلاسیک و مستر المپیا کسب کرد.",
+    "off_season_routine_style": "Mass Hypertrophy Split with Cardio",
+    "contest_routine_style": "Pre-Contest High Definition Conditioning",
+    "off_season_diet": {
+      "calories": 4900,
+      "protein_g": 390,
+      "carbs_g": 580,
+      "fats_g": 110,
+      "notes_en": "High calorie mass building nutrition focusing on heavy lean proteins and clean starches.",
+      "notes_fa": "تغذیه ساخت حجم پرکالری متمرکز بر پروتئین‌های سنگین و نشاسته‌های پاک.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "6 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, rice, broccoli", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein with milk", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3100,
+      "protein_g": 410,
+      "carbs_g": 200,
+      "fats_g": 50,
+      "notes_en": "Contest cutting diet designed for elite stage conditioning.",
+      "notes_fa": "رژیم کات مسابقه طراحی شده برای آمادگی سطح بالای روی صحنه.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, dry toast", "meal_2": "10 oz chicken breast, green beans", "meal_3": "10 oz steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Abs", "focus_fa": "سینه و شکم", "exercises": [ { "name": "Incline Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Flat Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Back", "focus_fa": "پشت", "exercises": [ { "name": "Barbell Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 120 }, { "name": "Leg Press", "sets": 4, "reps": "12", "rest_sec": 90 } ] },
+      { "day": 4, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Military Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "flex_wheeler",
+    "name_en": "Flex Wheeler",
+    "name_fa": "فلکس ویلر",
+    "category": "male",
+    "title": "Arnold Classic Champion & Olympia Legend",
+    "bio_en": "Kenneth 'Flex' Wheeler is an American former professional bodybuilder. Regarded by Arnold Schwarzenegger as one of the greatest bodybuilders he had ever seen, Wheeler won the Arnold Classic four times and was a dominant force on the Mr. Olympia stage.",
+    "bio_fa": "کنت «فلکس» ویلر بدنساز حرفه‌ای سابق آمریکایی است. او که توسط آرنولد شوارتزنگر به عنوان یکی از بزرگترین بدنسازانی که تا به حال دیده است شناخته می‌شود، چهار بار قهرمان آرنولد کلاسیک شد و نیرویی مسلط در صحنه مستر المپیا بود.",
+    "off_season_routine_style": "Aesthetic Mass & Proportion Split",
+    "contest_routine_style": "Pre-Contest Symmetry & Conditioning",
+    "off_season_diet": {
+      "calories": 4600,
+      "protein_g": 360,
+      "carbs_g": 520,
+      "fats_g": 100,
+      "notes_en": "Clean off-season mass building diet emphasizing proportion, line retention, and muscle fullness.",
+      "notes_fa": "رژیم پاک حجم دوره استراحت با تأکید بر تناسب، حفظ خطوط و پری عضلانی.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, brown rice, broccoli", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2850,
+      "protein_g": 380,
+      "carbs_g": 160,
+      "fats_g": 45,
+      "notes_en": "Contest cutting diet tailored for razor-sharp aesthetics and dry conditioning.",
+      "notes_fa": "رژیم کات مسابقه سفارشی‌سازی شده برای زیبایی‌شناسی تیز و آمادگی خشک.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, dry toast", "meal_2": "6 oz chicken breast, green beans", "meal_3": "6 oz steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Triceps", "focus_fa": "سینه و پشت‌بازو", "exercises": [ { "name": "Incline Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Flat Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Triceps Pushdown", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Back & Biceps", "focus_fa": "پشت و جلوبازو", "exercises": [ { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Seated Cable Row", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 4, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Lateral Raise", "sets": 4, "reps": "12", "rest_sec": 45 }, { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "dexter_jackson",
+    "name_en": "Dexter Jackson",
+    "name_fa": "دکستر جکسون",
+    "category": "male",
+    "title": "Mr. Olympia & Arnold Classic Champ",
+    "bio_en": "Dexter Jackson, nicknamed 'The Blade', is an American retired professional bodybuilder. He won the Mr. Olympia title in 2008 and holds the record for the most professional wins in bodybuilding history, famous for his incredible conditioning and longevity.",
+    "bio_fa": "دکستر جکسون ملقب به «تیغ»، بدنساز حرفه‌ای بازنشسته آمریکایی است. او عنوان مستر المپیا را در سال ۲۰۰۸ کسب کرد و رکورددار بیشترین پیروزی‌های حرفه‌ای در تاریخ بدنسازی است که به خاطر آمادگی شگفت‌انگیز و طول عمر ورزشی‌اش مشهور است.",
+    "off_season_routine_style": "High Frequency Conditioning with Abs",
+    "contest_routine_style": "Pre-Contest High Density Conditioning Split",
+    "off_season_diet": {
+      "calories": 4500,
+      "protein_g": 380,
+      "carbs_g": 500,
+      "fats_g": 90,
+      "notes_en": "Clean mass building nutrition maintaining exceptional year-round conditioning.",
+      "notes_fa": "تغذیه پاک ساخت حجم با حفظ آمادگی استثنایی در تمام طول سال.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, brown rice, broccoli", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2800,
+      "protein_g": 400,
+      "carbs_g": 150,
+      "fats_g": 45,
+      "notes_en": "Contest prep diet designed for razor-sharp conditioning and stage dryness.",
+      "notes_fa": "رژیم آماده‌سازی مسابقه طراحی شده برای آمادگی بسیار تیز و خشکی روی صحنه.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, dry toast", "meal_2": "6 oz chicken breast, green beans", "meal_3": "6 oz flank steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Quads & Abs", "focus_fa": "چهارسر پا و شکم", "exercises": [ { "name": "Leg Extension", "sets": 4, "reps": "15", "rest_sec": 60 }, { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Abdominal Crunch", "sets": 4, "reps": "25", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Chest", "focus_fa": "سینه", "exercises": [ { "name": "Incline Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Flat Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 } ] },
+      { "day": 3, "focus_en": "Back", "focus_fa": "پشت", "exercises": [ { "name": "Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Seated Cable Row", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 4, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Lateral Raise", "sets": 4, "reps": "12", "rest_sec": 45 }, { "name": "Hanging Leg Raise", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Arms", "focus_fa": "بازو", "exercises": [ { "name": "Curl & Extension Superset", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 6, "focus_en": "Hamstrings", "focus_fa": "پشت پا", "exercises": [ { "name": "Lying Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "brandon_curry",
+    "name_en": "Brandon Curry",
+    "name_fa": "برندان کوری",
+    "category": "male",
+    "title": "Mr. Olympia Champion",
+    "bio_en": "Brandon Curry is an American professional bodybuilder and the 2019 Mr. Olympia champion. Known for his classic lines blended with modern mass, he is one of the premier elite champions of the contemporary era.",
+    "bio_fa": "برندان کوری بدنساز حرفه‌ای آمریکایی و قهرمان مستر المپیا در سال ۲۰۱۹ است. او که به خاطر ترکیب خطوط کلاسیک با حجم مدرن شناخته می‌شود، یکی از برترین قهرمانان نخبه عصر معاصر است.",
+    "off_season_routine_style": "Modern Mass Hypertrophy with Cardio",
+    "contest_routine_style": "Pre-Contest High Density Hypertrophy",
+    "off_season_diet": {
+      "calories": 5300,
+      "protein_g": 430,
+      "carbs_g": 620,
+      "fats_g": 115,
+      "notes_en": "High-calorie modern bulking diet utilizing clean proteins, complex carbs, and healthy fats.",
+      "notes_fa": "رژیم حجیم‌سازی مدرن پرکالری با استفاده از پروتئین‌های پاک، کربوهیدرات‌های پیچیده و چربی‌های سالم.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "6 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, jasmine rice, broccoli", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Casein protein" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3500,
+      "protein_g": 460,
+      "carbs_g": 240,
+      "fats_g": 55,
+      "notes_en": "Contest preparation diet engineered to peel body fat while retaining full muscle volume.",
+      "notes_fa": "رژیم آمادگی مسابقه مهندسی شده برای حذف چربی بدن ضمن حفظ حجم کامل عضلات.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, dry toast", "meal_2": "8 oz chicken breast, green beans", "meal_3": "8 oz flank steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Abs", "focus_fa": "سینه و شکم", "exercises": [ { "name": "Incline Bench", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Dumbbell Fly", "sets": 3, "reps": "12", "rest_sec": 60 }, { "name": "Cable Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Back", "focus_fa": "پشت", "exercises": [ { "name": "Barbell Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 75 } ] },
+      { "day": 3, "focus_en": "Legs & Cardio", "focus_fa": "پا و هوازی", "exercises": [ { "name": "Leg Press", "sets": 4, "reps": "12", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Treadmill Walk", "sets": 1, "reps": "20 mins", "rest_sec": 0 } ] },
+      { "day": 4, "focus_en": "Shoulders", "focus_fa": "سرشانه", "exercises": [ { "name": "Lateral Raise", "sets": 5, "reps": "12", "rest_sec": 60 }, { "name": "Overhead Press", "sets": 4, "reps": "10", "rest_sec": 90 } ] },
+      { "day": 5, "focus_en": "Arms", "focus_fa": "بازو", "exercises": [ { "name": "Preacher Curl", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Triceps Pushdown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "hadi_choopan",
+    "name_en": "Hadi Choopan",
+    "name_fa": "هادی چوپان (گرگ ایرانی)",
+    "category": "male",
+    "title": "Mr. Olympia Champion",
+    "bio_en": "Hadi Choopan, nicknamed 'The Persian Wolf', is an Iranian professional bodybuilder and the 2022 Mr. Olympia champion. Renowned for his ironclad conditioning, dense muscularity, and incredible work ethic, he is a national hero and global bodybuilding icon.",
+    "bio_fa": "هادی چوپان ملقب به «گرگ ایرانی»، بدنساز حرفه‌ای ایرانی و قهرمان مستر المپیا در سال ۲۰۲۲ است. او که به خاطر آمادگی بدنی پولادین، حجم متراکم و اخلاق کاری باورنکردنی‌اش شناخته می‌شود، یک قهرمان ملی و نماد جهانی بدنسازی است.",
+    "off_season_routine_style": "Extreme Intensity & Density with Abs & Cardio",
+    "contest_routine_style": "Pre-Contest High Intensity Fat-Stripping & Cardio",
+    "off_season_diet": {
+      "calories": 5200,
+      "protein_g": 450,
+      "carbs_g": 580,
+      "fats_g": 110,
+      "notes_en": "High-protein, high-carb mass building diet utilizing clean Iranian rice, chicken, beef, and nuts.",
+      "notes_fa": "رژیم ساخت حجم با پروتئین و کربوهیدرات بالا با استفاده از برنج مرغوب ایرانی، مرغ، گوشت قرمز و مغزها.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "6 egg whites, 2 whole eggs, oatmeal, walnuts", "meal_2": "12 oz chicken breast, 2 cups basmati rice, vegetables", "meal_3": "12 oz lean beef, sweet potatoes, salad", "meal_4": "Whey isolate shake with glutamine and milk", "meal_5": "12 oz white fish, quinoa, asparagus", "meal_6": "Casein protein with almond butter" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3400,
+      "protein_g": 480,
+      "carbs_g": 220,
+      "fats_g": 45,
+      "notes_en": "Rigorous pre-contest cutting protocol emphasizing low glycemic carbs, lean meats, and exhaustive cardio to attain legendary conditioning.",
+      "notes_fa": "پروتکل سخت‌گیرانه کات پیش از مسابقه با تأکید بر کربوهیدرات‌های با گلیسمی پایین، گوشت‌های کم‌چرب و هوازی طاقت‌فرسا برای دستیابی به آمادگی افسانه‌ای.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, dry toast", "meal_2": "10 oz chicken breast, 1 cup basmati rice", "meal_3": "10 oz flank steak, green beans", "meal_4": "White fish, asparagus", "meal_5": "Whey protein isolate with water", "meal_6": "Egg white omelet with spinach" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Triceps & Abs", "focus_fa": "سینه، پشت‌بازو و شکم", "exercises": [ { "name": "Incline Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Bench Press", "sets": 4, "reps": "8", "rest_sec": 90 }, { "name": "Triceps Extension", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Hanging Leg Raise", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Back & Biceps", "focus_fa": "پشت و جلوبازو", "exercises": [ { "name": "Deadlift", "sets": 4, "reps": "8", "rest_sec": 120 }, { "name": "T-Bar Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs & Cardio", "focus_fa": "پای سنگین و هوازی", "exercises": [ { "name": "Squat", "sets": 5, "reps": "8-10", "rest_sec": 120 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Stairmaster Cardio", "sets": 1, "reps": "20 mins", "rest_sec": 0 } ] },
+      { "day": 4, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Military Press", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Lateral Raise", "sets": 5, "reps": "15", "rest_sec": 45 }, { "name": "Crunches", "sets": 4, "reps": "25", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Back & Hamstrings", "focus_fa": "پشت و پشت‌پا", "exercises": [ { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Lying Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 6, "focus_en": "Arms & Calves", "focus_fa": "بازو و ساق", "exercises": [ { "name": "Dumbbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Calf Raise", "sets": 4, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت و ریکاوری", "exercises": [] }
+    ]
+  },
+  {
+    "id": "dereklunsford",
+    "name_en": "Derek Lunsford",
+    "name_fa": "درک لانسفورد",
+    "category": "male",
+    "title": "Mr. Olympia Champion",
+    "bio_en": "Derek Lunsford is an American professional bodybuilder and the 2023 Mr. Olympia champion. Having previously won the Olympia 212 division, he made history by transitioning to the Open division and capturing the Sandow trophy.",
+    "bio_fa": "درک لانسفورد بدنساز حرفه‌ای آمریکایی و قهرمان مستر المپیا در سال ۲۰۲۳ است. او که پیش‌تر قهرمان دسته ۲۱۲ پوند المپیا شده بود، با انتقال به دسته آزاد (Open) و تصاحب تندیس ساندو تاریخ‌ساز شد.",
+    "off_season_routine_style": "Open Class Mass & Back Hypertrophy Split",
+    "contest_routine_style": "Pre-Contest Open Class Shredding & Conditioning",
+    "off_season_diet": {
+      "calories": 5400,
+      "protein_g": 440,
+      "carbs_g": 630,
+      "fats_g": 120,
+      "notes_en": "High-calorie mass bulking diet tailored to support Open bodybuilding growth.",
+      "notes_fa": "رژیم حجیم‌سازی پرکالری متناسب با حمایت از رشد بدنسازی دسته آزاد.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "6 egg whites, 2 whole eggs, oatmeal, berries", "meal_2": "12 oz chicken, 2 cups rice, avocado", "meal_3": "12 oz steak, sweet potatoes, salad", "meal_4": "Whey protein with peanut butter", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Casein shake" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3600,
+      "protein_g": 470,
+      "carbs_g": 250,
+      "fats_g": 55,
+      "notes_en": "Pre-contest cutting diet for extreme back density and skin-thin conditioning.",
+      "notes_fa": "رژیم کات پیش از مسابقه برای چگالی شدید پشت و آمادگی پوست‌نازک.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, dry toast", "meal_2": "10 oz chicken breast, green beans", "meal_3": "10 oz flank steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Back & Biceps", "focus_fa": "پشت و جلوبازو", "exercises": [ { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Barbell Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Chest & Triceps", "focus_fa": "سینه و پشت‌بازو", "exercises": [ { "name": "Incline Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Flat Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Triceps Pushdown", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 5, "reps": "10", "rest_sec": 120 }, { "name": "Leg Press", "sets": 4, "reps": "12", "rest_sec": 90 } ] },
+      { "day": 4, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Military Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Lateral Raise", "sets": 5, "reps": "12", "rest_sec": 45 }, { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Back & Hamstrings", "focus_fa": "پشت و پشت‌پا", "exercises": [ { "name": "Seated Row", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Lying Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 6, "focus_en": "Arms & Calves", "focus_fa": "بازو و ساق", "exercises": [ { "name": "Dumbbell Curl", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Calf Raise", "sets": 4, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "samson_dauda",
+    "name_en": "Samson Dauda",
+    "name_fa": "سامسون داودا",
+    "category": "male",
+    "title": "Mr. Olympia Champion",
+    "bio_en": "Samson Dauda, nicknamed 'The Nigerian Lion', is a Nigerian-British professional bodybuilder and the Mr. Olympia champion. Known for his incredible height, massive frame, and aesthetic flow, he is one of the dominant modern kings of the sport.",
+    "bio_fa": "سامسون داودا ملقب به «شیر نیجریه»، بدنساز حرفه‌ای نیجریه‌ای-بریتانیایی و قهرمان مستر المپیا است. او که به خاطر قد بلند، چارچوب عظیم و جریان زیبایی‌شناختی‌اش شناخته می‌شود، یکی از پادشاهان مدرن و مسلط این ورزش است.",
+    "off_season_routine_style": "Massive Frame Hypertrophy Split",
+    "contest_routine_style": "Pre-Contest High Mass Conditioning",
+    "off_season_diet": {
+      "calories": 5600,
+      "protein_g": 460,
+      "carbs_g": 650,
+      "fats_g": 125,
+      "notes_en": "Very high calorie bulking diet supporting his giant frame with clean, nutrient-dense foods.",
+      "notes_fa": "رژیم حجیم‌سازی با کالری بسیار بالا که از چارچوب غول‌پیکر او با غذاهای پاک و غنی از مواد مغذی پشتیبانی می‌کند.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "6 egg whites, 2 whole eggs, large oatmeal bowl, fruit", "meal_2": "14 oz chicken breast, 2.5 cups rice, vegetables", "meal_3": "14 oz steak, sweet potatoes, avocado", "meal_4": "Whey protein with peanut butter", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Casein protein shake" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 3700,
+      "protein_g": 480,
+      "carbs_g": 260,
+      "fats_g": 60,
+      "notes_en": "Contest preparation diet engineered to bring razor sharpness while retaining massive muscle fullness.",
+      "notes_fa": "رژیم آمادگی مسابقه مهندسی شده برای ایجاد تیزی و برندگی ضمن حفظ پری کامل عضلانی.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, dry toast", "meal_2": "10 oz chicken breast, 1 cup rice", "meal_3": "10 oz flank steak, green beans", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Chest & Triceps", "focus_fa": "سینه و پشت‌بازو", "exercises": [ { "name": "Incline Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Flat Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Triceps Pushdown", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Back & Biceps", "focus_fa": "پشت و جلوبازو", "exercises": [ { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Barbell Row", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 5, "reps": "10", "rest_sec": 120 }, { "name": "Leg Press", "sets": 4, "reps": "12", "rest_sec": 90 } ] },
+      { "day": 4, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Military Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Lateral Raise", "sets": 5, "reps": "12", "rest_sec": 45 }, { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Back & Hamstrings", "focus_fa": "پشت و پشت‌پا", "exercises": [ { "name": "Seated Row", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Lying Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 6, "focus_en": "Arms & Calves", "focus_fa": "بازو و ساق", "exercises": [ { "name": "Dumbbell Curl", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Calf Raise", "sets": 4, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "rachel_mclish",
+    "name_en": "Rachel McLish",
+    "name_fa": "راشل مک‌لیش",
+    "category": "female",
+    "title": "2x Ms. Olympia Champion (First Ever)",
+    "bio_en": "Rachel McLish is an American former professional bodybuilder, actress, and author. She became the very first Ms. Olympia champion in 1980 and won it again in 1982, playing a monumental role in popularizing women's bodybuilding globally.",
+    "bio_fa": "راشل مک‌لیش بدنساز حرفه‌ای سابق، بازیگر و نویسنده آمریکایی است. او در سال ۱۹۸۰ به عنوان اولین قهرمان تاریخ مسابقات مستر المپیا زنان شناخته شد و دوباره در سال ۱۹۸۲ آن را فتح کرد و نقش مهمی در محبوبیت جهانی بدنسازی زنان ایفا نمود.",
+    "off_season_routine_style": "Aesthetic Tone & Shape Split with Core",
+    "contest_routine_style": "Pre-Contest Definition & Fitness Conditioning",
+    "off_season_diet": {
+      "calories": 2600,
+      "protein_g": 180,
+      "carbs_g": 250,
+      "fats_g": 60,
+      "notes_en": "Clean balanced off-season nutrition focusing on lean protein, fresh fruits, vegetables, and complex carbohydrates.",
+      "notes_fa": "تغذیه پاک و متوازن دوره استراحت متمرکز بر پروتئین پاک، میوه‌های تازه، سبزیجات و کربوهیدرات‌های پیچیده.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 egg whites, oatmeal, fruit", "meal_2": "Grilled chicken breast, brown rice, salad", "meal_3": "Lean fish or turkey, sweet potato, vegetables", "meal_4": "Protein shake with skim milk", "meal_5": "Cottage cheese with pineapple" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 1800,
+      "protein_g": 200,
+      "carbs_g": 100,
+      "fats_g": 35,
+      "notes_en": "Contest preparation diet engineered for feminine muscle tone, tightness, and clean athletic conditioning.",
+      "notes_fa": "رژیم آماده‌سازی مسابقه مهندسی شده برای عضلات زنانه خوش‌تراش، سفتی و آمادگی ورزشی پاک.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 egg whites, dry toast", "meal_2": "4 oz chicken breast, green salad", "meal_3": "4 oz white fish, steamed zucchini", "meal_4": "Protein isolate with water", "meal_5": "Cottage cheese with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Upper Body Tone", "focus_fa": "بالاتنه تقویتی", "exercises": [ { "name": "Dumbbell Press", "sets": 3, "reps": "12", "rest_sec": 60 }, { "name": "Lat Pulldown", "sets": 3, "reps": "12", "rest_sec": 60 }, { "name": "Crunches", "sets": 3, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Lower Body Tone", "focus_fa": "پایین‌تنه تقویتی", "exercises": [ { "name": "Squat", "sets": 3, "reps": "12", "rest_sec": 75 }, { "name": "Leg Curl", "sets": 3, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Shoulders & Abs", "focus_fa": "سرشانه و شکم", "exercises": [ { "name": "Lateral Raise", "sets": 3, "reps": "15", "rest_sec": 45 }, { "name": "Leg Raise", "sets": 3, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 4, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 5, "focus_en": "Full Body Tone", "focus_fa": "کل بدن تقویتی", "exercises": [ { "name": "Push-Ups", "sets": 3, "reps": "15", "rest_sec": 60 }, { "name": "Dumbbell Curl", "sets": 3, "reps": "12", "rest_sec": 45 } ] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "cory_everson",
+    "name_en": "Cory Everson",
+    "name_fa": "کوری اورسون",
+    "category": "female",
+    "title": "6x Ms. Olympia Champion",
+    "bio_en": "Cornelia 'Cory' Everson is an American former professional bodybuilder and actress. She dominated women's bodybuilding by winning the Ms. Olympia title six consecutive times from 1984 to 1989, renowned for her unrivaled athleticism and muscular symmetry.",
+    "bio_fa": "کورنلیا «کوری» اورسون بدنساز حرفه‌ای سابق و بازیگر آمریکایی است. او با کسب عنوان مستر المپیا زنان به مدت شش سال متوالی از سال ۱۹۸۴ تا ۱۹۸۹ بر بدنسازی زنان تسلط داشت و به خاطر ورزشکاری بی‌نظیر و تقارن عضلانی‌اش مشهور بود.",
+    "off_season_routine_style": "Athletic Hypertrophy & Shape Split",
+    "contest_routine_style": "Pre-Contest High Intensity Athletic Conditioning",
+    "off_season_diet": {
+      "calories": 3200,
+      "protein_g": 240,
+      "carbs_g": 350,
+      "fats_g": 70,
+      "notes_en": "High energy athletic nutrition maintaining stellar off-season muscle tone and strength.",
+      "notes_fa": "تغذیه ورزشی پرانرژی که حفظ تون عضلانی و قدرت عالی در دوره استراحت را تضمین می‌کند.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, 1 whole egg, oatmeal, fruit", "meal_2": "Chicken breast, brown rice, vegetables", "meal_3": "Lean steak, baked potato, salad", "meal_4": "Protein shake with milk", "meal_5": "Fish, quinoa, asparagus", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2100,
+      "protein_g": 260,
+      "carbs_g": 130,
+      "fats_g": 40,
+      "notes_en": "Contest prep diet designed for pristine stage conditioning and muscle definition.",
+      "notes_fa": "رژیم آماده‌سازی مسابقه طراحی شده برای آمادگی بی‌نقص روی صحنه و تفکیک عضلانی.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 egg whites, dry toast", "meal_2": "6 oz chicken breast, green beans", "meal_3": "6 oz flank steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Quads & Calves", "focus_fa": "چهارسر و ساق", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Calf Raise", "sets": 4, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Chest & Back", "focus_fa": "سینه و پشت", "exercises": [ { "name": "Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Shoulder Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Bicep Curl", "sets": 3, "reps": "12", "rest_sec": 45 } ] },
+      { "day": 4, "focus_en": "Hamstrings & Abs", "focus_fa": "پشت‌پا و شکم", "exercises": [ { "name": "Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "lenda_murray",
+    "name_en": "Lenda Murray",
+    "name_fa": "لندا موری",
+    "category": "female",
+    "title": "8x Ms. Olympia Champion",
+    "bio_en": "Lenda Murray is an American professional bodybuilder widely regarded as one of the greatest female bodybuilders of all time. She won the Ms. Olympia title eight times (matching Lee Haney and Ronnie Coleman's record in the female division), dominating the 1990s.",
+    "bio_fa": "لندا موری بدنساز حرفه‌ای آمریکایی است که به طور گسترده به عنوان یکی از بزرگترین بدنسازان زن تمام دوران در نظر گرفته می‌شود. او هشت بار عنوان مستر المپیا زنان را کسب کرد (که با رکورد لی هینی و رونی کلمن در بخش زنان برابری می‌کند) و بر دهه ۱۹۹۰ تسلط داشت.",
+    "off_season_routine_style": "Classic Symmetry & Shape with Core",
+    "contest_routine_style": "Pre-Contest Heavy Hypertrophy Conditioning",
+    "off_season_diet": {
+      "calories": 3600,
+      "protein_g": 280,
+      "carbs_g": 400,
+      "fats_g": 80,
+      "notes_en": "Off-season mass building diet emphasizing clean proteins, complex grains, and vegetables.",
+      "notes_fa": "رژیم ساخت حجم دوره استراحت با تأکید بر پروتئین‌های پاک، غلات پیچیده و سبزیجات.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, brown rice, broccoli", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2300,
+      "protein_g": 300,
+      "carbs_g": 140,
+      "fats_g": 45,
+      "notes_en": "Contest preparation diet engineered for maximum muscle fullness and extreme definition.",
+      "notes_fa": "رژیم آماده‌سازی مسابقه مهندسی شده برای حداکثر پری عضلانی و تفکیک شدید.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, dry toast", "meal_2": "6 oz chicken breast, green beans", "meal_3": "6 oz flank steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Quads & Calves & Abs", "focus_fa": "چهارسر، ساق و شکم", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Press", "sets": 4, "reps": "12", "rest_sec": 75 }, { "name": "Ab Crunches", "sets": 4, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Back & Chest", "focus_fa": "پشت و سینه", "exercises": [ { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 } ] },
+      { "day": 3, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Dumbbell Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Bicep Curl", "sets": 3, "reps": "12", "rest_sec": 45 } ] },
+      { "day": 4, "focus_en": "Hamstrings", "focus_fa": "پشت‌پا", "exercises": [ { "name": "Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "bev_francis",
+    "name_en": "Bev Francis",
+    "name_fa": "بِو فرانسیس",
+    "category": "female",
+    "title": "Pioneering Powerlifter & Olympia Contender",
+    "bio_en": "Beverley Francis is an Australian former professional bodybuilder, powerlifter, and national powerlifting champion. She is widely considered a pioneer of women's bodybuilding who brought unprecedented muscular mass and strength to the Olympia stage.",
+    "bio_fa": "بِوِرلِی فرانسیس بدنساز حرفه‌ای سابق، پاورلیفتر و قهرمان ملی پاورلیفتیینگ استرالیایی است. او به طور گسترده به عنوان پیشگام بدنسازی زنان در نظر گرفته می‌شود که حجم و قدرت عضلانی بی‌سابقه را به صحنه مستر المپیا آورد.",
+    "off_season_routine_style": "Heavy Power-Building Split",
+    "contest_routine_style": "Pre-Contest Power Hypertrophy Split",
+    "off_season_diet": {
+      "calories": 3800,
+      "protein_g": 300,
+      "carbs_g": 420,
+      "fats_g": 90,
+      "notes_en": "High calorie power-building diet supporting immense strength and heavy lifting.",
+      "notes_fa": "رژیم غذایی پاور-بیلدینگ پرکالری که از قدرت عظیم و وزنه‌برداری سنگین پشتیبانی می‌کند.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, oatmeal, whole milk", "meal_2": "Chicken breast, rice, vegetables", "meal_3": "Steak, potatoes, salad", "meal_4": "Whey protein shake with peanut butter", "meal_5": "Fish, quinoa, asparagus", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2400,
+      "protein_g": 320,
+      "carbs_g": 150,
+      "fats_g": 45,
+      "notes_en": "Contest cutting diet engineered to retain maximal muscle mass while shedding fat.",
+      "notes_fa": "رژیم کات مسابقه مهندسی شده برای حفظ حداکثر توده عضلانی ضمن چربی‌سوزی.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, dry toast", "meal_2": "6 oz chicken breast, green beans", "meal_3": "6 oz flank steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Squat & Legs", "focus_fa": "اسکوات و پا", "exercises": [ { "name": "Barbell Squat", "sets": 5, "reps": "8", "rest_sec": 120 }, { "name": "Leg Press", "sets": 4, "reps": "10", "rest_sec": 90 } ] },
+      { "day": 2, "focus_en": "Bench Press & Chest", "focus_fa": "پرس سینه و سینه", "exercises": [ { "name": "Bench Press", "sets": 5, "reps": "8", "rest_sec": 120 }, { "name": "Incline Press", "sets": 4, "reps": "10", "rest_sec": 75 } ] },
+      { "day": 3, "focus_en": "Deadlift & Back", "focus_fa": "دالیفت و پشت", "exercises": [ { "name": "Barbell Deadlift", "sets": 4, "reps": "6", "rest_sec": 120 }, { "name": "Barbell Row", "sets": 4, "reps": "10", "rest_sec": 90 } ] },
+      { "day": 4, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Overhead Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Barbell Curl", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "anita_fraser",
+    "name_en": "Anita Fraser",
+    "name_fa": "آنیتا فریزر",
+    "category": "female",
+    "title": "Ms. Olympia Contender & Pro Bodybuilder",
+    "bio_en": "Anita Fraser is a Canadian former professional bodybuilder who competed at the highest levels of the Ms. Olympia during the 1980s and 1990s, known for her exceptional conditioning and symmetry.",
+    "bio_fa": "آنیتا فریزر بدنساز حرفه‌ای سابق کانادایی است که در دهه‌های ۱۹۸۰ و ۱۹۹۰ در بالاترین سطوح مستر المپیا زنان به رقابت پرداخت و به خاطر آمادگی و تقارن استثنایی‌اش شناخته می‌شد.",
+    "off_season_routine_style": "Pro Physique Balance Split",
+    "contest_routine_style": "Pre-Contest Lean Definition Split",
+    "off_season_diet": {
+      "calories": 3000,
+      "protein_g": 220,
+      "carbs_g": 320,
+      "fats_g": 65,
+      "notes_en": "Clean off-season diet focusing on balanced macro-nutrients and high-quality protein.",
+      "notes_fa": "رژیم پاک دوره استراحت متمرکز برشت‌بندی درشت‌مغذی‌های متوازن و پروتئین باکیفیت.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, rice, vegetables", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "Fish, quinoa, asparagus" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2000,
+      "protein_g": 250,
+      "carbs_g": 120,
+      "fats_g": 40,
+      "notes_en": "Pre-contest cutting diet for stage dryness and muscle separation.",
+      "notes_fa": "رژیم کات پیش از مسابقه برای خشکی روی صحنه و تفکیک عضلانی.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 egg whites, dry toast", "meal_2": "5 oz chicken breast, green beans", "meal_3": "5 oz flank steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Chest & Back", "focus_fa": "سینه و پشت", "exercises": [ { "name": "Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Shoulder Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Bicep Curl", "sets": 3, "reps": "12", "rest_sec": 45 } ] },
+      { "day": 4, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 5, "focus_en": "Core & Cardio", "focus_fa": "مرکز بدن و هوازی", "exercises": [ { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 }, { "name": "Treadmill", "sets": 1, "reps": "25 mins", "rest_sec": 0 } ] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "mariana_malkowicz",
+    "name_en": "Mariana Malkowicz",
+    "name_fa": "ماریانا مالکوویچ",
+    "category": "female",
+    "title": "Pro Bodybuilder & Olympia Competitor",
+    "bio_en": "Mariana Malkowicz is a prominent professional female bodybuilder known for her competitive spirit and stellar conditioning at the Ms. Olympia championships.",
+    "bio_fa": "ماریانا مالکوویچ یک بدنساز حرفه‌ای برجسته زن است که به خاطر روحیه رقابتی و آمادگی بدنی فوق‌العاده‌اش در مسابقات مستر المپیا شناخته می‌شود.",
+    "off_season_routine_style": "Hypertrophy & Tone Split",
+    "contest_routine_style": "Pre-Contest Definition Split",
+    "off_season_diet": {
+      "calories": 2900,
+      "protein_g": 210,
+      "carbs_g": 310,
+      "fats_g": 60,
+      "notes_en": "Clean bulking diet focusing on high-quality proteins and complex carbohydrates.",
+      "notes_fa": "رژیم حجم پاک متمرکز بر پروتئین‌های باکیفیت و کربوهیدرات‌های پیچیده.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, brown rice, broccoli", "meal_3": "Lean steak, sweet potato, salad", "meal_4": "Whey protein shake", "meal_5": "Fish and asparagus" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 1950,
+      "protein_g": 240,
+      "carbs_g": 110,
+      "fats_g": 40,
+      "notes_en": "Pre-contest cutting diet designed for clean muscle definition.",
+      "notes_fa": "رژیم کات پیش از مسابقه طراحی شده برای تفکیک عضلانی پاک.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 egg whites, dry toast", "meal_2": "5 oz chicken breast, green beans", "meal_3": "5 oz flank steak, salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Upper Body Push", "focus_fa": "بالاتنه فشار", "exercises": [ { "name": "Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Shoulder Press", "sets": 3, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Upper Body Pull", "focus_fa": "بالاتنه کشش", "exercises": [ { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Seated Row", "sets": 3, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 4, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 5, "focus_en": "Core & Cardio", "focus_fa": "مرکز بدن و هوازی", "exercises": [ { "name": "Crunches", "sets": 3, "reps": "20", "rest_sec": 45 }, { "name": "Treadmill", "sets": 1, "reps": "25 mins", "rest_sec": 0 } ] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "iris_kyle",
+    "name_en": "Iris Kyle",
+    "name_fa": "آیریس کایل",
+    "category": "female",
+    "title": "10x Ms. Olympia Champion",
+    "bio_en": "Iris Kyle is an American professional bodybuilder widely considered the most successful professional bodybuilder of all time, male or female, having won a record ten Ms. Olympia titles and seven Ms. International titles.",
+    "bio_fa": "آیریس کایل بدنساز حرفه‌ای آمریکایی است که به طور گسترده به عنوان موفق‌ترین بدنساز حرفه‌ای تمام دوران، چه زن و چه مرد، در نظر گرفته می‌شود که رکورد ۱۰ عنوان مستر المپیا زنان و ۷ عنوان مسابقات بین‌المللی را کسب کرده است.",
+    "off_season_routine_style": "Pro Female Physique Split with Abs & Cardio",
+    "contest_routine_style": "Pre-Contest Extreme Mass Conditioning Split",
+    "off_season_diet": {
+      "calories": 4000,
+      "protein_g": 320,
+      "carbs_g": 450,
+      "fats_g": 90,
+      "notes_en": "Heavy mass building diet designed to support her unrivaled muscularity and size in the open female division.",
+      "notes_fa": "رژیم سنگین ساخت حجم طراحی شده برای حمایت از عضلات و سایز بی‌نظیر او در دسته آزاد زنان.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, rice, broccoli", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2500,
+      "protein_g": 350,
+      "carbs_g": 150,
+      "fats_g": 45,
+      "notes_en": "Contest preparation cutting diet for supreme stage conditioning, hardness, and muscular definition.",
+      "notes_fa": "رژیم کات آماده‌سازی مسابقه برای آمادگی برتر روی صحنه، سختی و تفکیک عضلانی.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, dry toast", "meal_2": "6 oz chicken breast, green beans", "meal_3": "6 oz flank steak, small salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Back & Abs", "focus_fa": "پشت و شکم", "exercises": [ { "name": "Front Pulldowns", "sets": 4, "reps": "10-12", "rest_sec": 60 }, { "name": "Low Cable Row", "sets": 4, "reps": "10-12", "rest_sec": 60 }, { "name": "Hanging Leg Raise", "sets": 3, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Chest & Triceps", "focus_fa": "سینه و پشت‌بازو", "exercises": [ { "name": "Incline Dumbbell Press", "sets": 4, "reps": "10-12", "rest_sec": 60 }, { "name": "Cable Pushdown", "sets": 3, "reps": "12", "rest_sec": 45 } ] },
+      { "day": 3, "focus_en": "Legs (Quadriceps) & Cardio", "focus_fa": "پا (چهارسر) و هوازی", "exercises": [ { "name": "Leg Press", "sets": 4, "reps": "12", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "15", "rest_sec": 60 }, { "name": "Treadmill Walk", "sets": 1, "reps": "25 mins", "rest_sec": 0 } ] },
+      { "day": 4, "focus_en": "Shoulders", "focus_fa": "سرشانه", "exercises": [ { "name": "Dumbbell Shoulder Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Side Lateral Raise", "sets": 4, "reps": "12", "rest_sec": 45 } ] },
+      { "day": 5, "focus_en": "Hamstrings & Glutes", "focus_fa": "پشت‌پا و سرینی", "exercises": [ { "name": "Lying Leg Curl", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Romanian Deadlift", "sets": 4, "reps": "10", "rest_sec": 90 } ] },
+      { "day": 6, "focus_en": "Biceps & Abs", "focus_fa": "جلوبازو و شکم", "exercises": [ { "name": "Dumbbell Bicep Curl", "sets": 3, "reps": "12", "rest_sec": 45 }, { "name": "Crunches", "sets": 3, "reps": "20", "rest_sec": 45 } ] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "yaxeni_oriquen",
+    "name_en": "Yaxeni Oriquen",
+    "name_fa": "یاکسنی اوریکئن",
+    "category": "female",
+    "title": "Ms. Olympia Champion",
+    "bio_en": "Yaxeni Oriquen-Garcia is a Venezuelan-American professional bodybuilder and the 2005 Ms. Olympia champion. Known for her height, elegance, and incredible symmetry, she is one of the most successful Latin American bodybuilders in history.",
+    "bio_fa": "یاکسنی اوریکئن-گارسیا بدنساز حرفه‌ای ونزوئلایی-آمریکایی و قهرمان مستر المپیا زنان در سال ۲۰۰۵ است. او که به خاطر قد، ظرافت و تقارن باورنکردنی‌اش شناخته می‌شود، یکی از موفق‌ترین بدنسازان آمریکای لاتین در تاریخ است.",
+    "off_season_routine_style": "Pro Symmetry & Mass Split",
+    "contest_routine_style": "Pre-Contest Definition & Elegance Routine",
+    "off_season_diet": {
+      "calories": 3400,
+      "protein_g": 260,
+      "carbs_g": 380,
+      "fats_g": 75,
+      "notes_en": "Clean off-season mass building diet emphasizing high protein and quality complex carbohydrates.",
+      "notes_fa": "رژیم پاک ساخت حجم دوره استراحت با تأکید بر پروتئین بالا و کربوهیدرات‌های پیچیده باکیفیت.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, brown rice, vegetables", "meal_3": "Lean steak, sweet potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "Fish, quinoa, asparagus" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2200,
+      "protein_g": 280,
+      "carbs_g": 130,
+      "fats_g": 40,
+      "notes_en": "Contest preparation cutting diet designed for elite feminine muscle definition and stage conditioning.",
+      "notes_fa": "رژیم آماده‌سازی مسابقه کات طراحی شده برای تفکیک عضلانی زنانه نخبه و آمادگی روی صحنه.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 egg whites, dry toast", "meal_2": "5 oz chicken breast, green beans", "meal_3": "5 oz flank steak, salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Chest & Back", "focus_fa": "سینه و پشت", "exercises": [ { "name": "Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Shoulder Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Bicep Curl", "sets": 3, "reps": "12", "rest_sec": 45 } ] },
+      { "day": 4, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 5, "focus_en": "Core & Cardio", "focus_fa": "مرکز بدن و هوازی", "exercises": [ { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 }, { "name": "Treadmill", "sets": 1, "reps": "25 mins", "rest_sec": 0 } ] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "juliette_bergmann",
+    "name_en": "Juliette Bergmann",
+    "name_fa": "ژولیت برگمن",
+    "category": "female",
+    "title": "Ms. Olympia Champion",
+    "bio_en": "Juliette Bergmann is a Dutch former professional bodybuilder and the 2001 Ms. Olympia champion. Known for her incredible comeback to the sport and flawless muscle separation, she is a legend of European women's bodybuilding.",
+    "bio_fa": "ژولیت برگمن بدنساز حرفه‌ای سابق هلندی و قهرمان مستر المپیا زنان در سال ۲۰۰۱ است. او که به خاطر بازگشت شگفت‌انگیز به این ورزش و تفکیک عضلانی بی‌نقص شناخته می‌شود، اسطوره‌ای از بدنسازی زنان اروپا است.",
+    "off_season_routine_style": "European Hypertrophy & Symmetry Split",
+    "contest_routine_style": "Pre-Contest High Conditioning Routine",
+    "off_season_diet": {
+      "calories": 3100,
+      "protein_g": 230,
+      "carbs_g": 340,
+      "fats_g": 65,
+      "notes_en": "Clean off-season bulking plan focused on balanced muscle density and symmetry.",
+      "notes_fa": "برنامه حجیم‌سازی پاک در دوره استراحت متمرکز بر چگالی عضلانی متوازن و تقارن.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, rice, vegetables", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein with milk", "meal_5": "Fish, quinoa, asparagus" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2050,
+      "protein_g": 260,
+      "carbs_g": 120,
+      "fats_g": 40,
+      "notes_en": "Contest preparation diet engineered for razor-sharp conditioning and stage hardness.",
+      "notes_fa": "رژیم آماده‌سازی مسابقه مهندسی شده برای آمادگی بسیار تیز و سختی روی صحنه.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 egg whites, dry toast", "meal_2": "5 oz chicken breast, green beans", "meal_3": "5 oz flank steak, salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Chest & Back", "focus_fa": "سینه و پشت", "exercises": [ { "name": "Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Shoulder Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Bicep Curl", "sets": 3, "reps": "12", "rest_sec": 45 } ] },
+      { "day": 4, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 5, "focus_en": "Core & Cardio", "focus_fa": "مرکز بدن و هوازی", "exercises": [ { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 }, { "name": "Treadmill", "sets": 1, "reps": "25 mins", "rest_sec": 0 } ] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "kim_chzewski",
+    "name_en": "Kim Chzewski",
+    "name_fa": "کیم چزفسکی",
+    "category": "female",
+    "title": "4x Ms. Olympia Champion",
+    "bio_en": "Kim Chzewski-Stricker is an American former professional bodybuilder who won the Ms. Olympia title four consecutive times from 1996 to 1999, celebrated for her phenomenal conditioning, symmetry, and muscle separation.",
+    "bio_fa": "کیم چزفسکی-استريکر بدنساز حرفه‌ای سابق آمریکایی است که چهار سال متوالی از سال ۱۹۹۶ تا ۱۹۹۹ عنوان مستر المپیا زنان را کسب کرد و به خاطر آمادگی شگفت‌انگیز، تقارن و تفکیک عضلانی‌اش مورد تحسین قرار گرفت.",
+    "off_season_routine_style": "Pro Shape & Conditioning Split",
+    "contest_routine_style": "Pre-Contest High Intensity Shredding",
+    "off_season_diet": {
+      "calories": 3300,
+      "protein_g": 250,
+      "carbs_g": 360,
+      "fats_g": 70,
+      "notes_en": "Clean off-season mass building nutrition supporting elite contest conditioning year-round.",
+      "notes_fa": "تغذیه پاک ساخت حجم دوره استراحت که از آمادگی مسابقه نخبه در تمام طول سال پشتیبانی می‌کند.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, rice, vegetables", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "Fish, quinoa, asparagus" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2150,
+      "protein_g": 270,
+      "carbs_g": 125,
+      "fats_g": 40,
+      "notes_en": "Pre-contest cutting diet engineered for skin-thin conditioning and muscle hardness.",
+      "notes_fa": "رژیم کات پیش از مسابقه مهندسی شده برای آمادگی پوست‌نازک و سختی عضلانی.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "3 egg whites, dry toast", "meal_2": "5 oz chicken breast, green beans", "meal_3": "5 oz flank steak, salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Legs", "focus_fa": "پا", "exercises": [ { "name": "Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 2, "focus_en": "Chest & Back", "focus_fa": "سینه و پشت", "exercises": [ { "name": "Bench Press", "sets": 4, "reps": "10", "rest_sec": 75 }, { "name": "Lat Pulldown", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Shoulders & Arms", "focus_fa": "سرشانه و بازو", "exercises": [ { "name": "Shoulder Press", "sets": 4, "reps": "10", "rest_sec": 60 }, { "name": "Bicep Curl", "sets": 3, "reps": "12", "rest_sec": 45 } ] },
+      { "day": 4, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 5, "focus_en": "Core & Cardio", "focus_fa": "مرکز بدن و هوازی", "exercises": [ { "name": "Crunches", "sets": 4, "reps": "20", "rest_sec": 45 }, { "name": "Treadmill", "sets": 1, "reps": "25 mins", "rest_sec": 0 } ] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  },
+  {
+    "id": "andrea_shaw",
+    "name_en": "Andrea Shaw",
+    "name_fa": "آندیا شاو",
+    "category": "female",
+    "title": "Ms. Olympia Champion",
+    "bio_en": "Andrea Shaw is an American professional bodybuilder who has emerged as a dominant multi-time Ms. Olympia champion in the modern era, celebrated for her extraordinary muscular density, power, and precise conditioning.",
+    "bio_fa": "آندیا شاو بدنساز حرفه‌ای آمریکایی است که به عنوان قهرمان مسلط و چنددوره مستر المپیا زنان در عصر مدرن ظاهر شده است و به خاطر چگالی فوق‌العاده عضلانی، قدرت و آمادگی دقیقش تجلیل می‌شود.",
+    "off_season_routine_style": "Power & Density Conditioning with Abs",
+    "contest_routine_style": "Pre-Contest High Intensity Mass Conditioning",
+    "off_season_diet": {
+      "calories": 4200,
+      "protein_g": 340,
+      "carbs_g": 480,
+      "fats_g": 95,
+      "notes_en": "Modern high-calorie bulking diet built to support extreme density and power in the open female division.",
+      "notes_fa": "رژیم حجیم‌سازی مدرن پرکالری ساخته شده برای حمایت از چگالی و قدرت شدید در دسته آزاد زنان.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "5 egg whites, oatmeal, fruit", "meal_2": "Chicken breast, rice, broccoli", "meal_3": "Steak, sweet potato, salad", "meal_4": "Whey protein shake with milk", "meal_5": "White fish, quinoa, asparagus", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "contest_diet": {
+      "calories": 2600,
+      "protein_g": 360,
+      "carbs_g": 160,
+      "fats_g": 45,
+      "notes_en": "Contest preparation cutting diet engineered for skin-thin conditioning and maximal muscle retention.",
+      "notes_fa": "رژیم کات آماده‌سازی مسابقه مهندسی شده برای آمادگی پوست‌نازک و حفظ حداکثر عضله.",
+      "monthly_plan": [
+        { "day_range": "1-30", "meal_1": "4 egg whites, dry toast", "meal_2": "6 oz chicken breast, green beans", "meal_3": "6 oz flank steak, salad", "meal_4": "White fish, asparagus", "meal_5": "Protein isolate with water", "meal_6": "Cottage cheese" }
+      ]
+    },
+    "schedule": [
+      { "day": 1, "focus_en": "Legs & Abs", "focus_fa": "پا و شکم", "exercises": [ { "name": "Hack Squat", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Leg Extension", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Hanging Knee Raise", "sets": 3, "reps": "15", "rest_sec": 45 } ] },
+      { "day": 2, "focus_en": "Chest & Back", "focus_fa": "سینه و پشت", "exercises": [ { "name": "Bench Press", "sets": 4, "reps": "10", "rest_sec": 90 }, { "name": "Seated Cable Row", "sets": 4, "reps": "10", "rest_sec": 60 } ] },
+      { "day": 3, "focus_en": "Shoulders", "focus_fa": "سرشانه", "exercises": [ { "name": "Lateral Raise", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Shoulder Press", "sets": 4, "reps": "10", "rest_sec": 75 } ] },
+      { "day": 4, "focus_en": "Arms", "focus_fa": "بازو", "exercises": [ { "name": "Bicep Curl", "sets": 4, "reps": "12", "rest_sec": 60 }, { "name": "Triceps Extension", "sets": 4, "reps": "12", "rest_sec": 60 } ] },
+      { "day": 5, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 6, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] },
+      { "day": 7, "focus_en": "Rest", "focus_fa": "استراحت", "exercises": [] }
+    ]
+  }
+]

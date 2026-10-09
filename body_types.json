@@ -1,0 +1,41 @@
+[
+  {
+    "id": "body_ecto",
+    "name": "Ectomorph",
+    "name_fa": "اکتومورف",
+    "category": "bodytypes",
+    "description": "Long and lean, with little body fat and little muscle. Hard to gain weight.",
+    "description_fa": "بدنی بلند و لاغر، با چربی و عضله کم. افزایش وزن برای این تیپ بدنی دشوار است.",
+    "diet": "High calorie, high carb, moderate protein.",
+    "diet_fa": "کالری بالا، کربوهیدرات زیاد، پروتئین متوسط.",
+    "training": "Heavy weights, long rest periods, minimal cardio.",
+    "training_fa": "وزنه‌های سنگین، فواصل استراحت طولانی، حداقل کاردیو.",
+    "image": "body_ecto"
+  },
+  {
+    "id": "body_meso",
+    "name": "Mesomorph",
+    "name_fa": "مزومورف",
+    "category": "bodytypes",
+    "description": "Athletic, solid, and strong. Gains muscle easily and loses fat easily.",
+    "description_fa": "بدن ورزیده، محکم و قوی. به راحتی عضله می‌سازد و به راحتی چربی می‌سوزاند.",
+    "diet": "Balanced protein, carbs, and healthy fats.",
+    "diet_fa": "تعادل بین پروتئین، کربوهیدرات و چربی‌های سالم.",
+    "training": "Combination of heavy weights and moderate cardio.",
+    "training_fa": "ترکیبی از وزنه‌های سنگین و کاردیو متوسط.",
+    "image": "body_meso"
+  },
+  {
+    "id": "body_endo",
+    "name": "Endomorph",
+    "name_fa": "اندومورف",
+    "category": "bodytypes",
+    "description": "Soft and round, typically shorter build. Gains fat easily but strong.",
+    "description_fa": "بدن نرم و گرد، معمولاً با جثه کوتاه‌تر. به راحتی چربی می‌گیرد اما قدرت بدنی بالایی دارد.",
+    "diet": "High protein, healthy fats, controlled carbs.",
+    "diet_fa": "پروتئین بالا، چربی‌های سالم، کربوهیدرات کنترل شده.",
+    "training": "High intensity training, frequent cardio, moderate weights.",
+    "training_fa": "تمرینات با شدت بالا، کاردیو مداوم، وزنه‌های متوسط.",
+    "image": "body_endo"
+  }
+]

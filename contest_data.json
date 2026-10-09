@@ -1,0 +1,181 @@
+{
+  "peak_week": [
+    {
+      "id": "water_cut",
+      "title_en": "Water Manipulation (Dehydration)",
+      "title_fa": "پروتکل مدیریت آب و پوست کاغذی",
+      "content_en": "ELITE WATER PROTOCOL:\n\n- Days 7-4: Load 10-12 Liters of water daily. This shuts down ADH (Anti-Diuretic Hormone) and signals the kidneys to flush fluid constantly.\n- Day 3: Reduce to 4 Liters.\n- Day 2: Reduce to 2 Liters.\n- Day 1: Max 500ml total. Stop all fluids 12-16 hours before stage time.\n- Show Day: Ice chips only until stage.\n\nSCIENTIFIC GOAL: By loading and then cutting, the body continues to flush water via 'gravity' effect even when you stop drinking, pulling fluid from under the skin into the urine, resulting in paper-thin skin and extreme definition.",
+      "content_fa": "پروتکل حرفه‌ای مدیریت آب:\n\n- روز ۷ تا ۴: مصرف ۱۰ تا ۱۲ لیتر آب در روز. این کار هورمون ضد ادرار را خاموش کرده و به کلیه‌ها فرمان دفع مداوم می‌دهد.\n- روز ۳: کاهش به ۴ لیتر.\n- روز ۲: کاهش به ۲ لیتر.\n- روز ۱: حداکثر ۵۰۰ میلی‌لیتر. ۱۲ تا ۱۶ ساعت قبل از استیج آب را کاملاً قطع کنید.\n- روز مسابقه: فقط تکه‌های یخ.\n\nهدف علمی: با بارگیری و سپس قطع ناگهانی، بدن به دلیل پدیده 'اینرسی دفع' به خارج کردن آب ادامه می‌دهد که باعث می‌شود آب زیرپوستی کاملاً تخلیه شده و پوست به عضله بچسبد."
+    },
+    {
+      "id": "sodium_load",
+      "title_en": "Sodium & Electrolyte Mastery",
+      "title_fa": "مدیریت سدیم و الکترولیت",
+      "content_en": "SODIUM PROTOCOL:\n\nSodium is the pump's engine. Most amateurs cut salt too early and look 'flat'.\n- Days 7-3: Keep sodium high (5000mg+) to help muscles hold water during the flush.\n- Day 2 (36-48hrs out): Cut all added salt. This creates a pressure gradient that pulls water out of the skin.\n- Show Day: 2 hours before stage, eat a high-sodium snack (Burger/Fries). This pulls water from the bloodstream BACK into the muscle cells for a massive, vascular pump.",
+      "content_fa": "پروتکل سدیم:\n\nسدیم موتور محرک 'دم عضلانی' است. بزرگترین اشتباه قطع زودهنگام نمک است که باعث صاف شدن عضلات می‌شود.\n- روز ۷ تا ۳: سدیم را بالا نگه دارید (۵۰۰۰ میلی‌گرم+) تا عضلات در زمان بارگیری آب پر بمانند.\n- روز ۲ (۳۶ تا ۴۸ ساعت مانده): تمام نمک اضافه را قطع کنید تا فاصله بین پوست و عضله خشک شود.\n- روز مسابقه: ۲ ساعت قبل از فیگور، یک میان‌وعده پر سدیم (برگر یا پیتزا) بخورید. این کار آب را از زیر پوست به داخل سلول‌های عضلانی می‌کشد و رگ‌های شما را برجسته می‌کند."
+    },
+    {
+      "id": "carb_load",
+      "title_en": "Carbohydrate Loading (Glycogen Fill)",
+      "title_fa": "پروتکل بارگیری کربوهیدرات",
+      "content_en": "CARB PROTOCOL:\n\n- Days 4-2 (Depletion): Drop carbs below 50g. Train high reps to empty glycogen stores.\n- 48 Hours Out (Loading): Consume 8-10g of carbs per kg of bodyweight.\n- Sources: Dry complex carbs like Sweet Potato, White Rice, and Rice Cakes. Avoid fiber-heavy vegetables to prevent bloating.\n\nGOAL: Glycogen pulls 3g of water for every 1g of carb INTO the muscle. This makes the muscle look '3D' and prevents the 'flat' look on stage.",
+      "content_fa": "پروتکل کربوهیدرات:\n\n- روز ۴ تا ۲ (تخلیه): کربوهیدرات را به زیر ۵۰ گرم برسانید. تمرین با تکرار بالا انجام دهید تا ذخایر گلیکوژن خالی شود.\n- ۴۸ ساعت مانده (بارگیری): ۸ تا ۱۰ گرم کربوهیدرات به ازای هر کیلو وزن بدن مصرف کنید.\n- منابع: کربوهیدرات‌های خشک مثل سیب‌زمینی شیرین، برنج سفید و کیک برنجی.\n\nهدف: گلیکوژن ۳ برابر وزن خود آب به داخل عضله می‌کشد. این کار باعث ایجاد نمای سه بعدی شده و از تخت به نظر رسیدن بدن جلوگیری می‌کند."
+    },
+    {
+      "id": "tanning_skin",
+      "title_en": "Pro Tanning & Skin Preparation",
+      "title_fa": "رنگ‌آمیزی و آماده‌سازی پوست",
+      "content_en": "PREP STEPS:\n\n- 1 Week Out: Shave all body hair. Start daily exfoliation with a PH-neutral scrub.\n- 2 Days Out: Stop moisturizing. Dry skin holds the tan better.\n- Night Before: Apply the 'Base Coat'. Sleep in loose, dark clothes.\n- Show Morning: Apply 'Top Coat'. Use 'Show Shine' or glaze sparingly 15 minutes before stage.\n\nWARNING: Avoid getting water on the skin once tanned, or it will streak and ruin your definition.",
+      "content_fa": "مراحل آماده‌سازی پوست:\n\n- ۱ هفته مانده: تمام موهای بدن را اصلاح کنید. لایه‌برداری روزانه با اسکراب PH خنثی را شروع کنید.\n- ۲ روز مانده: استفاده از لوسیون و مرطوب‌کننده را قطع کنید.\n- شب قبل: لایه اول رنگ (Base Coat) را بزنید.\n- صبح مسابقه: لایه دوم را بزنید. ۱۵ دقیقه قبل از استیج از روغن براق‌کننده به مقدار کم استفاده کنید.\n\nهشدار: پس از رنگ‌آمیزی از برخورد آب به پوست جلوگیری کنید، زیرا باعث ایجاد لکه و خراب شدن نمایش عضلات می‌شود."
+    },
+    {
+      "id": "posing_mastery",
+      "title_en": "Stage Presence & Posing Mastery",
+      "title_fa": "هنر فیگورگیری و نمایش روی استیج",
+      "content_en": "POSING TIPS:\n\n1. Endurance: You must be able to hold a 'Back Double Bicep' for 60 seconds without shaking.\n2. Breathing: Master the 'Vacuum'. Exhale all air and pull the navel to the spine while expanding the ribcage.\n3. Transitions: Judges watch you between poses. Stay tight and fluid.\n4. Facial Control: Do not look like you are struggling. Keep a confident smile even when cramping.",
+      "content_fa": "نکات فیگورگیری:\n\n۱. استقامت: باید بتوانید فیگورهایی مثل 'جفت بازو از پشت' را ۶۰ ثانیه بدون لرزش نگه دارید.\n۲. تنفس: بر فیگور 'وکیوم' مسلط شوید. تمام هوا را تخلیه کرده و ناف را به سمت ستون فقرات بکشید.\n۳. جابجایی: داوران شما را در فاصله بین فیگورها زیر نظر دارند.\n۴. کنترل چهره: حتی در زمان گرفتگی عضلات، لبخند اعتماد به نفس داشته باشید."
+    }
+  ],
+  "divisions": [
+    {
+      "id": "open_bb",
+      "title_en": "Men's Open Bodybuilding",
+      "title_fa": "پرورش اندام آزاد (سنگین وزن)",
+      "content_en": "CRITERIA: Maximum muscle mass, extreme density, and grainy conditioning. No weight limit. Focus on the 'Freak Factor'. Huge quad sweeps, barn-door backs, and massive arms.",
+      "content_fa": "معیارها: حداکثر توده عضلانی، چگالی فوق‌العاده و کاندیشنینگ دانه دانه. محدودیت وزنی وجود ندارد. تمرکز بر فاکتور غول‌آسایی، پشت عریض و بازوهای حجیم."
+    },
+    {
+      "id": "classic_physique",
+      "title_en": "Classic Physique Standards",
+      "title_fa": "استانداردهای کلاسیک فیزیک",
+      "content_en": "CRITERIA: Focus on 'Golden Era' aesthetics. Symmetry, flow, and small waists. Weight is strictly limited by height. Key pose: The Vacuum and Classic Pose (Arnold/Zane style).",
+      "content_fa": "معیارها: زیبایی‌شناسی دوران طلایی. تمرکز بر تقارن، کمر باریک و فیگور وکیوم. وزن بر اساس قد محدود می‌شود."
+    },
+    {
+      "id": "212_bb",
+      "title_en": "212 Bodybuilding (Under 96kg)",
+      "title_fa": "بادی‌بیلدینگ دسته ۲۱۲ پوند",
+      "content_en": "CRITERIA: For shorter athletes. Max weight is 212 lbs (96.2 kg). Focus on extreme thickness and conditioning to compensate for height.",
+      "content_fa": "معیارها: برای ورزشکاران کوتاه‌قدتر. حداکثر وزن ۹۶.۲ کیلوگرم. تمرکز بر ضخامت عضلانی شدید و کات عمیق برای جبران قد."
+    },
+    {
+      "id": "mens_physique",
+      "title_en": "Men's Physique (Boardshorts)",
+      "title_fa": "رشته فیزیک (مدلینگ)",
+      "content_en": "CRITERIA: The 'Beach Body' look. Wide shoulders, tiny waist (V-Taper). Board shorts are worn. Extreme mass is penalized. Calves are judged, but quads are hidden.",
+      "content_fa": "معیارها: ظاهر ساحلی. شانه پهن، کمر بسیار باریک (V شکل). پوشیدن شورتک ساحلی. حجم بیش از حد نمره منفی دارد."
+    },
+    {
+      "id": "muscular_physique",
+      "title_en": "Muscular Physique",
+      "title_fa": "ماسکولار فیزیک",
+      "content_en": "CRITERIA: Middle ground between Men's Physique and Classic. For athletes 'too big' for Physique but using same posing and boardshorts.",
+      "content_fa": "معیارها: حد وسط بین فیزیک و کلاسیک فیزیک. برای ورزشکارانی که برای فیزیک خیلی حجیم هستند اما با همان فیگور و شورتک رقابت می‌کنند."
+    },
+    {
+      "id": "womens_bikini",
+      "title_en": "Women's Bikini Fitness",
+      "title_fa": "بیکینی فیتنس بانوان",
+      "content_en": "CRITERIA: Feminine, toned, and aesthetic. Focus on Glute-Hamstring tie-in and shoulder width. Smooth look, not overly muscular.",
+      "content_fa": "معیارها: ظاهری زنانه، سفت و زیبا. تمرکز بر اتصال عضلات باسن به همسترینگ و پهنای شانه. ظاهر نرم و نه خیلی عضلانی."
+    },
+    {
+      "id": "wellness",
+      "title_en": "Women's Wellness",
+      "title_fa": "رشته ولنس بانوان",
+      "content_en": "CRITERIA: Lower body dominance. Large quads and glutes required while maintaining a feminine upper body.",
+      "content_fa": "معیارها: تمرکز بر تسلط پایین‌تنه. چهارسر و باسن حجیم مورد نیاز است در حالی که بالاتنه ظرافت زنانه را حفظ کند."
+    },
+    {
+      "id": "figure",
+      "title_en": "Women's Figure",
+      "title_fa": "فیگور بانوان",
+      "content_en": "CRITERIA: V-Taper (wide shoulders, tiny waist). More muscular than Bikini but less than Physique. Firm and conditioned with clear separation.",
+      "content_fa": "معیارها: نمای V (شانه‌های پهن، کمر باریک). عضلانی‌تر از بیکینی اما کمتر از فیزیک. عضلات سفت و با تفکیک مشخص."
+    },
+    {
+      "id": "womens_physique",
+      "title_en": "Women's Physique",
+      "title_fa": "فیزیک بانوان",
+      "content_en": "CRITERIA: High muscle separation and broad shoulders. More muscular than Figure but still feminine in presentation.",
+      "content_fa": "معیارها: تفکیک عضلانی بالا و شانه‌های پهن. عضلانی‌تر از فیگور اما همچنان با نمایش ظرافت‌های زنانه."
+    },
+    {
+      "id": "natural_bb",
+      "title_en": "Natural Bodybuilding (Tested)",
+      "title_fa": "بدنسازی نچرال (تست شده)",
+      "content_en": "CRITERIA: Strict drug testing. Focus on long-term muscle maturity, symmetry, and conditioning over raw mass.",
+      "content_fa": "معیارها: تست‌های سخت‌گیرانه دوپینگ. تمرکز بر چگالی و پختگی عضلانی، تقارن و کات بیشتر از حجم خام."
+    },
+    {
+      "id": "fit_model",
+      "title_en": "Fit Model (Formal Wear)",
+      "title_fa": "فیت مدل (با لباس رسمی)",
+      "content_en": "CRITERIA: Elegance meets fitness. Athletes pose in evening gowns or suits. Focus on overall beauty, posture, and fit physique in high-end clothing.",
+      "content_fa": "معیارها: ترکیب تناسب اندام و وقار. فیگور با لباس شب یا کت و شلوار. تمرکز بر زیبایی کلی و فیزیک متناسب در لباس رسمی."
+    },
+    {
+      "id": "masters",
+      "title_en": "Masters Division (35+ / 40+)",
+      "title_fa": "رده پیشکسوتان (مستر)",
+      "content_en": "CRITERIA: For older athletes. Rewards muscle maturity and maintaining peak conditioning with age.",
+      "content_fa": "معیارها: برای ورزشکاران با سن بالاتر. پاداش به پختگی عضلانی و توانایی حفظ آمادگی در سنین بالا."
+    },
+    {
+      "id": "juniors",
+      "title_en": "Junior Division (Under 23)",
+      "title_fa": "رده جوانان (زیر ۲۳ سال)",
+      "content_en": "CRITERIA: For early-career athletes. Focus on future potential, structural balance, and symmetry.",
+      "content_fa": "معیارها: برای ورزشکاران در ابتدای مسیر. تمرکز بر پتانسیل آینده، تعادل ساختاری و تقارن."
+    },
+    {
+      "id": "wheelchair",
+      "title_en": "Wheelchair Bodybuilding",
+      "title_fa": "پرورش اندام با ویلچر",
+      "content_en": "CRITERIA: For athletes with lower limb disabilities. Focus entirely on upper body development, back width, and arm separation.",
+      "content_fa": "معیارها: برای ورزشکاران دارای ناتوانی اندام تحتانی. تمرکز کامل بر رشد بالاتنه، عرض پشت و تفکیک بازوها."
+    },
+    {
+      "id": "beach_body",
+      "title_en": "Beach Body / Model",
+      "title_fa": "مدلینگ ساحلی",
+      "content_en": "CRITERIA: Aesthetic and fit look for commercial modeling. Lower mass than Physique. Focus on facial aesthetics and lean healthy look.",
+      "content_fa": "معیارها: ظاهری زیبا و فیت برای مدلینگ تجاری. حجم کمتر از فیزیک. تمرکز بر زیبایی چهره و ظاهر کات و سالم."
+    },
+    {
+      "id": "transformation",
+      "title_en": "Transformation Category",
+      "title_fa": "رده تحول بدنی",
+      "content_en": "CRITERIA: Judged on weight loss or muscle building journey. Compares 'before/after' photos with current stage physique.",
+      "content_fa": "معیارها: قضاوت بر اساس مسیر تحول. مقایسه عکس‌های قبل و بعد با بدن فعلی روی استیج."
+    },
+    {
+      "id": "novice",
+      "title_en": "Novice Division",
+      "title_fa": "رده تازه‌کاران",
+      "content_en": "CRITERIA: For athletes who have never placed first. Focuses on basics of posing and stage presence.",
+      "content_fa": "معیارها: برای ورزشکارانی که هرگز مقام اول نداشته‌اند. تمرکز بر اصول فیگورگیری و نمایش استیج."
+    },
+    {
+      "id": "pro_qualifier",
+      "title_en": "Pro Qualifier (Overall)",
+      "title_fa": "رقابت اورالی (کارت حرفه‌ای)",
+      "content_en": "CRITERIA: Winners of each class compete for the IFBB Pro Card. Requires perfect combination of mass, symmetry, and conditioning.",
+      "content_fa": "معیارها: برندگان هر رده برای کارت حرفه‌ای رقابت می‌کنند. نیازمند ترکیب بی‌نقص حجم، تقارن و کات."
+    },
+    {
+      "id": "womens_fitness",
+      "title_en": "Women's Fitness (Routine)",
+      "title_fa": "فیتنس نمایشی بانوان",
+      "content_en": "CRITERIA: Combined physique and performance routine. 2/3 of score based on high-energy routine (strength/flexibility).",
+      "content_fa": "معیارها: ترکیب فیزیک و اجرای نمایشی. ۲/۳ امتیاز بر اساس اجرای پرانرژی (قدرت و انعطاف)."
+    },
+    {
+      "id": "mens_fitness",
+      "title_en": "Men's Fitness",
+      "title_fa": "فیتنس آقایان",
+      "content_en": "CRITERIA: Athletic physique with focus on core strength and routine performance. Less mass than Bodybuilding.",
+      "content_fa": "معیارها: فیزیک اتلتیک با تمرکز بر قدرت کور و اجرای نمایشی. حجم کمتر از پرورش اندام."
+    }
+  ]
+}

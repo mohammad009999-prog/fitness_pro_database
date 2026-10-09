@@ -1,0 +1,9 @@
+[
+  {"id": 1, "name": "Straight Set", "name_fa": "ست معمولی", "desc": "Standard rest between sets."},
+  {"id": 2, "name": "Super Set", "name_fa": "سوپر ست", "desc": "Two exercises for opposing muscles with no rest."},
+  {"id": 3, "name": "Drop Set", "name_fa": "دراپ ست", "desc": "Reduce weight and continue until failure."},
+  {"id": 4, "name": "Giant Set", "name_fa": "جاینت ست", "desc": "4 or more exercises for one muscle group consecutively."},
+  {"id": 5, "name": "Rest-Pause", "name_fa": "رست-پاز", "desc": "Short 15s rest within a single set to push further."},
+  {"id": 6, "name": "Negative Reps", "name_fa": "تکرار منفی", "desc": "Slowly lowering the weight to maximize tension."},
+  {"id": 7, "name": "Pyramid Set", "name_fa": "ست هرمی", "desc": "Increasing weight and decreasing reps each set."}
+]

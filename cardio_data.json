@@ -1,0 +1,184 @@
+{
+  "cardio_plans": [
+    {
+      "id": "hiit_intervals",
+      "title": "HIIT (High Intensity Intervals)",
+      "title_fa": "اینتروال با شدت بالا (HIIT)",
+      "duration": "20-30 min",
+      "duration_fa": "۲۰ تا ۳۰ دقیقه",
+      "description": "30 sec sprint / 30 sec walk. High fat burn.",
+      "description_fa": "۳۰ ثانیه دویدن سریع / ۳۰ ثانیه راه رفتن. چربی‌سوزی بالا."
+    },
+    {
+      "id": "liss_walking",
+      "title": "LISS (Steady State Walking)",
+      "title_fa": "هوازی تداومی کم‌شدت (LISS)",
+      "duration": "45-60 min",
+      "duration_fa": "۴۵ تا ۶۰ دقیقه",
+      "description": "Brisk walk at 5km/h. Preserves muscle mass.",
+      "description_fa": "پیاده‌روی سریع با سرعت ۵ کیلومتر. حفظ توده عضلانی."
+    },
+    {
+      "id": "method_12_3_30",
+      "title": "12-3-30 Treadmill Method",
+      "title_fa": "متد تردمیل ۱۲-۳-۳۰",
+      "duration": "30 min",
+      "duration_fa": "۳۰ دقیقه",
+      "description": "Incline 12, Speed 3mph (4.8km/h), for 30 mins.",
+      "description_fa": "شیب ۱۲، سرعت ۴.۸ کیلومتر، به مدت ۳۰ دقیقه."
+    },
+    {
+      "id": "tabata",
+      "title": "Tabata Protocol",
+      "title_fa": "پروتکل تاباتا",
+      "duration": "4 min (Rounds)",
+      "duration_fa": "۴ دقیقه (هر دور)",
+      "description": "20 sec max effort / 10 sec rest. 8 rounds.",
+      "description_fa": "۲۰ ثانیه تلاش حداکثر / ۱۰ ثانیه استراحت. ۸ دور."
+    },
+    {
+      "id": "stairmaster",
+      "title": "Stairmaster Intervals",
+      "title_fa": "اینتروال استپ‌میل (پله)",
+      "duration": "20 min",
+      "duration_fa": "۲۰ دقیقه",
+      "description": "Level 10 for 1 min / Level 5 for 1 min.",
+      "description_fa": "سطح ۱۰ برای ۱ دقیقه / سطح ۵ برای ۱ دقیقه."
+    },
+    {
+      "id": "fartlek",
+      "title": "Fartlek Training",
+      "title_fa": "تمرینات فارتلک (بازی با سرعت)",
+      "duration": "30-40 min",
+      "duration_fa": "۳۰ تا ۴۰ دقیقه",
+      "description": "Unstructured speed play. Fast to slow transitions.",
+      "description_fa": "تغییر سرعت بدون برنامه. انتقال از سریع به کند."
+    },
+    {
+      "id": "jump_rope",
+      "title": "Jump Rope Mastery",
+      "title_fa": "طناب‌زنی حرفه‌ای",
+      "duration": "15-20 min",
+      "duration_fa": "۱۵ تا ۲۰ دقیقه",
+      "description": "High metabolic demand. Improves coordination.",
+      "description_fa": "تقاضای متابولیک بالا. بهبود هماهنگی بدن."
+    },
+    {
+      "id": "rowing",
+      "title": "Rowing Machine Intervals",
+      "title_fa": "اینتروال دستگاه روئینگ",
+      "duration": "20 min",
+      "duration_fa": "۲۰ دقیقه",
+      "description": "Full body cardio. 500m sprint / 1 min rest.",
+      "description_fa": "هوازی کل بدن. ۵۰۰ متر سرعت / ۱ دقیقه استراحت."
+    },
+    {
+      "id": "assault_bike",
+      "title": "Assault Bike Sprints",
+      "title_fa": "اسپرینت با ایربایک",
+      "duration": "10-15 min",
+      "duration_fa": "۱۰ تا ۱۵ دقیقه",
+      "description": "The 'Calorie Killer'. 15 sec all out / 45 sec rest.",
+      "description_fa": "قاتل کالری. ۱۵ ثانیه انفجاری / ۴۵ ثانیه استراحت."
+    },
+    {
+      "id": "swimming",
+      "title": "Swimming Intervals",
+      "title_fa": "اینتروال شنا",
+      "duration": "30 min",
+      "duration_fa": "۳۰ دقیقه",
+      "description": "Zero impact. 2 laps fast / 1 lap slow.",
+      "description_fa": "بدون ضربه به مفاصل. ۲ طول سریع / ۱ طول آرام."
+    },
+    {
+      "id": "boxing",
+      "title": "Shadow Boxing",
+      "title_fa": "شدو بوکس (مشت‌زنی)",
+      "duration": "3 min Rounds",
+      "duration_fa": "راند‌های ۳ دقیقه‌ای",
+      "description": "Cardio + Core. 3 mins work / 1 min rest.",
+      "description_fa": "هوازی و میان‌تنه. ۳ دقیقه کار / ۱ دقیقه استراحت."
+    },
+    {
+      "id": "cycling_hills",
+      "title": "Cycling Hill Climbs",
+      "title_fa": "دوچرخه‌سواری سربالایی",
+      "duration": "45 min",
+      "duration_fa": "۴۵ دقیقه",
+      "description": "High resistance cycling to build leg endurance.",
+      "description_fa": "دوچرخه‌سواری با مقاومت بالا برای استقامت پا."
+    },
+    {
+      "id": "burpees",
+      "title": "Burpee Burner",
+      "title_fa": "چربی‌سوز برپی",
+      "duration": "10 min",
+      "duration_fa": "۱۰ دقیقه",
+      "description": "10 burpees every minute on the minute (EMOM).",
+      "description_fa": "۱۰ حرکت برپی در ابتدای هر دقیقه (EMOM)."
+    },
+    {
+      "id": "amrap_cardio",
+      "title": "AMRAP (Bodyweight)",
+      "title_fa": "متد AMRAP (وزن بدن)",
+      "duration": "20 min",
+      "duration_fa": "۲۰ دقیقه",
+      "description": "As many rounds as possible of Jumping Jacks & Mountain Climbers.",
+      "description_fa": "بیشترین دور ممکن از پروانه و کوهنورد."
+    },
+    {
+      "id": "sled_push",
+      "title": "Weighted Sled Pushes",
+      "title_fa": "هل دادن سورتمه",
+      "duration": "15 min",
+      "duration_fa": "۱۵ دقیقه",
+      "description": "Functional power cardio. Push 20m / Rest 1 min.",
+      "description_fa": "هوازی قدرتی. ۲۰ متر هل دادن / ۱ دقیقه استراحت."
+    },
+    {
+      "id": "battle_ropes",
+      "title": "Battle Ropes",
+      "title_fa": "بتل روپ (طناب جنگی)",
+      "duration": "10-15 min",
+      "duration_fa": "۱۰ تا ۱۵ دقیقه",
+      "description": "Explosive upper body cardio. 30 sec work / 30 sec rest.",
+      "description_fa": "هوازی انفجاری بالاتنه. ۳۰ ثانیه کار / ۳۰ ثانیه استراحت."
+    },
+    {
+      "id": "kettlebell_swings",
+      "title": "Kettlebell Swing Intervals",
+      "title_fa": "اینتروال کتل‌بل سویینگ",
+      "duration": "15 min",
+      "duration_fa": "۱۵ دقیقه",
+      "description": "20 swings / 30 sec rest. Repeat 15 times.",
+      "description_fa": "۲۰ تکرار سویینگ / ۳۰ ثانیه استراحت. ۱۵ بار تکرار."
+    },
+    {
+      "id": "trail_running",
+      "title": "Outdoor Trail Running",
+      "title_fa": "دویدن در طبیعت (ترایل)",
+      "duration": "40-60 min",
+      "duration_fa": "۴۰ تا ۶۰ دقیقه",
+      "description": "Variable terrain improves balance and ankle strength.",
+      "description_fa": "مسیرهای ناهموار برای بهبود تعادل و مچ پا."
+    },
+    {
+      "id": "pyramid_treadmill",
+      "title": "Pyramid Speed Training",
+      "title_fa": "تمرینات سرعتی هرمی",
+      "duration": "25 min",
+      "duration_fa": "۲۵ دقیقه",
+      "description": "Speed 8-9-10-11-10-9-8 km/h. Change every min.",
+      "description_fa": "سرعت ۸-۹-۱۰-۱۱-۱۰-۹-۸. تغییر در هر دقیقه."
+    },
+    {
+      "id": "morning_fasted",
+      "title": "Fasted Morning Cardio",
+      "title_fa": "هوازی ناشتا صبحگاهی",
+      "duration": "30-40 min",
+      "duration_fa": "۳۰ تا ۴۰ دقیقه",
+      "description": "Low intensity walking on empty stomach for fat oxidation.",
+      "description_fa": "پیاده‌روی با شدت کم با معده خالی برای اکسیداسیون چربی."
+    }
+  ]
+}

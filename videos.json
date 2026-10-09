@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title_en": "Perfect Squat Form",
+    "title_fa": "فرم صحیح اسکات",
+    "thumbnail": "v1",
+    "videoUrl": "https://www.youtube.com/watch?v=gcNh17Ckjgg",
+    "category": "exercises"
+  },
+  {
+    "id": "2",
+    "title_en": "How to Drop Set",
+    "title_fa": "آموزش دراپ ست",
+    "thumbnail": "v2",
+    "videoUrl": "https://www.youtube.com/watch?v=fS_n6Y9mU1k",
+    "category": "systems"
+  },
+  {
+    "id": "3",
+    "title_en": "Back Double Bicep Posing",
+    "title_fa": "فیگور جفت بازو از پشت",
+    "thumbnail": "v3",
+    "videoUrl": "https://www.youtube.com/watch?v=5V9H-M-Y7hE",
+    "category": "posing"
+  }
+]
