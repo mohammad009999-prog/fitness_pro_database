@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "plan_mens_bulks_ppl",
+    "category": "gain_muscle",
+    "target_audience": "men",
+    "title_en": "7-Day Push-Pull-Legs & Rest Routine",
+    "title_fa": "برنامه ۷ روزه کامل پوش-پول-پا و استراحت (مخصوص آقایان)",
+    "duration": "4 Weeks",
+    "description_en": "A complete 7-day training and rest schedule for maximum muscle mass accumulation.",
+    "description_fa": "برنامه کامل ۷ روزه تمرین و استراحت برای حداکثر رشد توده عضلانی.",
+    "info_en": "Designed using a Push-Pull-Legs split to ensure each muscle group gets hit twice a week with adequate 48-72h recovery periods for optimal hypertrophy.",
+    "info_fa": "طراحی شده با سیستم پوش-پول-پا برای اینکه هر گروه عضلانی دو بار در هفته با استکبار و زمان ریکاوری ۴۸ الی ۷۲ ساعته برای رشد حداکثری تمرین ببیند.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Push (Chest, Shoulders, Triceps)",
+        "focus_fa": "روز اول: پوش (سینه، سرشانه، پشت بازو)",
+        "exercises": [
+          {"id": "Barbell_Bench_Press_-_Medium_Grip", "sets": 4, "reps": "8-10"},
+          {"id": "Barbell_Shoulder_Press", "sets": 3, "reps": "8-10"},
+          {"id": "Around_The_Worlds", "sets": 3, "reps": "12"},
+          {"id": "Cable_One_Arm_Tricep_Extension", "sets": 3, "reps": "12-15"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Pull (Back, Biceps, Rear Delts)",
+        "focus_fa": "روز دوم: پول (پشت، جلو بازو، زیربغل)",
+        "exercises": [
+          {"id": "Barbell_Deadlift", "sets": 3, "reps": "5"},
+          {"id": "Chin-Up", "sets": 4, "reps": "10-12"},
+          {"id": "Bent_Over_Barbell_Row", "sets": 3, "reps": "8-10"},
+          {"id": "Barbell_Curl", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Legs (Quadriceps, Hamstrings, Calves)",
+        "focus_fa": "روز سوم: پا (چهارسر، همسترینگ، ساق)",
+        "exercises": [
+          {"id": "Barbell_Squat", "sets": 4, "reps": "6-8"},
+          {"id": "Ball_Leg_Curl", "sets": 3, "reps": "10-12"},
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 4, "reps": "15"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Active Rest & Mobility",
+        "focus_fa": "روز چهارم: استراحت فعال و کششی",
+        "exercises": [
+          {"id": "Cat_Stretch", "sets": 1, "reps": "20 min"},
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Upper Body Hypertrophy",
+        "focus_fa": "روز پنجم: هایپرتروفی بالاتنه",
+        "exercises": [
+          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "sets": 4, "reps": "8-10"},
+          {"id": "Pull-Up", "sets": 3, "reps": "to failure"},
+          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Lower Body Power & Core",
+        "focus_fa": "روز ششم: قدرت پایین‌تنه و عضلات مرکزی",
+        "exercises": [
+          {"id": "Barbell_Full_Squat", "sets": 3, "reps": "8"},
+          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "10 per leg"},
+          {"id": "Cable_Crunch", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_powerlifting_strength",
+    "category": "powerlifting",
+    "target_audience": "men",
+    "title_en": "7-Day Powerlifting Peak Strength Routine",
+    "title_fa": "برنامه ۷ روزه تخصصی افزایش قدرت پاورلیفتینگ",
+    "duration": "8 Weeks",
+    "description_en": "Focuses on the big three lifts with optimal recovery days.",
+    "description_fa": "تمرکز روی ۳ حرکت اصلی با روزهای استراحت و ریکاوری بهینه.",
+    "info_en": "Built around low rep ranges (3-5 reps) and high intensity (80-90% 1RM) targeting the Central Nervous System (CNS) adaptation for max raw power.",
+    "info_fa": "بر پایه تکرارهای پایین (۳ تا ۵ تکرار) و شدت بالا (۸۰ تا ۹۰ درصد یک تکرار بیشینه) جهت تطبیق سیستم عصبی مرکزی (CNS) برای افزایش رکورد خالص.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Heavy Squat Day",
+        "focus_fa": "روز اول: اسکوات سنگین",
+        "exercises": [
+          {"id": "Barbell_Full_Squat", "sets": 5, "reps": "3-5"},
+          {"id": "Box_Squat", "sets": 3, "reps": "4"},
+          {"id": "Calf_Press", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Heavy Bench Press Day",
+        "focus_fa": "روز دوم: پرس سینه سنگین",
+        "exercises": [
+          {"id": "Bench_Press_-_Powerlifting", "sets": 5, "reps": "3-5"},
+          {"id": "Board_Press", "sets": 3, "reps": "6-8"},
+          {"id": "Bench_Dips", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Rest & Recovery",
+        "focus_fa": "روز سوم: استراحت و ریکاوری",
+        "exercises": [
+          {"id": "Cat_Stretch", "sets": 1, "reps": "20 min"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Heavy Deadlift Day",
+        "focus_fa": "روز چهارم: ددلیفت سنگین",
+        "exercises": [
+          {"id": "Barbell_Deadlift", "sets": 4, "reps": "2-3"},
+          {"id": "Axle_Deadlift", "sets": 3, "reps": "4"},
+          {"id": "Barbell_Shrug", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Upper Body Accessories",
+        "focus_fa": "روز پنجم: حرکات کمکی بالاتنه",
+        "exercises": [
+          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "sets": 4, "reps": "8-10"},
+          {"id": "Bent_Over_Barbell_Row", "sets": 4, "reps": "8"},
+          {"id": "Cable_Rear_Delt_Fly", "sets": 3, "reps": "15"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Light Technique & Mobility",
+        "focus_fa": "روز ششم: تکنیک سبک و تحرک مفاصل",
+        "exercises": [
+          {"id": "Barbell_Squat", "sets": 3, "reps": "5"},
+          {"id": "Cable_Crunch", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_mens_fat_loss",
+    "category": "weight_loss",
+    "target_audience": "men",
+    "title_en": "7-Day Men's Shred & Fat Loss Routine",
+    "title_fa": "برنامه ۷ روزه کاهش وزن و چربی‌سوزی پیشرفته (مخصوص آقایان)",
+    "duration": "8 Weeks",
+    "description_en": "High-intensity training routine combined with cardio designed to shed body fat while preserving muscle mass.",
+    "description_fa": "برنامه تمرینی پرفشار همراه با هوازی، طراحی شده برای چربی‌سوزی سریع و حفظ حجم عضلانی.",
+    "info_en": "Combines heavy compound movements with supersets and targeted cardio sessions to maximize post-exercise oxygen consumption (EPOC) and caloric deficit.",
+    "info_fa": "ترکیب حرکات چندمفصلی سنگین با سوپرست‌ها و جلسات هوازی هدفمند برای به حداکثر رساندن مصرف اکسیژن پس از تمرین (EPOC) و کسری کالری.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Upper Body Shred Circuit",
+        "focus_fa": "روز اول: دایره‌ای چربی‌سوزی بالاتنه",
+        "exercises": [
+          {"id": "Barbell_Bench_Press_-_Medium_Grip", "sets": 4, "reps": "12"},
+          {"id": "Bent_Over_Barbell_Row", "sets": 4, "reps": "12"},
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "25 min"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Lower Body Power & Fat Burn",
+        "focus_fa": "روز دوم: قدرت پایین‌تنه و سوزاندن چربی",
+        "exercises": [
+          {"id": "Barbell_Squat", "sets": 4, "reps": "10"},
+          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "12 per leg"},
+          {"id": "Air_Bike", "sets": 3, "reps": "45 sec"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Core & HIIT Cardio",
+        "focus_fa": "روز سوم: عضلات شکم و هوازی اینتروال",
+        "exercises": [
+          {"id": "Cable_Crunch", "sets": 4, "reps": "20"},
+          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "20"},
+          {"id": "Bicycling", "sets": 1, "reps": "30 min"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Active Rest & Mobility",
+        "focus_fa": "روز چهارم: استراحت فعال و تحرک مفاصل",
+        "exercises": [
+          {"id": "Cat_Stretch", "sets": 1, "reps": "20 min"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Push & Core Conditioning",
+        "focus_fa": "روز پنجم: آمادگی عضلات پوش و شکم",
+        "exercises": [
+          {"id": "Barbell_Shoulder_Press", "sets": 4, "reps": "12"},
+          {"id": "Cable_One_Arm_Tricep_Extension", "sets": 3, "reps": "15"},
+          {"id": "Ab_Roller", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Pull & Stamina",
+        "focus_fa": "روز ششم: عضلات پول و استقامت",
+        "exercises": [
+          {"id": "Barbell_Deadlift", "sets": 3, "reps": "10"},
+          {"id": "Barbell_Curl", "sets": 3, "reps": "15"},
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_mens_competition_prep",
+    "category": "competition",
+    "target_audience": "men",
+    "title_en": "7-Day Men's Bodybuilding & Physique Contest Prep",
+    "title_fa": "برنامه ۷ روزه آمادگی مسابقات بدنسازی و فیزیک آقایان",
+    "duration": "12 Weeks",
+    "description_en": "Professional stage preparation routine focusing on extreme muscle definition, symmetry, and hardness.",
+    "description_fa": "برنامه حرفه‌ای آماده‌سازی استیج با تمرکز روی کات عضلانی حداکثری، تقارن و سفتی بافت عضلانی.",
+    "info_en": "Employs advanced split routines targeting lagging body parts, strict volume control, and posing drills to ensure peak stage conditioning.",
+    "info_fa": "از سیستم‌های اسپلیت پیشرفته برای نقاط ضعف، کنترل دقیق حجم تمرین و تمرینات ژس برای حصول اوج آمادگی استیج استفاده می‌کند.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Chest & Calves Hardness",
+        "focus_fa": "روز اول: تفکیک سینه و سفتی ساق",
+        "exercises": [
+          {"id": "Barbell_Bench_Press_-_Medium_Grip", "sets": 5, "reps": "8-10"},
+          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "sets": 4, "reps": "10"},
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 5, "reps": "15"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Back Width & Thickness",
+        "focus_fa": "روز دوم: عرض و ضخامت عضلات پشت",
+        "exercises": [
+          {"id": "Barbell_Deadlift", "sets": 4, "reps": "6"},
+          {"id": "Bent_Over_Barbell_Row", "sets": 4, "reps": "8-10"},
+          {"id": "Chin-Up", "sets": 3, "reps": "to failure"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Shoulders & Arms Detail",
+        "focus_fa": "روز سوم: جزئیات سرشانه و بازوها",
+        "exercises": [
+          {"id": "Barbell_Shoulder_Press", "sets": 4, "reps": "8-10"},
+          {"id": "Barbell_Curl", "sets": 4, "reps": "10"},
+          {"id": "Cable_One_Arm_Tricep_Extension", "sets": 4, "reps": "12"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Leg Sweep & Separation",
+        "focus_fa": "روز چهارم: تفکیک و کات عضلات پا",
+        "exercises": [
+          {"id": "Barbell_Full_Squat", "sets": 5, "reps": "8"},
+          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "12 per leg"},
+          {"id": "Ball_Leg_Curl", "sets": 4, "reps": "12"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Core & Posing Session",
+        "focus_fa": "روز پنجم: عضلات شکم و تمرین ژس‌گیری",
+        "exercises": [
+          {"id": "Cable_Crunch", "sets": 4, "reps": "15"},
+          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "20"},
+          {"id": "Air_Bike", "sets": 3, "reps": "60 sec"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Cardio & Conditioning Polish",
+        "focus_fa": "روز ششم: هوازی و پرداخت نهایی کات",
+        "exercises": [
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "45 min"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_home_bodyweight_fitness",
+    "category": "gain_muscle",
+    "target_audience": "general",
+    "title_en": "7-Day Calisthenics & Home Bodyweight Fitness",
+    "title_fa": "برنامه ۷ روزه تناسب اندام در خانه و تمرین با وزن بدن (کالیستنیکس)",
+    "duration": "6 Weeks",
+    "description_en": "No-equipment full-body routine designed to build functional strength, mobility, and tone at home.",
+    "description_fa": "برنامه کامل بدون نیاز به تجهیزات برای ساخت قدرت کاربردی، تحرک و فرم بدنی در خانه.",
+    "info_en": "Utilizes bodyweight resistance mechanics with varied leverage and tempo to stimulate muscle growth and cardiovascular fitness without a gym.",
+    "info_fa": "از مکانیک مقاومت با وزن بدن به همراه تغییر اهرم‌ها و سرعت اجرا برای تحریک رشد عضلانی و آمادگی قلبی عروقی بدون نیاز به باشگاه بهره می‌برد.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Upper Body Push & Core",
+        "focus_fa": "روز اول: بالاتنه پوش و عضلات مرکزی",
+        "exercises": [
+          {"id": "Bench_Dips", "sets": 4, "reps": "12"},
+          {"id": "Air_Bike", "sets": 3, "reps": "45 sec"},
+          {"id": "Cat_Stretch", "sets": 2, "reps": "10"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Lower Body Bodyweight Burn",
+        "focus_fa": "روز دوم: چربی‌سوزی و فرم‌دهی پایین‌تنه با وزن بدن",
+        "exercises": [
+          {"id": "Barbell_Squat", "sets": 4, "reps": "20"},
+          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "15 per leg"},
+          {"id": "Calf_Press", "sets": 3, "reps": "20"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Active Rest & Stretching",
+        "focus_fa": "روز سوم: استراحت فعال و کششی",
+        "exercises": [
+          {"id": "Cat_Stretch", "sets": 1, "reps": "25 min"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Pull & Back Strength",
+        "focus_fa": "روز چهارم: قدرت پشت و عضلات پول",
+        "exercises": [
+          {"id": "Chin-Up", "sets": 3, "reps": "8"},
+          {"id": "Pull-Up", "sets": 3, "reps": "6"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Full Body Circuit & Cardio",
+        "focus_fa": "روز پنجم: دایره‌ای کل بدن و هوازی خانگی",
+        "exercises": [
+          {"id": "Box_Jump_Multiple_Response", "sets": 3, "reps": "12"},
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Core Stability & Balance",
+        "focus_fa": "روز ششم: ثبات عضلات مرکزی و تعادل",
+        "exercises": [
+          {"id": "Cable_Crunch", "sets": 3, "reps": "15"},
+          {"id": "Alternate_Heel_Touchers", "sets": 3, "reps": "20"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_mobility_posture",
+    "category": "recovery",
+    "target_audience": "general",
+    "title_en": "7-Day Posture Correction & Joint Mobility Routine",
+    "title_fa": "برنامه ۷ روزه اصلاح فرم بدن و تحرک مفاصل (ضد درد و خشکی)",
+    "duration": "4 Weeks",
+    "description_en": "Therapeutic routine designed to reverse desk-job posture, alleviate lower back tension, and restore joint flexibility.",
+    "description_fa": "برنامه درمانی برای اصلاح عوارض نشستن طولانی، کاهش تنفش کمر و بازیابی انعطاف مفاصل.",
+    "info_en": "Focuses on active stretching, myofascial release simulation, and spinal alignment to improve posture and prevent joint wear.",
+    "info_fa": "تمرکز بر کشش‌های فعال، شبیه‌سازی ریکاوری عضلانی و تراز ستون فقرات برای بهبود فرم بدنی و جلوگیری از فرسایش مفاصل.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Spine & Lower Back Relief",
+        "focus_fa": "روز اول: تسکین ستون فقرات و کمردرد",
+        "exercises": [
+          {"id": "Cat_Stretch", "sets": 3, "reps": "15"},
+          {"id": "Childs_Pose", "sets": 3, "reps": "2 min"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Hip Openers & Leg Flexibility",
+        "focus_fa": "روز دوم: باز کردن مفاصل لگن و انعطاف پا",
+        "exercises": [
+          {"id": "90_90_Hamstring", "sets": 3, "reps": "10 per leg"},
+          {"id": "Barbell_Side_Split_Squat", "sets": 2, "reps": "8"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Shoulder & Upper Back Posture",
+        "focus_fa": "روز سوم: اصلاح شانه و بالاتنه",
+        "exercises": [
+          {"id": "Arm_Circles", "sets": 3, "reps": "20"},
+          {"id": "Band_Pull_Apart", "sets": 3, "reps": "15"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Full Body Active Flow",
+        "focus_fa": "روز چهارم: جریان فعال کششی کل بدن",
+        "exercises": [
+          {"id": "Cat_Stretch", "sets": 4, "reps": "12"},
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "20 min"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Ankle & Knee Mobility",
+        "focus_fa": "روز پنجم: تحرک مچ پا و زانو",
+        "exercises": [
+          {"id": "Ankle_Circles", "sets": 3, "reps": "15"},
+          {"id": "Box_Skip", "sets": 2, "reps": "10"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Deep Relaxation & Core Stretch",
+        "focus_fa": "روز ششم: آرام‌سازی عمیق و کشش عضلات مرکزی",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 4, "reps": "1 min"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_soccer_conditioning",
+    "category": "soccer",
+    "target_audience": "men",
+    "title_en": "7-Day Soccer Agility & Match Conditioning",
+    "title_fa": "برنامه ۷ روزه چابکی، استقامت و آمادگی فوتبالیست‌ها",
+    "duration": "6 Weeks",
+    "description_en": "Optimized weekly schedule for soccer players balancing speed, strength, and rest.",
+    "description_fa": "برنامه هفتگی بهینه برای فوتبالیست‌ها با تعادل میان سرعت، قدرت و استراحت.",
+    "info_en": "Emphasizes explosive lateral movements, core stability, and hamstring injury prevention vital for soccer match performances.",
+    "info_fa": "تاکید بر حرکات انفجاری جانبی، ثبات عضلات مرکزی و پیشگیری از آسیب همسترینگ که برای عملکرد در مسابقه فوتبال حیاتی است.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Speed & Agility Drills",
+        "focus_fa": "روز اول: تمرینات سرعت و چابکی",
+        "exercises": [
+          {"id": "Alternate_Leg_Diagonal_Bound", "sets": 5, "reps": "30 sec"},
+          {"id": "Box_Jump_Multiple_Response", "sets": 4, "reps": "8"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Lower Body Strength & Injury Prevention",
+        "focus_fa": "روز دوم: قدرت پایین‌تنه و پیشگیری از آسیب",
+        "exercises": [
+          {"id": "Barbell_Deadlift", "sets": 3, "reps": "6"},
+          {"id": "90_90_Hamstring", "sets": 3, "reps": "8"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Active Recovery / Light Ball Work",
+        "focus_fa": "روز سوم: استراحت فعال / کار با توپ سبک",
+        "exercises": [
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Endurance & Interval Running",
+        "focus_fa": "روز چهارم: استقامت و دویدن اینتروال",
+        "exercises": [
+          {"id": "Bicycling", "sets": 8, "reps": "30s sprint / 60s walk"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Core & Stability",
+        "focus_fa": "روز پنجم: عضلات مرکزی و ثبات بدن",
+        "exercises": [
+          {"id": "Air_Bike", "sets": 4, "reps": "60 sec"},
+          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "20"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Tactical / Match Simulation",
+        "focus_fa": "روز ششم: شبیه‌سازی مسابقه / تاکتیکی",
+        "exercises": [
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "60 min"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Full Rest & Recovery",
+        "focus_fa": "روز هفتم: استراحت کامل و ریکاوری",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_volleyball_conditioning",
+    "category": "volleyball",
+    "target_audience": "general",
+    "title_en": "7-Day Volleyball Vertical Jump & Power Routine",
+    "title_fa": "برنامه ۷ روزه پرش عمودی و قدرت انفجاری والیبالیست‌ها",
+    "duration": "6 Weeks",
+    "description_en": "Designed to increase vertical jump height, shoulder health, and court agility.",
+    "description_fa": "طراحی شده برای افزایش ارتفاع پرش عمودی، سلامت شانه و چابکی در زمین.",
+    "info_en": "Focuses on plyometrics for explosive power in spiking/blocking, combined with rotator cuff protection for shoulders.",
+    "info_fa": "تمرکز روی پلیومتریک برای قدرت انفجاری در آبشار و دفاع، همراه با محافظت از عضلات روتاتور کاف شانه.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Lower Body Plyometrics & Jump Power",
+        "focus_fa": "روز اول: پلیومتریک پایین‌تنه و قدرت پرش",
+        "exercises": [
+          {"id": "Box_Jump_Multiple_Response", "sets": 4, "reps": "8"},
+          {"id": "Bench_Jump", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Shoulder Stability & Spiking Power",
+        "focus_fa": "روز دوم: ثبات شانه و قدرت آبشار",
+        "exercises": [
+          {"id": "Alternating_Cable_Shoulder_Press", "sets": 3, "reps": "10"},
+          {"id": "Band_Pull_Apart", "sets": 3, "reps": "15"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Active Recovery & Mobility",
+        "focus_fa": "روز سوم: استراحت فعال و تحرک مفاصل",
+        "exercises": [
+          {"id": "Arm_Circles", "sets": 1, "reps": "20 min"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Leg Strength & Landing Absorbtion",
+        "focus_fa": "روز چهارم: قدرت پا و جذب ضربه فرود",
+        "exercises": [
+          {"id": "Barbell_Squat", "sets": 4, "reps": "6"},
+          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Core & Court Agility",
+        "focus_fa": "روز پنجم: عضلات مرکزی و چابکی در زمین",
+        "exercises": [
+          {"id": "Air_Bike", "sets": 3, "reps": "45 sec"},
+          {"id": "Alternate_Heel_Touchers", "sets": 3, "reps": "20"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Spike Simulation & Flexibility",
+        "focus_fa": "روز ششم: شبیه‌سازی آبشار و انعطاف‌پذیری",
+        "exercises": [
+          {"id": "Backward_Medicine_Ball_Throw", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_basketball_conditioning",
+    "category": "basketball",
+    "target_audience": "general",
+    "title_en": "7-Day Basketball Explosive Speed & Endurance",
+    "title_fa": "برنامه ۷ روزه سرعت انفجاری و استقامت بسکتبال",
+    "duration": "6 Weeks",
+    "description_en": "Focuses on lateral quickness, vertical dominance, and high-intensity court conditioning.",
+    "description_fa": "تمرکز بر سرعت جانبی، تسلط بر پرش عمودی و آمادگی جسمانی پرشدت در زمین.",
+    "info_en": "Tailored for basketball players requiring repeated sprints, rapid direction changes, and vertical rebounding power.",
+    "info_fa": "مناسب بازیکنان بسکتبال که نیازمند استارت‌های مکرر، تغییر مسیر ناگهانی و قدرت ریباند عمودی هستند.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Explosive Leg Power & Verticals",
+        "focus_fa": "روز اول: قدرت انفجاری پا و پرش عمودی",
+        "exercises": [
+          {"id": "Box_Jump_Multiple_Response", "sets": 4, "reps": "10"},
+          {"id": "Barbell_Full_Squat", "sets": 3, "reps": "6"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Upper Body & Ball Control Strength",
+        "focus_fa": "روز دوم: قدرت بالاتنه و کنترل توپ",
+        "exercises": [
+          {"id": "Cable_Chest_Press", "sets": 3, "reps": "10"},
+          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Active Recovery",
+        "focus_fa": "روز سوم: استراحت فعال",
+        "exercises": [
+          {"id": "Ankle_Circles", "sets": 1, "reps": "15 min"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Speed & Court Agility",
+        "focus_fa": "روز چهارم: سرعت و چابکی در زمین",
+        "exercises": [
+          {"id": "Alternate_Leg_Diagonal_Bound", "sets": 4, "reps": "30 sec"},
+          {"id": "Bench_Sprint", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Core Strength & Balance",
+        "focus_fa": "روز پنجم: قدرت عضلات مرکزی و تعادل",
+        "exercises": [
+          {"id": "Ab_Roller", "sets": 3, "reps": "10"},
+          {"id": "Bosu_Ball_Cable_Crunch_With_Side_Bends", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Endurance Conditioning",
+        "focus_fa": "روز ششم: تمرینات استقامتی",
+        "exercises": [
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "40 min"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_tennis_conditioning",
+    "category": "tennis",
+    "target_audience": "general",
+    "title_en": "7-Day Tennis Rotational Power & Agility",
+    "title_fa": "برنامه ۷ روزه قدرت چرخشی و چابکی تنیس‌بازان",
+    "duration": "6 Weeks",
+    "description_en": "Enhances shoulder rotator cuff health, rotational core power, and baseline footwork.",
+    "description_fa": "تقویت سلامت روتاتور کاف شانه، قدرت چرخشی عضلات مرکزی و پادویی در خط بیس‌لاین.",
+    "info_en": "Focuses on unilateral movements, oblique rotational strength for serves/forehands, and shoulder injury prevention.",
+    "info_fa": "تمرکز روی حرکات یک‌طرفه، قدرت چرخشی مایل برای سرویس و فورتند، و پیشگیری از آسیب شانه.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Rotational Core & Serve Power",
+        "focus_fa": "روز اول: عضلات مرکزی چرخشی و قدرت سرویس",
+        "exercises": [
+          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "15"},
+          {"id": "Barbell_Shoulder_Press", "sets": 3, "reps": "8"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Footwork & Court Agility",
+        "focus_fa": "روز دوم: پادویی و چابکی در زمین",
+        "exercises": [
+          {"id": "Carioca_Quick_Step", "sets": 4, "reps": "30 sec"},
+          {"id": "Box_Skip", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Shoulder Mobility & Stretch",
+        "focus_fa": "روز سوم: تحرک و کشش شانه",
+        "exercises": [
+          {"id": "Arm_Circles", "sets": 1, "reps": "20 min"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Lower Body Stability & Lunges",
+        "focus_fa": "روز چهارم: ثبات پایین‌تنه و لانژها",
+        "exercises": [
+          {"id": "Barbell_Lunge", "sets": 3, "reps": "10 per leg"},
+          {"id": "Barbell_Side_Split_Squat", "sets": 3, "reps": "8"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Grip & Forearm Strength",
+        "focus_fa": "روز پنجم: تقویت مچ و ساعد",
+        "exercises": [
+          {"id": "Cable_Wrist_Curl", "sets": 3, "reps": "15"},
+          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Cardio & Match Stamina",
+        "focus_fa": "روز ششم: هوازی و استقامت مسابقه",
+        "exercises": [
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "45 min"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_running_conditioning",
+    "category": "running",
+    "target_audience": "general",
+    "title_en": "7-Day Runner Strength & Injury Prevention",
+    "title_fa": "برنامه ۷ روزه قدرت دونده و پیشگیری از آسیب",
+    "duration": "6 Weeks",
+    "description_en": "Builds single-leg stability, glute strength, and calf durability to prevent running injuries.",
+    "description_fa": "تقویت ثبات تک‌پا، قدرت باسن و استقامت ساق پا برای جلوگیری از آسیب‌های دویدن.",
+    "info_en": "Targeted at runners to strengthen knees, ankles, and core stability, reducing impact stress during long-distance runs.",
+    "info_fa": "مناسب دوگانه‌کاران و دوندگان برای تقویت زانو، مچ پا و ثبات مرکزی جهت کاهش فشار ضربات در دویدن‌های استقامتی.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Single-Leg Stability & Glutes",
+        "focus_fa": "روز اول: ثبات تک‌پا و عضلات باسن",
+        "exercises": [
+          {"id": "Barbell_Glute_Bridge", "sets": 4, "reps": "12"},
+          {"id": "Barbell_Step_Ups", "sets": 3, "reps": "10 per leg"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Calf Durability & Ankle Strength",
+        "focus_fa": "روز دوم: استقامت ساق و قدرت مچ پا",
+        "exercises": [
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 4, "reps": "20"},
+          {"id": "Ankle_Circles", "sets": 3, "reps": "15"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Active Recovery / Easy Jog",
+        "focus_fa": "روز سوم: استراحت فعال / دویدن سبک",
+        "exercises": [
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Core & Running Posture",
+        "focus_fa": "روز چهارم: عضلات مرکزی و استایل دویدن",
+        "exercises": [
+          {"id": "Air_Bike", "sets": 3, "reps": "50 sec"},
+          {"id": "Cat_Stretch", "sets": 3, "reps": "60 sec"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Hamstring & Lower Back Strength",
+        "focus_fa": "روز پنجم: قدرت همسترینگ و فیله کمر",
+        "exercises": [
+          {"id": "Ball_Leg_Curl", "sets": 3, "reps": "12"},
+          {"id": "Cat_Stretch", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Long Distance Prep / Stamina",
+        "focus_fa": "روز ششم: آمادگی مسافت طولانی / استقامت",
+        "exercises": [
+          {"id": "Bicycling", "sets": 1, "reps": "60 min"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_womens_glute_hypertrophy",
+    "category": "gain_muscle",
+    "target_audience": "women",
+    "title_en": "7-Day Women's Lower Body & Glute Hypertrophy",
+    "title_fa": "برنامه ۷ روزه عضله‌سازی و فرم‌دهی پایین‌تنه و سرینی (مخصوص بانوان)",
+    "duration": "6 Weeks",
+    "description_en": "Focused on glute shaping, hamstring development, and core tightness.",
+    "description_fa": "تمرکز روی فرم‌دهی عضلات سرینی، توسعه همسترینگ و استحکام عضلات مرکزی.",
+    "info_en": "Designed with a high-frequency glute focus combined with upper-body toning to create an aesthetic, balanced physique for women.",
+    "info_fa": "طراحی شده با فرکانس بالا روی عضلات پایین‌تنه به همراه فرم‌دهی بالاتنه برای ایجاد یک فیزیک بدنی متوازن و ایده‌آل برای بانوان.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Glute & Quad Focus",
+        "focus_fa": "روز اول: تمرکز روی باسن و چهارسر",
+        "exercises": [
+          {"id": "Barbell_Full_Squat", "sets": 4, "reps": "8-10"},
+          {"id": "Barbell_Glute_Bridge", "sets": 4, "reps": "12"},
+          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "10 per leg"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Upper Body Toning & Core",
+        "focus_fa": "روز دوم: فرم‌دهی بالاتنه و شکم",
+        "exercises": [
+          {"id": "Cable_Chest_Press", "sets": 3, "reps": "12"},
+          {"id": "Around_The_Worlds", "sets": 3, "reps": "12"},
+          {"id": "Cable_Crunch", "sets": 3, "reps": "15"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Hamstring & Glute Isolation",
+        "focus_fa": "روز سوم: همسترینگ و تفکیک باسن",
+        "exercises": [
+          {"id": "Barbell_Deadlift", "sets": 3, "reps": "8"},
+          {"id": "Ball_Leg_Curl", "sets": 3, "reps": "12"},
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 3, "reps": "15"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Active Rest & Stretching",
+        "focus_fa": "روز چهارم: استراحت فعال و کششی",
+        "exercises": [
+          {"id": "Cat_Stretch", "sets": 1, "reps": "20 min"},
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Total Lower Body Burnout",
+        "focus_fa": "روز پنجم: چربی‌سوزی و فرم‌دهی کل پایین‌تنه",
+        "exercises": [
+          {"id": "Barbell_Side_Split_Squat", "sets": 3, "reps": "10 per leg"},
+          {"id": "Barbell_Step_Ups", "sets": 3, "reps": "12 per leg"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Upper Body & Posture",
+        "focus_fa": "روز ششم: بالاتنه و اصلاح فرم ایستادن",
+        "exercises": [
+          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "12"},
+          {"id": "Cable_One_Arm_Tricep_Extension", "sets": 3, "reps": "12"},
+          {"id": "Air_Bike", "sets": 3, "reps": "45 sec"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_womens_weight_loss",
+    "category": "weight_loss",
+    "target_audience": "women",
+    "title_en": "7-Day Women's Fat Loss & Tone Routine",
+    "title_fa": "برنامه ۷ روزه چربی‌سوزی و کاهش وزن بانوان",
+    "duration": "8 Weeks",
+    "description_en": "Combines high repetition weight training with cardio to maximize caloric burn.",
+    "description_fa": "ترکیبی از تمرینات با وزنه با تکرار بالا و هوازی برای حداکثر کالری‌سوزی.",
+    "info_en": "Keeps heart rate elevated through circuit-style compound movements, preserving lean muscle while shedding body fat.",
+    "info_fa": "ضربان قلب را با حرکات ترکیبی به صورت دایره‌ای بالا نگه می‌دارد تا همزمان با آب کردن چربی‌ها، عضلات سفت و حفظ شوند.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Full Body Circuit A",
+        "focus_fa": "روز اول: دایره‌ای کل بدن (الف)",
+        "exercises": [
+          {"id": "Barbell_Full_Squat", "sets": 3, "reps": "15"},
+          {"id": "Cable_Chest_Press", "sets": 3, "reps": "15"},
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "20 min"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Core & Cardio Burn",
+        "focus_fa": "روز دوم: هوازی و عضلات مرکزی",
+        "exercises": [
+          {"id": "Air_Bike", "sets": 4, "reps": "60 sec"},
+          {"id": "Cable_Crunch", "sets": 3, "reps": "20"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Full Body Circuit B",
+        "focus_fa": "روز سوم: دایره‌ای کل بدن (ب)",
+        "exercises": [
+          {"id": "Barbell_Deadlift", "sets": 3, "reps": "12"},
+          {"id": "Barbell_Shoulder_Press", "sets": 3, "reps": "12"},
+          {"id": "Bicycling", "sets": 1, "reps": "25 min"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Active Rest & Stretch",
+        "focus_fa": "روز چهارم: استراحت فعال و کشش",
+        "exercises": [
+          {"id": "Cat_Stretch", "sets": 1, "reps": "30 min"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Lower Body Tone & Sweat",
+        "focus_fa": "روز پنجم: فرم‌دهی پایین‌تنه و تعریق",
+        "exercises": [
+          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "15 per leg"},
+          {"id": "Barbell_Glute_Bridge", "sets": 4, "reps": "15"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "HIIT & Core Stability",
+        "focus_fa": "روز ششم: تمرین پرفشار اینتروال و ثبات شکم",
+        "exercises": [
+          {"id": "Box_Jump_Multiple_Response", "sets": 3, "reps": "10"},
+          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "20"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_womens_weight_gain",
+    "category": "gain_weight",
+    "target_audience": "women",
+    "title_en": "7-Day Women's Healthy Weight & Mass Gain",
+    "title_fa": "برنامه ۷ روزه افزایش وزن و حجم سالم بانوان",
+    "duration": "10 Weeks",
+    "description_en": "Designed for ectomorph women to build curves and gain healthy body weight.",
+    "description_fa": "مخصوص بانوان لاغراندام (اکتومورف) برای ساخت فرم بدن و افزایش وزن سالم.",
+    "info_en": "Focuses on moderate-to-heavy compound lifts with lower frequencies to ensure caloric surplus converts into solid muscle mass rather than fatigue.",
+    "info_en_fa": "تمرکز روی حرکات ترکیبی با وزنه نسبتاً سنگین و حجم تکرار کنترل‌شده تا مازاد کالری دریافتی تبدیل به بافت عضلانی باکیفیت شود.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Heavy Lower Body",
+        "focus_fa": "روز اول: پایین‌تنه سنگین",
+        "exercises": [
+          {"id": "Barbell_Full_Squat", "sets": 4, "reps": "8"},
+          {"id": "Barbell_Deadlift", "sets": 3, "reps": "6"},
+          {"id": "Barbell_Glute_Bridge", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Upper Body & Arms",
+        "focus_fa": "روز دوم: بالاتنه و بازوها",
+        "exercises": [
+          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "sets": 3, "reps": "8"},
+          {"id": "Bent_Over_Barbell_Row", "sets": 3, "reps": "8"},
+          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Rest & Nutrition Focus",
+        "focus_fa": "روز سوم: استراحت و تمرکز روی تغذیه",
+        "exercises": [
+          {"id": "Cat_Stretch", "sets": 1, "reps": "15 min"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Glute & Leg Shaping",
+        "focus_fa": "روز چهارم: فرم‌دهی باسن و پا",
+        "exercises": [
+          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "10 per leg"},
+          {"id": "Ball_Leg_Curl", "sets": 3, "reps": "10"},
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Shoulder & Back Width",
+        "focus_fa": "روز پنجم: سرشانه و عرض پشت",
+        "exercises": [
+          {"id": "Barbell_Shoulder_Press", "sets": 3, "reps": "8"},
+          {"id": "Around_The_Worlds", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Core & Light Mobility",
+        "focus_fa": "روز ششم: شکم و تحرک سبک",
+        "exercises": [
+          {"id": "Cable_Crunch", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_womens_competition_prep",
+    "category": "competition",
+    "target_audience": "women",
+    "title_en": "7-Day Women's Bikini Fitness Competition Prep",
+    "title_fa": "برنامه ۷ روزه آمادگی مسابقات تناسب اندام (بیکینی فیتنس بانوان)",
+    "duration": "12 Weeks",
+    "description_en": "Advanced contest preparation routine focusing on symmetry, strict conditioning, and muscle tightness.",
+    "description_fa": "برنامه پیشرفته آماده‌سازی مسابقات با تمرکز روی تقارن، کات عضلانی و فرم خطی بدن.",
+    "info_en": "Strict structural training aimed at accentuating shoulder-to-waist ratio and maximum glute-hamstring separation required for stage presentation.",
+    "info_fa": "تمرینات ساختاریافته دقیق برای برجسته‌سازی نسبت شانه به کمر و جداسازی کامل خطوط عضلانی باسن و همسترینگ جهت استیج مسابقه.",
+    "schedule": [
+      {
+        "day": 1,
+        "focus_en": "Stage Glutes & Hamstrings",
+        "focus_fa": "روز اول: باسن و همسترینگ استیجی",
+        "exercises": [
+          {"id": "Barbell_Deadlift", "sets": 4, "reps": "8"},
+          {"id": "Barbell_Glute_Bridge", "sets": 4, "reps": "12"},
+          {"id": "Ball_Leg_Curl", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 2,
+        "focus_en": "Shoulder & Back V-Taper",
+        "focus_fa": "روز دوم: سرشانه و زیربغل برای فرم V",
+        "exercises": [
+          {"id": "Barbell_Shoulder_Press", "sets": 4, "reps": "10"},
+          {"id": "Around_The_Worlds", "sets": 3, "reps": "12"},
+          {"id": "Bent_Over_Barbell_Row", "sets": 3, "reps": "10"}
+        ]
+      },
+      {
+        "day": 3,
+        "focus_en": "Core & Stage Posing Practice",
+        "focus_fa": "روز سوم: شکم و تمرین ژس‌های استیج",
+        "exercises": [
+          {"id": "Cable_Crunch", "sets": 4, "reps": "15"},
+          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "20"}
+        ]
+      },
+      {
+        "day": 4,
+        "focus_en": "Quadriceps & Calves Shaping",
+        "focus_fa": "روز چهارم: تفکیک چهارسر و ساق",
+        "exercises": [
+          {"id": "Barbell_Full_Squat", "sets": 4, "reps": "8"},
+          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "12 per leg"},
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 4, "reps": "15"}
+        ]
+      },
+      {
+        "day": 5,
+        "focus_en": "Upper Body Polish",
+        "focus_fa": "روز پنجم: پرداخت نهایی بالاتنه",
+        "exercises": [
+          {"id": "Cable_Chest_Press", "sets": 3, "reps": "12"},
+          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "12"}
+        ]
+      },
+      {
+        "day": 6,
+        "focus_en": "Cardio & Conditioning Burn",
+        "focus_fa": "روز ششم: هوازی و تخلیه نهایی چربی",
+        "exercises": [
+          {"id": "Bicycling_Stationary", "sets": 1, "reps": "45 min"}
+        ]
+      },
+      {
+        "day": 7,
+        "focus_en": "Complete Rest Day",
+        "focus_fa": "روز هفتم: استراحت مطلق",
+        "exercises": [
+          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+        ]
+      }
+    ]
+  }
+]

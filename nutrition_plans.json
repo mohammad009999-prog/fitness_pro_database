@@ -1,0 +1,1497 @@
+[
+  {
+    "id": "nutri_plan_mens_bulks_ppl",
+    "workout_plan_id": "plan_mens_bulks_ppl",
+    "target_audience": "men",
+    "category": "gain_muscle",
+    "title_en": "High-Calorie Hypertrophy Nutrition Plan",
+    "title_fa": "برنامه تغذیه پرکالری و هایپرتروفی (عضله‌سازی آقایان)",
+    "info_en": "Designed to maintain a 15-20% caloric surplus with high protein intake (2.2g per kg of body weight) to fuel heavy Push-Pull-Legs workouts and maximize muscle mass recovery.",
+    "info_fa": "طراحی شده برای حفظ مازاد کالری ۱۵ الی ۲۰ درصدی با پروتئین بالا (۲.۲ گرم به ازای هر کیلوگرم وزن بدن) جهت تامین انرژی تمرینات سنگین پوش-پول-پا و ریکاوری حداکثری توده عضلانی.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 3200,
+        "protein_g": 180,
+        "carbs_g": 400,
+        "fats_g": 90,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
+          {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "30g post-workout"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 3200,
+        "protein_g": 180,
+        "carbs_g": 400,
+        "fats_g": 90,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
+          {"name_en": "Omega-3 Fish Oil", "name_fa": "امگا ۳", "dose": "2000mg with meal"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 3200,
+        "protein_g": 180,
+        "carbs_g": 400,
+        "fats_g": 90,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
+          {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "30g post-workout"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 2800,
+        "protein_g": 160,
+        "carbs_g": 320,
+        "fats_g": 85,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet with breakfast"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 3200,
+        "protein_g": 180,
+        "carbs_g": 400,
+        "fats_g": 90,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
+          {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "30g post-workout"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 3200,
+        "protein_g": 180,
+        "carbs_g": 400,
+        "fats_g": 90,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
+          {"name_en": "BCAA", "name_fa": "آمینو اسید شاخه‌دار", "dose": "10g during workout"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2700,
+        "protein_g": 150,
+        "carbs_g": 300,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
+          {"name_en": "Omega-3 Fish Oil", "name_fa": "امگا ۳", "dose": "2000mg with meal"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 21500,
+        "protein_g": 1210,
+        "carbs_g": 2620,
+        "fats_g": 605
+      },
+      "one_month": {
+        "calories": 86000,
+        "protein_g": 4840,
+        "carbs_g": 10480,
+        "fats_g": 2420
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_powerlifting_strength",
+    "workout_plan_id": "plan_powerlifting_strength",
+    "target_audience": "men",
+    "category": "powerlifting",
+    "title_en": "Powerlifting Peak Strength Nutrition Plan",
+    "title_fa": "برنامه تغذیه قدرتی و انرژی‌زا (پاورلیفتینگ)",
+    "info_en": "High carbohydrate availability to replenish glycogen stores in fast-twitch muscle fibers, combined with high fats for joint lubrication and testosterone support.",
+    "info_fa": "فراهم‌سازی بالای کربوهیدرات جهت پر کردن ذخایر گلیکوژن در فیبرهای تندانقباض، همراه با چربی‌های سالم جهت روان‌سازی مفاصل و حمایت از سطح تستوسترون.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 3400,
+        "protein_g": 190,
+        "carbs_g": 430,
+        "fats_g": 100,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
+          {"name_en": "Pre-Workout", "name_fa": "پری‌ورک‌آوت", "dose": "1 scoop pre-workout"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 3400,
+        "protein_g": 190,
+        "carbs_g": 430,
+        "fats_g": 100,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
+          {"name_en": "Pre-Workout", "name_fa": "پری‌ورک‌آوت", "dose": "1 scoop pre-workout"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2900,
+        "protein_g": 160,
+        "carbs_g": 330,
+        "fats_g": 90,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 3500,
+        "protein_g": 200,
+        "carbs_g": 440,
+        "fats_g": 105,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
+          {"name_en": "Pre-Workout", "name_fa": "پری‌ورک‌آوت", "dose": "1 scoop pre-workout"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 3100,
+        "protein_g": 175,
+        "carbs_g": 380,
+        "fats_g": 95,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 2800,
+        "protein_g": 150,
+        "carbs_g": 310,
+        "fats_g": 85,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2700,
+        "protein_g": 150,
+        "carbs_g": 290,
+        "fats_g": 85,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
+          {"name_en": "Glutamine", "name_fa": "گلوتامین", "dose": "5g before bed"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 21800,
+        "protein_g": 1215,
+        "carbs_g": 2610,
+        "fats_g": 660
+      },
+      "one_month": {
+        "calories": 87200,
+        "protein_g": 4860,
+        "carbs_g": 10440,
+        "fats_g": 2640
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_mens_fat_loss",
+    "workout_plan_id": "plan_mens_fat_loss",
+    "target_audience": "men",
+    "category": "weight_loss",
+    "title_en": "Men's Shredded Fat Loss Nutrition Plan",
+    "title_fa": "برنامه تغذیه چربی‌سوزی پیشرفته (آقایان)",
+    "info_en": "Hypocaloric nutrition design with elevated protein intake to preserve lean muscle mass while mobilizing adipose tissue stores.",
+    "info_fa": "طراحی تغذیه با کسری کالری و پروتئین بالا جهت حفظ توده عضلانی خشک همزمان با تحرک و سوزاندن بافت‌های چربی.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 2200,
+        "protein_g": 200,
+        "carbs_g": 180,
+        "fats_g": 60,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg pre-cardio"},
+          {"name_en": "Whey Isolate", "name_fa": "پروتئین وی ایزوله", "dose": "30g post-workout"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 2200,
+        "protein_g": 200,
+        "carbs_g": 180,
+        "fats_g": 60,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg pre-cardio"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2100,
+        "protein_g": 190,
+        "carbs_g": 160,
+        "fats_g": 55,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg pre-cardio"},
+          {"name_en": "Fat Burner", "name_fa": "چربی‌سوز", "dose": "1 capsule morning"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 2000,
+        "protein_g": 180,
+        "carbs_g": 150,
+        "fats_g": 55,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2200,
+        "protein_g": 200,
+        "carbs_g": 180,
+        "fats_g": 60,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg pre-cardio"},
+          {"name_en": "Whey Isolate", "name_fa": "پروتئین وی ایزوله", "dose": "30g post-workout"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 2200,
+        "protein_g": 200,
+        "carbs_g": 180,
+        "fats_g": 60,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg pre-cardio"},
+          {"name_en": "BCAA", "name_fa": "آمینو اسید شاخه‌دار", "dose": "10g"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 1900,
+        "protein_g": 170,
+        "carbs_g": 130,
+        "fats_g": 50,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 14900,
+        "protein_g": 1340,
+        "carbs_g": 1160,
+        "fats_g": 400
+      },
+      "one_month": {
+        "calories": 59600,
+        "protein_g": 5360,
+        "carbs_g": 4640,
+        "fats_g": 1600
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_mens_competition_prep",
+    "workout_plan_id": "plan_mens_competition_prep",
+    "target_audience": "men",
+    "category": "competition",
+    "title_en": "Men's Bodybuilding Stage Prep Nutrition",
+    "title_fa": "برنامه تغذیه تخصصی آمادگی مسابقات بدنسازی (آقایان)",
+    "info_en": "Strict micronutrient and macronutrient control designed to achieve sub-6% body fat levels while maintaining muscle fullness and vascularity.",
+    "info_fa": "کنترل دقیق ریزمغذی‌ها و درشت‌مغذی‌ها برای دستیابی به چربی زیر ۶ درصد ضمن حفظ حجم و رگ‌برگ‌سازی عضلات.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 2500,
+        "protein_g": 230,
+        "carbs_g": 220,
+        "fats_g": 45,
+        "supplements": [
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "15g daily"},
+          {"name_en": "Glutamine", "name_fa": "گلوتامین", "dose": "10g daily"},
+          {"name_en": "Whey Isolate", "name_fa": "وی ایزوله", "dose": "40g"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 2500,
+        "protein_g": 230,
+        "carbs_g": 220,
+        "fats_g": 45,
+        "supplements": [
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "15g daily"},
+          {"name_en": "Glutamine", "name_fa": "گلوتامین", "dose": "10g daily"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2400,
+        "protein_g": 220,
+        "carbs_g": 200,
+        "fats_g": 45,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "3000mg"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 2500,
+        "protein_g": 230,
+        "carbs_g": 220,
+        "fats_g": 45,
+        "supplements": [
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "15g daily"},
+          {"name_en": "Whey Isolate", "name_fa": "وی ایزوله", "dose": "40g"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2300,
+        "protein_g": 220,
+        "carbs_g": 180,
+        "fats_g": 40,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "3000mg"},
+          {"name_en": "Glutamine", "name_fa": "گلوتامین", "dose": "10g"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 2200,
+        "protein_g": 210,
+        "carbs_g": 160,
+        "fats_g": 40,
+        "supplements": [
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "15g"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2100,
+        "protein_g": 200,
+        "carbs_g": 150,
+        "fats_g": 35,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 16500,
+        "protein_g": 1540,
+        "carbs_g": 1350,
+        "fats_g": 295
+      },
+      "one_month": {
+        "calories": 66000,
+        "protein_g": 6160,
+        "carbs_g": 5400,
+        "fats_g": 1180
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_womens_glute_hypertrophy",
+    "workout_plan_id": "plan_womens_glute_hypertrophy",
+    "target_audience": "women",
+    "category": "gain_muscle",
+    "title_en": "Women's Glute & Lower Body Nutrition Plan",
+    "title_fa": "برنامه تغذیه تفکیک و عضله‌سازی سرینی بانوان",
+    "info_en": "Slight caloric surplus with targeted amino acid delivery to maximize gluteal muscle recovery and shape development.",
+    "info_fa": "مازاد کالری خفیف همراه با رساندن هدفمند اسیدهای آمینه جهت ریکاوری حداکثری و توسعه فرم عضلات سرینی.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 2300,
+        "protein_g": 140,
+        "carbs_g": 260,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Collagen Peptides", "name_fa": "کلاژن", "dose": "10g morning"},
+          {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 2100,
+        "protein_g": 130,
+        "carbs_g": 230,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Collagen Peptides", "name_fa": "کلاژن", "dose": "10g morning"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین بانوان", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2300,
+        "protein_g": 140,
+        "carbs_g": 260,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Collagen Peptides", "name_fa": "کلاژن", "dose": "10g morning"},
+          {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 2000,
+        "protein_g": 120,
+        "carbs_g": 210,
+        "fats_g": 65,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳ بانوان", "dose": "1000mg"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2300,
+        "protein_g": 140,
+        "carbs_g": 260,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Collagen Peptides", "name_fa": "کلاژن", "dose": "10g morning"},
+          {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 2200,
+        "protein_g": 135,
+        "carbs_g": 240,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 1900,
+        "protein_g": 110,
+        "carbs_g": 200,
+        "fats_g": 60,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 15100,
+        "protein_g": 915,
+        "carbs_g": 1660,
+        "fats_g": 490
+      },
+      "one_month": {
+        "calories": 60400,
+        "protein_g": 3660,
+        "carbs_g": 6640,
+        "fats_g": 1960
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_womens_weight_loss",
+    "workout_plan_id": "plan_womens_weight_loss",
+    "target_audience": "women",
+    "category": "weight_loss",
+    "title_en": "Women's Fat Loss & Toning Nutrition",
+    "title_fa": "برنامه تغذیه چربی‌سوزی و فرم‌دهی بانوان",
+    "info_en": "Balanced clean nutrition with moderate protein and controlled carbohydrates to burn subcutaneous fat while maintaining skin and hair health.",
+    "info_fa": "تغذیه پاک و متعادل با پروتئین متوسط و کربوهیدرات کنترل‌شده جهت سوزاندن چربی‌های زیرپوستی و حفظ سلامت پوست و مو.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 1700,
+        "protein_g": 130,
+        "carbs_g": 150,
+        "fats_g": 55,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "1500mg pre-workout"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین بانوان", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 1700,
+        "protein_g": 130,
+        "carbs_g": 150,
+        "fats_g": 55,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "1500mg pre-workout"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 1650,
+        "protein_g": 125,
+        "carbs_g": 140,
+        "fats_g": 50,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 1600,
+        "protein_g": 120,
+        "carbs_g": 135,
+        "fats_g": 50,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 1700,
+        "protein_g": 130,
+        "carbs_g": 150,
+        "fats_g": 55,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "1500mg pre-workout"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 1700,
+        "protein_g": 130,
+        "carbs_g": 150,
+        "fats_g": 55,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "1500mg pre-workout"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 1500,
+        "protein_g": 110,
+        "carbs_g": 120,
+        "fats_g": 45,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 11550,
+        "protein_g": 875,
+        "carbs_g": 995,
+        "fats_g": 365
+      },
+      "one_month": {
+        "calories": 46200,
+        "protein_g": 3500,
+        "carbs_g": 3980,
+        "fats_g": 1460
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_womens_weight_gain",
+    "workout_plan_id": "plan_womens_weight_gain",
+    "target_audience": "women",
+    "category": "gain_weight",
+    "title_en": "Women's Healthy Mass Gain Nutrition",
+    "title_fa": "برنامه تغذیه افزایش وزن و حجم سالم بانوان",
+    "info_en": "Nutrient-dense clean caloric surplus designed for ectomorphic women to develop curves and healthy body mass.",
+    "info_fa": "مازاد کالری پاک و غنی از مواد مغذی جهت کمک به بانوان لاغراندام برای توسعه فرم انحنادار و توده بدنی سالم.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 2600,
+        "protein_g": 135,
+        "carbs_g": 320,
+        "fats_g": 85,
+        "supplements": [
+          {"name_en": "Mass Gainer / Protein", "name_fa": "پروتئین ترکیبی", "dose": "1 scoop post-workout"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 2600,
+        "protein_g": 135,
+        "carbs_g": 320,
+        "fats_g": 85,
+        "supplements": [
+          {"name_en": "Mass Gainer / Protein", "name_fa": "پروتئین ترکیبی", "dose": "1 scoop post-workout"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2400,
+        "protein_g": 125,
+        "carbs_g": 290,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 2600,
+        "protein_g": 135,
+        "carbs_g": 320,
+        "fats_g": 85,
+        "supplements": [
+          {"name_en": "Mass Gainer / Protein", "name_fa": "پروتئین ترکیبی", "dose": "1 scoop post-workout"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2500,
+        "protein_g": 130,
+        "carbs_g": 300,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 2400,
+        "protein_g": 120,
+        "carbs_g": 290,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2200,
+        "protein_g": 110,
+        "carbs_g": 260,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 17300,
+        "protein_g": 890,
+        "carbs_g": 2100,
+        "fats_g": 555
+      },
+      "one_month": {
+        "calories": 69200,
+        "protein_g": 3560,
+        "carbs_g": 8400,
+        "fats_g": 2220
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_womens_competition_prep",
+    "workout_plan_id": "plan_womens_competition_prep",
+    "target_audience": "women",
+    "category": "competition",
+    "title_en": "Women's Bikini Fitness Stage Prep Nutrition",
+    "title_fa": "برنامه تغذیه تخصصی آمادگی مسابقات بیکینی فیتنس بانوان",
+    "info_en": "Precision contest prep diet balancing low body fat with preservation of feminine shape, shoulder definition, and glute firmness.",
+    "info_fa": "رژیم دقیق آمادگی مسابقه جهت ایجاد تعادل بین چربی کم و حفظ فرم زنانه، تفکیک سرشانه و سفتی عضلات باسن.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 1900,
+        "protein_g": 160,
+        "carbs_g": 170,
+        "fats_g": 45,
+        "supplements": [
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"},
+          {"name_en": "Whey Isolate", "name_fa": "وی ایزوله", "dose": "30g"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 1900,
+        "protein_g": 160,
+        "carbs_g": 170,
+        "fats_g": 45,
+        "supplements": [
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 1850,
+        "protein_g": 155,
+        "carbs_g": 160,
+        "fats_g": 45,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 1900,
+        "protein_g": 160,
+        "carbs_g": 170,
+        "fats_g": 45,
+        "supplements": [
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"},
+          {"name_en": "Whey Isolate", "name_fa": "وی ایزوله", "dose": "30g"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 1800,
+        "protein_g": 150,
+        "carbs_g": 150,
+        "fats_g": 40,
+        "supplements": [
+          {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 1750,
+        "protein_g": 145,
+        "carbs_g": 140,
+        "fats_g": 40,
+        "supplements": [
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 1700,
+        "protein_g": 140,
+        "carbs_g": 130,
+        "fats_g": 40,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 12800,
+        "protein_g": 1070,
+        "carbs_g": 1090,
+        "fats_g": 300
+      },
+      "one_month": {
+        "calories": 51200,
+        "protein_g": 4280,
+        "carbs_g": 4360,
+        "fats_g": 1200
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_home_bodyweight_fitness",
+    "workout_plan_id": "plan_home_bodyweight_fitness",
+    "target_audience": "general",
+    "category": "gain_muscle",
+    "title_en": "Calisthenics & Home Fitness Nutrition",
+    "title_fa": "برنامه تغذیه فیتنس خانگی و کالیستنیکس",
+    "info_en": "Balanced clean nutrition to support bodyweight functional training, tendon recovery, and lean definition without equipment.",
+    "info_fa": "تغذیه پاک و متوازن جهت حمایت از تمرینات کاربردی با وزن بدن، ریکاوری تاندون‌ها و تفکیک عضلانی بدون تجهیزات.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 2400,
+        "protein_g": 150,
+        "carbs_g": 280,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 2400,
+        "protein_g": 150,
+        "carbs_g": 280,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2200,
+        "protein_g": 135,
+        "carbs_g": 250,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 2400,
+        "protein_g": 150,
+        "carbs_g": 280,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2400,
+        "protein_g": 150,
+        "carbs_g": 280,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 2300,
+        "protein_g": 140,
+        "carbs_g": 260,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2100,
+        "protein_g": 130,
+        "carbs_g": 230,
+        "fats_g": 65,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 16400,
+        "protein_g": 1005,
+        "carbs_g": 1860,
+        "fats_g": 505
+      },
+      "one_month": {
+        "calories": 65600,
+        "protein_g": 4020,
+        "carbs_g": 7440,
+        "fats_g": 2020
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_mobility_posture",
+    "workout_plan_id": "plan_mobility_posture",
+    "target_audience": "general",
+    "category": "recovery",
+    "title_en": "Joint Mobility & Anti-Inflammatory Nutrition",
+    "title_fa": "برنامه تغذیه ضدالتهاب و تحرک مفاصل",
+    "info_en": "Anti-inflammatory dietary protocol rich in omega fatty acids, antioxidants, and joint-supportive micronutrients to accelerate recovery.",
+    "info_fa": "پروتکل غذایی ضدالتهاب غنی از اسیدهای چرب امگا، آنتی‌اکسیدان‌ها و ریزمغذی‌های حامی مفاصل جهت تسریع ریکاوری.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 2100,
+        "protein_g": 120,
+        "carbs_g": 240,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg daily"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 2100,
+        "protein_g": 120,
+        "carbs_g": 240,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg daily"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2100,
+        "protein_g": 120,
+        "carbs_g": 240,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 2100,
+        "protein_g": 120,
+        "carbs_g": 240,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg daily"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2100,
+        "protein_g": 120,
+        "carbs_g": 240,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg daily"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 2100,
+        "protein_g": 120,
+        "carbs_g": 240,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2000,
+        "protein_g": 110,
+        "carbs_g": 220,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg daily"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 14700,
+        "protein_g": 830,
+        "carbs_g": 1660,
+        "fats_g": 520
+      },
+      "one_month": {
+        "calories": 58800,
+        "protein_g": 3320,
+        "carbs_g": 6640,
+        "fats_g": 2080
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_soccer_conditioning",
+    "workout_plan_id": "plan_soccer_conditioning",
+    "target_audience": "men",
+    "category": "soccer",
+    "title_en": "Soccer Agility & Endurance Nutrition",
+    "title_fa": "برنامه تغذیه استقامت و چابکی فوتبالیست‌ها",
+    "info_en": "High carbohydrate loading for intermittent sprint endurance, combined with electrolytes for hydration stability during matches.",
+    "info_fa": "بارگیری کربوهیدرات بالا جهت استقامت در استارت‌های مکرر، همراه با الکترولیت‌ها برای حفظ تعادل هیدراتاسیون در مسابقه.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 3000,
+        "protein_g": 160,
+        "carbs_g": 420,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop during training"},
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 3000,
+        "protein_g": 160,
+        "carbs_g": 420,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop during training"},
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2700,
+        "protein_g": 145,
+        "carbs_g": 360,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 3100,
+        "protein_g": 165,
+        "carbs_g": 440,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop during training"},
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2900,
+        "protein_g": 155,
+        "carbs_g": 400,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 3200,
+        "protein_g": 170,
+        "carbs_g": 450,
+        "fats_g": 85,
+        "supplements": [
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "2 scoops match simulation"},
+          {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2600,
+        "protein_g": 140,
+        "carbs_g": 340,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 20500,
+        "protein_g": 1095,
+        "carbs_g": 2830,
+        "fats_g": 545
+      },
+      "one_month": {
+        "calories": 82000,
+        "protein_g": 4380,
+        "carbs_g": 11320,
+        "fats_g": 2180
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_volleyball_conditioning",
+    "workout_plan_id": "plan_volleyball_conditioning",
+    "target_audience": "general",
+    "category": "volleyball",
+    "title_en": "Volleyball Vertical Jump & Power Nutrition",
+    "title_fa": "برنامه تغذیه پرش عمودی و قدرت والیبالیست‌ها",
+    "info_en": "Balanced high-carb nutrition to fuel explosive plyometric jumps and protect shoulder joint integrity.",
+    "info_fa": "تغذیه پرکربوهیدرات متوازن جهت تأمین انرژی پرش‌های پلیومتریک انفجاری و محافظت از سلامت مفاصل شانه.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 2900,
+        "protein_g": 160,
+        "carbs_g": 390,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین", "dose": "5g"},
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 2900,
+        "protein_g": 160,
+        "carbs_g": 390,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین", "dose": "5g"},
+          {"name_en": "Collagen", "name_fa": "کلاژن شانه", "dose": "10g"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2600,
+        "protein_g": 140,
+        "carbs_g": 340,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 3000,
+        "protein_g": 165,
+        "carbs_g": 400,
+        "fats_g": 85,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین", "dose": "5g"},
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2800,
+        "protein_g": 150,
+        "carbs_g": 380,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Creatine Monohydrate", "name_fa": "کراتین", "dose": "5g"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 2800,
+        "protein_g": 150,
+        "carbs_g": 380,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Collagen", "name_fa": "کلاژن", "dose": "10g"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2500,
+        "protein_g": 135,
+        "carbs_g": 320,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 19500,
+        "protein_g": 1060,
+        "carbs_g": 2600,
+        "fats_g": 535
+      },
+      "one_month": {
+        "calories": 78000,
+        "protein_g": 4240,
+        "carbs_g": 10400,
+        "fats_g": 2140
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_basketball_conditioning",
+    "workout_plan_id": "plan_basketball_conditioning",
+    "target_audience": "general",
+    "category": "basketball",
+    "title_en": "Basketball Speed & Court Endurance Nutrition",
+    "title_fa": "برنامه تغذیه سرعت و استقامت زمین بسکتبال",
+    "info_en": "High carbohydrate and electrolyte balance tailored for sustained high-intensity court sprints and vertical rebounding stamina.",
+    "info_fa": "تغذیه پرکربوهیدرات و متوازن با الکترولیت‌ها مناسب استارت‌های مستمر زمین و استقامت ریباند عمودی.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 3100,
+        "protein_g": 170,
+        "carbs_g": 430,
+        "fats_g": 85,
+        "supplements": [
+          {"name_en": "Creatine", "name_fa": "کراتین", "dose": "5g"},
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 3000,
+        "protein_g": 165,
+        "carbs_g": 410,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Creatine", "name_fa": "کراتین", "dose": "5g"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2700,
+        "protein_g": 145,
+        "carbs_g": 360,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 3100,
+        "protein_g": 170,
+        "carbs_g": 430,
+        "fats_g": 85,
+        "supplements": [
+          {"name_en": "Creatine", "name_fa": "کراتین", "dose": "5g"},
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2900,
+        "protein_g": 160,
+        "carbs_g": 390,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 3000,
+        "protein_g": 165,
+        "carbs_g": 410,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2600,
+        "protein_g": 140,
+        "carbs_g": 340,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 20400,
+        "protein_g": 1115,
+        "carbs_g": 2770,
+        "fats_g": 550
+      },
+      "one_month": {
+        "calories": 81600,
+        "protein_g": 4460,
+        "carbs_g": 11080,
+        "fats_g": 2200
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_tennis_conditioning",
+    "workout_plan_id": "plan_tennis_conditioning",
+    "target_audience": "general",
+    "category": "tennis",
+    "title_en": "Tennis Rotational Power & Stamina Nutrition",
+    "title_fa": "برنامه تغذیه قدرت چرخشی و استقامت تنیس‌بازان",
+    "info_en": "Optimized carbohydrate and hydration plan to support quick lateral court movements and rotational shoulder power.",
+    "info_fa": "برنامه بهینه‌شده کربوهیدرات و هیدراتاسیون جهت حمایت از حرکات جانبی سریع زمین و قدرت چرخشی شانه.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 2800,
+        "protein_g": 150,
+        "carbs_g": 380,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"},
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 2800,
+        "protein_g": 150,
+        "carbs_g": 380,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2600,
+        "protein_g": 140,
+        "carbs_g": 340,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Collagen", "name_fa": "کلاژن برای مچ و شانه", "dose": "10g"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 2900,
+        "protein_g": 155,
+        "carbs_g": 390,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2700,
+        "protein_g": 145,
+        "carbs_g": 360,
+        "fats_g": 75,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 3000,
+        "protein_g": 160,
+        "carbs_g": 410,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2500,
+        "protein_g": 130,
+        "carbs_g": 330,
+        "fats_g": 65,
+        "supplements": [
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 19300,
+        "protein_g": 1030,
+        "carbs_g": 2590,
+        "fats_g": 520
+      },
+      "one_month": {
+        "calories": 77200,
+        "protein_g": 4120,
+        "carbs_g": 10360,
+        "fats_g": 2080
+      }
+    }
+  },
+  {
+    "id": "nutri_plan_running_conditioning",
+    "workout_plan_id": "plan_running_conditioning",
+    "target_audience": "general",
+    "category": "running",
+    "title_en": "Runner's Endurance & Joint Nutrition Plan",
+    "title_fa": "برنامه تغذیه استقامت و مفاصل دوندگان",
+    "info_en": "Glycogen-replenishing carbohydrate load with high doses of collagen and omega fatty acids to protect knees and ankles from high-impact running stress.",
+    "info_fa": "بارگیری کربوهیدرات پرکننده گلیکوژن همراه با دوزهای بالای کلاژن و اسیدهای چرب امگا جهت محافظت از زانوها و مچ پا در برابر تنش ضربات دویدن.",
+    "daily_breakdown": [
+      {
+        "day": 1,
+        "calories": 2800,
+        "protein_g": 140,
+        "carbs_g": 410,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"},
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 2,
+        "calories": 2800,
+        "protein_g": 140,
+        "carbs_g": 410,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"},
+          {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg"}
+        ]
+      },
+      {
+        "day": 3,
+        "calories": 2500,
+        "protein_g": 130,
+        "carbs_g": 350,
+        "fats_g": 65,
+        "supplements": [
+          {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"}
+        ]
+      },
+      {
+        "day": 4,
+        "calories": 2900,
+        "protein_g": 145,
+        "carbs_g": 430,
+        "fats_g": 70,
+        "supplements": [
+          {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"},
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
+        ]
+      },
+      {
+        "day": 5,
+        "calories": 2700,
+        "protein_g": 135,
+        "carbs_g": 390,
+        "fats_g": 65,
+        "supplements": [
+          {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"}
+        ]
+      },
+      {
+        "day": 6,
+        "calories": 3200,
+        "protein_g": 160,
+        "carbs_g": 480,
+        "fats_g": 80,
+        "supplements": [
+          {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"},
+          {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "2 scoops long run"}
+        ]
+      },
+      {
+        "day": 7,
+        "calories": 2400,
+        "protein_g": 120,
+        "carbs_g": 340,
+        "fats_g": 60,
+        "supplements": [
+          {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
+        ]
+      }
+    ],
+    "totals": {
+      "one_week": {
+        "calories": 19300,
+        "protein_g": 970,
+        "carbs_g": 2810,
+        "fats_g": 480
+      },
+      "one_month": {
+        "calories": 77200,
+        "protein_g": 3880,
+        "carbs_g": 11240,
+        "fats_g": 1920
+      }
+    }
+  }
+]
