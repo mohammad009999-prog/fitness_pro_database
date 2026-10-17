@@ -16,10 +16,10 @@
         "focus_en": "Push (Chest, Shoulders, Triceps)",
         "focus_fa": "روز اول: پوش (سینه، سرشانه، پشت بازو)",
         "exercises": [
-          {"id": "Barbell_Bench_Press_-_Medium_Grip", "sets": 4, "reps": "8-10"},
-          {"id": "Barbell_Shoulder_Press", "sets": 3, "reps": "8-10"},
-          {"id": "Around_The_Worlds", "sets": 3, "reps": "12"},
-          {"id": "Cable_One_Arm_Tricep_Extension", "sets": 3, "reps": "12-15"}
+          {"id": "Barbell_Bench_Press_-_Medium_Grip", "name_en": "Barbell Bench Press", "name_fa": "پرس سینه هالتر", "sets": 4, "reps": "8-10"},
+          {"id": "Barbell_Shoulder_Press", "name_en": "Barbell Shoulder Press", "name_fa": "پرس سرشانه هالتر", "sets": 3, "reps": "8-10"},
+          {"id": "Around_The_Worlds", "name_en": "Around The Worlds", "name_fa": "حرکت دور دنیا با دمبل", "sets": 3, "reps": "12"},
+          {"id": "Cable_One_Arm_Tricep_Extension", "name_en": "Cable One Arm Tricep Extension", "name_fa": "پشت بازو سیم‌کش تک دست", "sets": 3, "reps": "12-15"}
         ]
       },
       {
@@ -27,10 +27,10 @@
         "focus_en": "Pull (Back, Biceps, Rear Delts)",
         "focus_fa": "روز دوم: پول (پشت، جلو بازو، زیربغل)",
         "exercises": [
-          {"id": "Barbell_Deadlift", "sets": 3, "reps": "5"},
-          {"id": "Chin-Up", "sets": 4, "reps": "10-12"},
-          {"id": "Bent_Over_Barbell_Row", "sets": 3, "reps": "8-10"},
-          {"id": "Barbell_Curl", "sets": 3, "reps": "12"}
+          {"id": "Barbell_Deadlift", "name_en": "Barbell Deadlift", "name_fa": "ددلیفت هالتر", "sets": 3, "reps": "5"},
+          {"id": "Chin-Up", "name_en": "Chin-Up", "name_fa": "بارفیکس دست برعکس", "sets": 4, "reps": "10-12"},
+          {"id": "Bent_Over_Barbell_Row", "name_en": "Bent Over Barbell Row", "name_fa": "لیفت پارویی هالتر خم", "sets": 3, "reps": "8-10"},
+          {"id": "Barbell_Curl", "name_en": "Barbell Curl", "name_fa": "جلو بازو هالتر", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -38,9 +38,9 @@
         "focus_en": "Legs (Quadriceps, Hamstrings, Calves)",
         "focus_fa": "روز سوم: پا (چهارسر، همسترینگ، ساق)",
         "exercises": [
-          {"id": "Barbell_Squat", "sets": 4, "reps": "6-8"},
-          {"id": "Ball_Leg_Curl", "sets": 3, "reps": "10-12"},
-          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 4, "reps": "15"}
+          {"id": "Barbell_Squat", "name_en": "Barbell Squat", "name_fa": "اسکوات هالتر", "sets": 4, "reps": "6-8"},
+          {"id": "Ball_Leg_Curl", "name_en": "Ball Leg Curl", "name_fa": "پشت پا با توپ تمرینی", "sets": 3, "reps": "10-12"},
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "name_en": "Calf Press On Leg Press", "name_fa": "ساق پا با دستگاه پرس", "sets": 4, "reps": "15"}
         ]
       },
       {
@@ -48,8 +48,8 @@
         "focus_en": "Active Rest & Mobility",
         "focus_fa": "روز چهارم: استراحت فعال و کششی",
         "exercises": [
-          {"id": "Cat_Stretch", "sets": 1, "reps": "20 min"},
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 1, "reps": "20 min"},
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "30 min"}
         ]
       },
       {
@@ -57,9 +57,9 @@
         "focus_en": "Upper Body Hypertrophy",
         "focus_fa": "روز پنجم: هایپرتروفی بالاتنه",
         "exercises": [
-          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "sets": 4, "reps": "8-10"},
-          {"id": "Pull-Up", "sets": 3, "reps": "to failure"},
-          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "12"}
+          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "name_en": "Incline Bench Press", "name_fa": "پرس بالا سینه هالتر", "sets": 4, "reps": "8-10"},
+          {"id": "Pull-Up", "name_en": "Pull-Up", "name_fa": "بارفیکس", "sets": 3, "reps": "to failure"},
+          {"id": "Alternate_Hammer_Curl", "name_en": "Alternate Hammer Curl", "name_fa": "جلو بازو چکش متناوب", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -67,9 +67,9 @@
         "focus_en": "Lower Body Power & Core",
         "focus_fa": "روز ششم: قدرت پایین‌تنه و عضلات مرکزی",
         "exercises": [
-          {"id": "Barbell_Full_Squat", "sets": 3, "reps": "8"},
-          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "10 per leg"},
-          {"id": "Cable_Crunch", "sets": 3, "reps": "12"}
+          {"id": "Barbell_Full_Squat", "name_en": "Full Squat", "name_fa": "اسکوات کامل هالتر", "sets": 3, "reps": "8"},
+          {"id": "Barbell_Walking_Lunge", "name_en": "Walking Lunge", "name_fa": "لانژ راه رفتنی با هالتر", "sets": 3, "reps": "10 per leg"},
+          {"id": "Cable_Crunch", "name_en": "Cable Crunch", "name_fa": "کرانچ سیم‌کش", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -77,7 +77,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -99,9 +99,9 @@
         "focus_en": "Heavy Squat Day",
         "focus_fa": "روز اول: اسکوات سنگین",
         "exercises": [
-          {"id": "Barbell_Full_Squat", "sets": 5, "reps": "3-5"},
-          {"id": "Box_Squat", "sets": 3, "reps": "4"},
-          {"id": "Calf_Press", "sets": 3, "reps": "10"}
+          {"id": "Barbell_Full_Squat", "name_en": "Full Squat", "name_fa": "اسکوات کامل هالتر", "sets": 5, "reps": "3-5"},
+          {"id": "Box_Squat", "name_en": "Box Squat", "name_fa": "اسکوات جعبه", "sets": 3, "reps": "4"},
+          {"id": "Calf_Press", "name_en": "Calf Press", "name_fa": "ساق پا", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -109,9 +109,9 @@
         "focus_en": "Heavy Bench Press Day",
         "focus_fa": "روز دوم: پرس سینه سنگین",
         "exercises": [
-          {"id": "Bench_Press_-_Powerlifting", "sets": 5, "reps": "3-5"},
-          {"id": "Board_Press", "sets": 3, "reps": "6-8"},
-          {"id": "Bench_Dips", "sets": 3, "reps": "10"}
+          {"id": "Bench_Press_-_Powerlifting", "name_en": "Powerlifting Bench Press", "name_fa": "پرس سینه پاورلیفتینگ", "sets": 5, "reps": "3-5"},
+          {"id": "Board_Press", "name_en": "Board Press", "name_fa": "برد پرس", "sets": 3, "reps": "6-8"},
+          {"id": "Bench_Dips", "name_en": "Bench Dips", "name_fa": "دیپ پارالل روی نیمکت", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -119,7 +119,7 @@
         "focus_en": "Rest & Recovery",
         "focus_fa": "روز سوم: استراحت و ریکاوری",
         "exercises": [
-          {"id": "Cat_Stretch", "sets": 1, "reps": "20 min"}
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 1, "reps": "20 min"}
         ]
       },
       {
@@ -127,9 +127,9 @@
         "focus_en": "Heavy Deadlift Day",
         "focus_fa": "روز چهارم: ددلیفت سنگین",
         "exercises": [
-          {"id": "Barbell_Deadlift", "sets": 4, "reps": "2-3"},
-          {"id": "Axle_Deadlift", "sets": 3, "reps": "4"},
-          {"id": "Barbell_Shrug", "sets": 3, "reps": "10"}
+          {"id": "Barbell_Deadlift", "name_en": "Barbell Deadlift", "name_fa": "ددلیفت هالتر", "sets": 4, "reps": "2-3"},
+          {"id": "Axle_Deadlift", "name_en": "Axle Deadlift", "name_fa": "ددلیفت با محور ضخیم", "sets": 3, "reps": "4"},
+          {"id": "Barbell_Shrug", "name_en": "Barbell Shrug", "name_fa": "سرشانه شراگ هالتر", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -137,9 +137,9 @@
         "focus_en": "Upper Body Accessories",
         "focus_fa": "روز پنجم: حرکات کمکی بالاتنه",
         "exercises": [
-          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "sets": 4, "reps": "8-10"},
-          {"id": "Bent_Over_Barbell_Row", "sets": 4, "reps": "8"},
-          {"id": "Cable_Rear_Delt_Fly", "sets": 3, "reps": "15"}
+          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "name_en": "Incline Bench Press", "name_fa": "پرس بالا سینه هالتر", "sets": 4, "reps": "8-10"},
+          {"id": "Bent_Over_Barbell_Row", "name_en": "Bent Over Barbell Row", "name_fa": "لیفت پارویی هالتر خم", "sets": 4, "reps": "8"},
+          {"id": "Cable_Rear_Delt_Fly", "name_en": "Cable Rear Delt Fly", "name_fa": "فلای سرشانه پشت سیم‌کش", "sets": 3, "reps": "15"}
         ]
       },
       {
@@ -147,8 +147,8 @@
         "focus_en": "Light Technique & Mobility",
         "focus_fa": "روز ششم: تکنیک سبک و تحرک مفاصل",
         "exercises": [
-          {"id": "Barbell_Squat", "sets": 3, "reps": "5"},
-          {"id": "Cable_Crunch", "sets": 3, "reps": "10"}
+          {"id": "Barbell_Squat", "name_en": "Barbell Squat", "name_fa": "اسکوات هالتر", "sets": 3, "reps": "5"},
+          {"id": "Cable_Crunch", "name_en": "Cable Crunch", "name_fa": "کرانچ سیم‌کش", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -156,7 +156,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -178,9 +178,9 @@
         "focus_en": "Upper Body Shred Circuit",
         "focus_fa": "روز اول: دایره‌ای چربی‌سوزی بالاتنه",
         "exercises": [
-          {"id": "Barbell_Bench_Press_-_Medium_Grip", "sets": 4, "reps": "12"},
-          {"id": "Bent_Over_Barbell_Row", "sets": 4, "reps": "12"},
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "25 min"}
+          {"id": "Barbell_Bench_Press_-_Medium_Grip", "name_en": "Barbell Bench Press", "name_fa": "پرس سینه هالتر", "sets": 4, "reps": "12"},
+          {"id": "Bent_Over_Barbell_Row", "name_en": "Bent Over Barbell Row", "name_fa": "لیفت پارویی هالتر خم", "sets": 4, "reps": "12"},
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "25 min"}
         ]
       },
       {
@@ -188,9 +188,9 @@
         "focus_en": "Lower Body Power & Fat Burn",
         "focus_fa": "روز دوم: قدرت پایین‌تنه و سوزاندن چربی",
         "exercises": [
-          {"id": "Barbell_Squat", "sets": 4, "reps": "10"},
-          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "12 per leg"},
-          {"id": "Air_Bike", "sets": 3, "reps": "45 sec"}
+          {"id": "Barbell_Squat", "name_en": "Barbell Squat", "name_fa": "اسکوات هالتر", "sets": 4, "reps": "10"},
+          {"id": "Barbell_Walking_Lunge", "name_en": "Walking Lunge", "name_fa": "لانژ راه رفتنی", "sets": 3, "reps": "12 per leg"},
+          {"id": "Air_Bike", "name_en": "Air Bike", "name_fa": "دوچرخه ایربایک", "sets": 3, "reps": "45 sec"}
         ]
       },
       {
@@ -198,9 +198,9 @@
         "focus_en": "Core & HIIT Cardio",
         "focus_fa": "روز سوم: عضلات شکم و هوازی اینتروال",
         "exercises": [
-          {"id": "Cable_Crunch", "sets": 4, "reps": "20"},
-          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "20"},
-          {"id": "Bicycling", "sets": 1, "reps": "30 min"}
+          {"id": "Cable_Crunch", "name_en": "Cable Crunch", "name_fa": "کرانچ سیم‌کش", "sets": 4, "reps": "20"},
+          {"id": "Cable_Russian_Twists", "name_en": "Cable Russian Twist", "name_fa": "چرخش روسی سیم‌کش", "sets": 3, "reps": "20"},
+          {"id": "Bicycling", "name_en": "Bicycling", "name_fa": "دوچرخه‌سواری", "sets": 1, "reps": "30 min"}
         ]
       },
       {
@@ -208,7 +208,7 @@
         "focus_en": "Active Rest & Mobility",
         "focus_fa": "روز چهارم: استراحت فعال و تحرک مفاصل",
         "exercises": [
-          {"id": "Cat_Stretch", "sets": 1, "reps": "20 min"}
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 1, "reps": "20 min"}
         ]
       },
       {
@@ -216,9 +216,9 @@
         "focus_en": "Push & Core Conditioning",
         "focus_fa": "روز پنجم: آمادگی عضلات پوش و شکم",
         "exercises": [
-          {"id": "Barbell_Shoulder_Press", "sets": 4, "reps": "12"},
-          {"id": "Cable_One_Arm_Tricep_Extension", "sets": 3, "reps": "15"},
-          {"id": "Ab_Roller", "sets": 3, "reps": "12"}
+          {"id": "Barbell_Shoulder_Press", "name_en": "Barbell Shoulder Press", "name_fa": "پرس سرشانه هالتر", "sets": 4, "reps": "12"},
+          {"id": "Cable_One_Arm_Tricep_Extension", "name_en": "Cable One Arm Tricep Extension", "name_fa": "پشت بازو سیم‌کش تک دست", "sets": 3, "reps": "15"},
+          {"id": "Ab_Roller", "name_en": "Ab Roller", "name_fa": "رولر شکم", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -226,9 +226,9 @@
         "focus_en": "Pull & Stamina",
         "focus_fa": "روز ششم: عضلات پول و استقامت",
         "exercises": [
-          {"id": "Barbell_Deadlift", "sets": 3, "reps": "10"},
-          {"id": "Barbell_Curl", "sets": 3, "reps": "15"},
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+          {"id": "Barbell_Deadlift", "name_en": "Barbell Deadlift", "name_fa": "ددلیفت هالتر", "sets": 3, "reps": "10"},
+          {"id": "Barbell_Curl", "name_en": "Barbell Curl", "name_fa": "جلو بازو هالتر", "sets": 3, "reps": "15"},
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "30 min"}
         ]
       },
       {
@@ -236,7 +236,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -258,9 +258,9 @@
         "focus_en": "Chest & Calves Hardness",
         "focus_fa": "روز اول: تفکیک سینه و سفتی ساق",
         "exercises": [
-          {"id": "Barbell_Bench_Press_-_Medium_Grip", "sets": 5, "reps": "8-10"},
-          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "sets": 4, "reps": "10"},
-          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 5, "reps": "15"}
+          {"id": "Barbell_Bench_Press_-_Medium_Grip", "name_en": "Barbell Bench Press", "name_fa": "پرس سینه هالتر", "sets": 5, "reps": "8-10"},
+          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "name_en": "Incline Bench Press", "name_fa": "پرس بالا سینه هالتر", "sets": 4, "reps": "10"},
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "name_en": "Calf Press On Leg Press", "name_fa": "ساق پا با دستگاه پرس", "sets": 5, "reps": "15"}
         ]
       },
       {
@@ -268,9 +268,9 @@
         "focus_en": "Back Width & Thickness",
         "focus_fa": "روز دوم: عرض و ضخامت عضلات پشت",
         "exercises": [
-          {"id": "Barbell_Deadlift", "sets": 4, "reps": "6"},
-          {"id": "Bent_Over_Barbell_Row", "sets": 4, "reps": "8-10"},
-          {"id": "Chin-Up", "sets": 3, "reps": "to failure"}
+          {"id": "Barbell_Deadlift", "name_en": "Barbell Deadlift", "name_fa": "ددلیفت هالتر", "sets": 4, "reps": "6"},
+          {"id": "Bent_Over_Barbell_Row", "name_en": "Bent Over Barbell Row", "name_fa": "لیفت پارویی هالتر خم", "sets": 4, "reps": "8-10"},
+          {"id": "Chin-Up", "name_en": "Chin-Up", "name_fa": "بارفیکس دست برعکس", "sets": 3, "reps": "to failure"}
         ]
       },
       {
@@ -278,9 +278,9 @@
         "focus_en": "Shoulders & Arms Detail",
         "focus_fa": "روز سوم: جزئیات سرشانه و بازوها",
         "exercises": [
-          {"id": "Barbell_Shoulder_Press", "sets": 4, "reps": "8-10"},
-          {"id": "Barbell_Curl", "sets": 4, "reps": "10"},
-          {"id": "Cable_One_Arm_Tricep_Extension", "sets": 4, "reps": "12"}
+          {"id": "Barbell_Shoulder_Press", "name_en": "Barbell Shoulder Press", "name_fa": "پرس سرشانه هالتر", "sets": 4, "reps": "8-10"},
+          {"id": "Barbell_Curl", "name_en": "Barbell Curl", "name_fa": "جلو بازو هالتر", "sets": 4, "reps": "10"},
+          {"id": "Cable_One_Arm_Tricep_Extension", "name_en": "Cable One Arm Tricep Extension", "name_fa": "پشت بازو سیم‌کش تک دست", "sets": 4, "reps": "12"}
         ]
       },
       {
@@ -288,9 +288,9 @@
         "focus_en": "Leg Sweep & Separation",
         "focus_fa": "روز چهارم: تفکیک و کات عضلات پا",
         "exercises": [
-          {"id": "Barbell_Full_Squat", "sets": 5, "reps": "8"},
-          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "12 per leg"},
-          {"id": "Ball_Leg_Curl", "sets": 4, "reps": "12"}
+          {"id": "Barbell_Full_Squat", "name_en": "Full Squat", "name_fa": "اسکوات کامل هالتر", "sets": 5, "reps": "8"},
+          {"id": "Barbell_Walking_Lunge", "name_en": "Walking Lunge", "name_fa": "لانژ راه رفتنی", "sets": 3, "reps": "12 per leg"},
+          {"id": "Ball_Leg_Curl", "name_en": "Ball Leg Curl", "name_fa": "پشت پا با توپ", "sets": 4, "reps": "12"}
         ]
       },
       {
@@ -298,9 +298,9 @@
         "focus_en": "Core & Posing Session",
         "focus_fa": "روز پنجم: عضلات شکم و تمرین ژس‌گیری",
         "exercises": [
-          {"id": "Cable_Crunch", "sets": 4, "reps": "15"},
-          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "20"},
-          {"id": "Air_Bike", "sets": 3, "reps": "60 sec"}
+          {"id": "Cable_Crunch", "name_en": "Cable Crunch", "name_fa": "کرانچ سیم‌کش", "sets": 4, "reps": "15"},
+          {"id": "Cable_Russian_Twists", "name_en": "Cable Russian Twist", "name_fa": "چرخش روسی سیم‌کش", "sets": 3, "reps": "20"},
+          {"id": "Air_Bike", "name_en": "Air Bike", "name_fa": "دوچرخه ایربایک", "sets": 3, "reps": "60 sec"}
         ]
       },
       {
@@ -308,7 +308,7 @@
         "focus_en": "Cardio & Conditioning Polish",
         "focus_fa": "روز ششم: هوازی و پرداخت نهایی کات",
         "exercises": [
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "45 min"}
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "45 min"}
         ]
       },
       {
@@ -316,7 +316,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -338,9 +338,9 @@
         "focus_en": "Upper Body Push & Core",
         "focus_fa": "روز اول: بالاتنه پوش و عضلات مرکزی",
         "exercises": [
-          {"id": "Bench_Dips", "sets": 4, "reps": "12"},
-          {"id": "Air_Bike", "sets": 3, "reps": "45 sec"},
-          {"id": "Cat_Stretch", "sets": 2, "reps": "10"}
+          {"id": "Bench_Dips", "name_en": "Bench Dips", "name_fa": "دیپ روی نیمکت", "sets": 4, "reps": "12"},
+          {"id": "Air_Bike", "name_en": "Air Bike", "name_fa": "دوچرخه ایربایک", "sets": 3, "reps": "45 sec"},
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 2, "reps": "10"}
         ]
       },
       {
@@ -348,9 +348,9 @@
         "focus_en": "Lower Body Bodyweight Burn",
         "focus_fa": "روز دوم: چربی‌سوزی و فرم‌دهی پایین‌تنه با وزن بدن",
         "exercises": [
-          {"id": "Barbell_Squat", "sets": 4, "reps": "20"},
-          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "15 per leg"},
-          {"id": "Calf_Press", "sets": 3, "reps": "20"}
+          {"id": "Barbell_Squat", "name_en": "Bodyweight Squat", "name_fa": "اسکوات با وزن بدن", "sets": 4, "reps": "20"},
+          {"id": "Barbell_Walking_Lunge", "name_en": "Walking Lunge", "name_fa": "لانژ راه رفتنی", "sets": 3, "reps": "15 per leg"},
+          {"id": "Calf_Press", "name_en": "Calf Press", "name_fa": "ساق پا", "sets": 3, "reps": "20"}
         ]
       },
       {
@@ -358,7 +358,7 @@
         "focus_en": "Active Rest & Stretching",
         "focus_fa": "روز سوم: استراحت فعال و کششی",
         "exercises": [
-          {"id": "Cat_Stretch", "sets": 1, "reps": "25 min"}
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 1, "reps": "25 min"}
         ]
       },
       {
@@ -366,8 +366,8 @@
         "focus_en": "Pull & Back Strength",
         "focus_fa": "روز چهارم: قدرت پشت و عضلات پول",
         "exercises": [
-          {"id": "Chin-Up", "sets": 3, "reps": "8"},
-          {"id": "Pull-Up", "sets": 3, "reps": "6"}
+          {"id": "Chin-Up", "name_en": "Chin-Up", "name_fa": "بارفیکس دست برعکس", "sets": 3, "reps": "8"},
+          {"id": "Pull-Up", "name_en": "Pull-Up", "name_fa": "بارفیکس", "sets": 3, "reps": "6"}
         ]
       },
       {
@@ -375,8 +375,8 @@
         "focus_en": "Full Body Circuit & Cardio",
         "focus_fa": "روز پنجم: دایره‌ای کل بدن و هوازی خانگی",
         "exercises": [
-          {"id": "Box_Jump_Multiple_Response", "sets": 3, "reps": "12"},
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+          {"id": "Box_Jump_Multiple_Response", "name_en": "Box Jump", "name_fa": "پرش روی جعبه", "sets": 3, "reps": "12"},
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "30 min"}
         ]
       },
       {
@@ -384,8 +384,8 @@
         "focus_en": "Core Stability & Balance",
         "focus_fa": "روز ششم: ثبات عضلات مرکزی و تعادل",
         "exercises": [
-          {"id": "Cable_Crunch", "sets": 3, "reps": "15"},
-          {"id": "Alternate_Heel_Touchers", "sets": 3, "reps": "20"}
+          {"id": "Cable_Crunch", "name_en": "Floor Crunch", "name_fa": "کرانچ شکم روی زمین", "sets": 3, "reps": "15"},
+          {"id": "Alternate_Heel_Touchers", "name_en": "Alternate Heel Toucher", "name_fa": "لمس پاشنه متناوب", "sets": 3, "reps": "20"}
         ]
       },
       {
@@ -393,7 +393,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -415,8 +415,8 @@
         "focus_en": "Spine & Lower Back Relief",
         "focus_fa": "روز اول: تسکین ستون فقرات و کمردرد",
         "exercises": [
-          {"id": "Cat_Stretch", "sets": 3, "reps": "15"},
-          {"id": "Childs_Pose", "sets": 3, "reps": "2 min"}
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 3, "reps": "15"},
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 3, "reps": "2 min"}
         ]
       },
       {
@@ -424,8 +424,8 @@
         "focus_en": "Hip Openers & Leg Flexibility",
         "focus_fa": "روز دوم: باز کردن مفاصل لگن و انعطاف پا",
         "exercises": [
-          {"id": "90_90_Hamstring", "sets": 3, "reps": "10 per leg"},
-          {"id": "Barbell_Side_Split_Squat", "sets": 2, "reps": "8"}
+          {"id": "90_90_Hamstring", "name_en": "90/90 Hamstring Stretch", "name_fa": "کشش همسترینگ ۹۰/۹۰", "sets": 3, "reps": "10 per leg"},
+          {"id": "Barbell_Side_Split_Squat", "name_en": "Side Split Squat", "name_fa": "اسکوات پهلو", "sets": 2, "reps": "8"}
         ]
       },
       {
@@ -433,8 +433,8 @@
         "focus_en": "Shoulder & Upper Back Posture",
         "focus_fa": "روز سوم: اصلاح شانه و بالاتنه",
         "exercises": [
-          {"id": "Arm_Circles", "sets": 3, "reps": "20"},
-          {"id": "Band_Pull_Apart", "sets": 3, "reps": "15"}
+          {"id": "Arm_Circles", "name_en": "Arm Circles", "name_fa": "چرخش دست‌ها", "sets": 3, "reps": "20"},
+          {"id": "Band_Pull_Apart", "name_en": "Band Pull Apart", "name_fa": "کشش کش از دو طرف", "sets": 3, "reps": "15"}
         ]
       },
       {
@@ -442,8 +442,8 @@
         "focus_en": "Full Body Active Flow",
         "focus_fa": "روز چهارم: جریان فعال کششی کل بدن",
         "exercises": [
-          {"id": "Cat_Stretch", "sets": 4, "reps": "12"},
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "20 min"}
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 4, "reps": "12"},
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "20 min"}
         ]
       },
       {
@@ -451,8 +451,8 @@
         "focus_en": "Ankle & Knee Mobility",
         "focus_fa": "روز پنجم: تحرک مچ پا و زانو",
         "exercises": [
-          {"id": "Ankle_Circles", "sets": 3, "reps": "15"},
-          {"id": "Box_Skip", "sets": 2, "reps": "10"}
+          {"id": "Ankle_Circles", "name_en": "Ankle Circles", "name_fa": "چرخش مچ پا", "sets": 3, "reps": "15"},
+          {"id": "Box_Skip", "name_en": "Box Skip", "name_fa": "پرش درجا روی جعبه سبک", "sets": 2, "reps": "10"}
         ]
       },
       {
@@ -460,7 +460,7 @@
         "focus_en": "Deep Relaxation & Core Stretch",
         "focus_fa": "روز ششم: آرام‌سازی عمیق و کشش عضلات مرکزی",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 4, "reps": "1 min"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 4, "reps": "1 min"}
         ]
       },
       {
@@ -468,7 +468,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -490,8 +490,8 @@
         "focus_en": "Speed & Agility Drills",
         "focus_fa": "روز اول: تمرینات سرعت و چابکی",
         "exercises": [
-          {"id": "Alternate_Leg_Diagonal_Bound", "sets": 5, "reps": "30 sec"},
-          {"id": "Box_Jump_Multiple_Response", "sets": 4, "reps": "8"}
+          {"id": "Alternate_Leg_Diagonal_Bound", "name_en": "Diagonal Bounding", "name_fa": "پرش‌های مورب متناوب", "sets": 5, "reps": "30 sec"},
+          {"id": "Box_Jump_Multiple_Response", "name_en": "Box Jump", "name_fa": "پرش روی جعبه", "sets": 4, "reps": "8"}
         ]
       },
       {
@@ -499,8 +499,8 @@
         "focus_en": "Lower Body Strength & Injury Prevention",
         "focus_fa": "روز دوم: قدرت پایین‌تنه و پیشگیری از آسیب",
         "exercises": [
-          {"id": "Barbell_Deadlift", "sets": 3, "reps": "6"},
-          {"id": "90_90_Hamstring", "sets": 3, "reps": "8"}
+          {"id": "Barbell_Deadlift", "name_en": "Barbell Deadlift", "name_fa": "ددلیفت هالتر", "sets": 3, "reps": "6"},
+          {"id": "90_90_Hamstring", "name_en": "Hamstring Stretch", "name_fa": "کشش همسترینگ", "sets": 3, "reps": "8"}
         ]
       },
       {
@@ -508,7 +508,7 @@
         "focus_en": "Active Recovery / Light Ball Work",
         "focus_fa": "روز سوم: استراحت فعال / کار با توپ سبک",
         "exercises": [
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "30 min"}
         ]
       },
       {
@@ -516,7 +516,7 @@
         "focus_en": "Endurance & Interval Running",
         "focus_fa": "روز چهارم: استقامت و دویدن اینتروال",
         "exercises": [
-          {"id": "Bicycling", "sets": 8, "reps": "30s sprint / 60s walk"}
+          {"id": "Bicycling", "name_en": "Interval Cardio", "name_fa": "هوازی اینتروال", "sets": 8, "reps": "30s sprint / 60s walk"}
         ]
       },
       {
@@ -524,8 +524,8 @@
         "focus_en": "Core & Stability",
         "focus_fa": "روز پنجم: عضلات مرکزی و ثبات بدن",
         "exercises": [
-          {"id": "Air_Bike", "sets": 4, "reps": "60 sec"},
-          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "20"}
+          {"id": "Air_Bike", "name_en": "Air Bike", "name_fa": "دوچرخه ایربایک", "sets": 4, "reps": "60 sec"},
+          {"id": "Cable_Russian_Twists", "name_en": "Russian Twist", "name_fa": "چرخش روسی", "sets": 3, "reps": "20"}
         ]
       },
       {
@@ -533,7 +533,7 @@
         "focus_en": "Tactical / Match Simulation",
         "focus_fa": "روز ششم: شبیه‌سازی مسابقه / تاکتیکی",
         "exercises": [
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "60 min"}
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "60 min"}
         ]
       },
       {
@@ -541,7 +541,7 @@
         "focus_en": "Full Rest & Recovery",
         "focus_fa": "روز هفتم: استراحت کامل و ریکاوری",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -563,8 +563,8 @@
         "focus_en": "Lower Body Plyometrics & Jump Power",
         "focus_fa": "روز اول: پلیومتریک پایین‌تنه و قدرت پرش",
         "exercises": [
-          {"id": "Box_Jump_Multiple_Response", "sets": 4, "reps": "8"},
-          {"id": "Bench_Jump", "sets": 3, "reps": "10"}
+          {"id": "Box_Jump_Multiple_Response", "name_en": "Box Jump", "name_fa": "پرش روی جعبه", "sets": 4, "reps": "8"},
+          {"id": "Bench_Jump", "name_en": "Bench Jump", "name_fa": "پرش روی نیمکت", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -572,8 +572,8 @@
         "focus_en": "Shoulder Stability & Spiking Power",
         "focus_fa": "روز دوم: ثبات شانه و قدرت آبشار",
         "exercises": [
-          {"id": "Alternating_Cable_Shoulder_Press", "sets": 3, "reps": "10"},
-          {"id": "Band_Pull_Apart", "sets": 3, "reps": "15"}
+          {"id": "Alternating_Cable_Shoulder_Press", "name_en": "Cable Shoulder Press", "name_fa": "پرس سرشانه سیم‌کش متناوب", "sets": 3, "reps": "10"},
+          {"id": "Band_Pull_Apart", "name_en": "Band Pull Apart", "name_fa": "کشش کش", "sets": 3, "reps": "15"}
         ]
       },
       {
@@ -581,7 +581,7 @@
         "focus_en": "Active Recovery & Mobility",
         "focus_fa": "روز سوم: استراحت فعال و تحرک مفاصل",
         "exercises": [
-          {"id": "Arm_Circles", "sets": 1, "reps": "20 min"}
+          {"id": "Arm_Circles", "name_en": "Arm Circles", "name_fa": "چرخش دست‌ها", "sets": 1, "reps": "20 min"}
         ]
       },
       {
@@ -589,8 +589,8 @@
         "focus_en": "Leg Strength & Landing Absorbtion",
         "focus_fa": "روز چهارم: قدرت پا و جذب ضربه فرود",
         "exercises": [
-          {"id": "Barbell_Squat", "sets": 4, "reps": "6"},
-          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "10"}
+          {"id": "Barbell_Squat", "name_en": "Barbell Squat", "name_fa": "اسکوات هالتر", "sets": 4, "reps": "6"},
+          {"id": "Barbell_Walking_Lunge", "name_en": "Walking Lunge", "name_fa": "لانژ راه رفتنی", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -598,8 +598,8 @@
         "focus_en": "Core & Court Agility",
         "focus_fa": "روز پنجم: عضلات مرکزی و چابکی در زمین",
         "exercises": [
-          {"id": "Air_Bike", "sets": 3, "reps": "45 sec"},
-          {"id": "Alternate_Heel_Touchers", "sets": 3, "reps": "20"}
+          {"id": "Air_Bike", "name_en": "Air Bike", "name_fa": "دوچرخه ایربایک", "sets": 3, "reps": "45 sec"},
+          {"id": "Alternate_Heel_Touchers", "name_en": "Heel Toucher", "name_fa": "لمس پاشنه", "sets": 3, "reps": "20"}
         ]
       },
       {
@@ -607,7 +607,7 @@
         "focus_en": "Spike Simulation & Flexibility",
         "focus_fa": "روز ششم: شبیه‌سازی آبشار و انعطاف‌پذیری",
         "exercises": [
-          {"id": "Backward_Medicine_Ball_Throw", "sets": 3, "reps": "10"}
+          {"id": "Backward_Medicine_Ball_Throw", "name_en": "Medicine Ball Throw", "name_fa": "پرت کردن توپ طبی", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -615,7 +615,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -637,8 +637,8 @@
         "focus_en": "Explosive Leg Power & Verticals",
         "focus_fa": "روز اول: قدرت انفجاری پا و پرش عمودی",
         "exercises": [
-          {"id": "Box_Jump_Multiple_Response", "sets": 4, "reps": "10"},
-          {"id": "Barbell_Full_Squat", "sets": 3, "reps": "6"}
+          {"id": "Box_Jump_Multiple_Response", "name_en": "Box Jump", "name_fa": "پرش روی جعبه", "sets": 4, "reps": "10"},
+          {"id": "Barbell_Full_Squat", "name_en": "Full Squat", "name_fa": "اسکوات کامل", "sets": 3, "reps": "6"}
         ]
       },
       {
@@ -646,8 +646,8 @@
         "focus_en": "Upper Body & Ball Control Strength",
         "focus_fa": "روز دوم: قدرت بالاتنه و کنترل توپ",
         "exercises": [
-          {"id": "Cable_Chest_Press", "sets": 3, "reps": "10"},
-          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "12"}
+          {"id": "Cable_Chest_Press", "name_en": "Cable Chest Press", "name_fa": "پرس سینه سیم‌کش", "sets": 3, "reps": "10"},
+          {"id": "Alternate_Hammer_Curl", "name_en": "Hammer Curl", "name_fa": "جلو بازو چکشی", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -655,7 +655,7 @@
         "focus_en": "Active Recovery",
         "focus_fa": "روز سوم: استراحت فعال",
         "exercises": [
-          {"id": "Ankle_Circles", "sets": 1, "reps": "15 min"}
+          {"id": "Ankle_Circles", "name_en": "Ankle Circles", "name_fa": "چرخش مچ پا", "sets": 1, "reps": "15 min"}
         ]
       },
       {
@@ -663,8 +663,8 @@
         "focus_en": "Speed & Court Agility",
         "focus_fa": "روز چهارم: سرعت و چابکی در زمین",
         "exercises": [
-          {"id": "Alternate_Leg_Diagonal_Bound", "sets": 4, "reps": "30 sec"},
-          {"id": "Bench_Sprint", "sets": 3, "reps": "12"}
+          {"id": "Alternate_Leg_Diagonal_Bound", "name_en": "Diagonal Bounding", "name_fa": "پرش‌های مورب", "sets": 4, "reps": "30 sec"},
+          {"id": "Bench_Sprint", "name_en": "Bench Sprint", "name_fa": "دوی سرعت روی نیمکت", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -672,8 +672,8 @@
         "focus_en": "Core Strength & Balance",
         "focus_fa": "روز پنجم: قدرت عضلات مرکزی و تعادل",
         "exercises": [
-          {"id": "Ab_Roller", "sets": 3, "reps": "10"},
-          {"id": "Bosu_Ball_Cable_Crunch_With_Side_Bends", "sets": 3, "reps": "12"}
+          {"id": "Ab_Roller", "name_en": "Ab Roller", "name_fa": "رولر شکم", "sets": 3, "reps": "10"},
+          {"id": "Bosu_Ball_Cable_Crunch_With_Side_Bends", "name_en": "Bosu Crunch", "name_fa": "کرانچ روی بوسوبال", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -681,7 +681,7 @@
         "focus_en": "Endurance Conditioning",
         "focus_fa": "روز ششم: تمرینات استقامتی",
         "exercises": [
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "40 min"}
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "40 min"}
         ]
       },
       {
@@ -689,7 +689,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -711,8 +711,8 @@
         "focus_en": "Rotational Core & Serve Power",
         "focus_fa": "روز اول: عضلات مرکزی چرخشی و قدرت سرویس",
         "exercises": [
-          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "15"},
-          {"id": "Barbell_Shoulder_Press", "sets": 3, "reps": "8"}
+          {"id": "Cable_Russian_Twists", "name_en": "Russian Twist", "name_fa": "چرخش روسی", "sets": 3, "reps": "15"},
+          {"id": "Barbell_Shoulder_Press", "name_en": "Shoulder Press", "name_fa": "پرس سرشانه", "sets": 3, "reps": "8"}
         ]
       },
       {
@@ -720,8 +720,8 @@
         "focus_en": "Footwork & Court Agility",
         "focus_fa": "روز دوم: پادویی و چابکی در زمین",
         "exercises": [
-          {"id": "Carioca_Quick_Step", "sets": 4, "reps": "30 sec"},
-          {"id": "Box_Skip", "sets": 3, "reps": "10"}
+          {"id": "Carioca_Quick_Step", "name_en": "Carioca Step", "name_fa": "گام‌های کریوکا", "sets": 4, "reps": "30 sec"},
+          {"id": "Box_Skip", "name_en": "Box Skip", "name_fa": "پرش رو به جلو", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -729,7 +729,7 @@
         "focus_en": "Shoulder Mobility & Stretch",
         "focus_fa": "روز سوم: تحرک و کشش شانه",
         "exercises": [
-          {"id": "Arm_Circles", "sets": 1, "reps": "20 min"}
+          {"id": "Arm_Circles", "name_en": "Arm Circles", "name_fa": "چرخش دست‌ها", "sets": 1, "reps": "20 min"}
         ]
       },
       {
@@ -737,8 +737,8 @@
         "focus_en": "Lower Body Stability & Lunges",
         "focus_fa": "روز چهارم: ثبات پایین‌تنه و لانژها",
         "exercises": [
-          {"id": "Barbell_Lunge", "sets": 3, "reps": "10 per leg"},
-          {"id": "Barbell_Side_Split_Squat", "sets": 3, "reps": "8"}
+          {"id": "Barbell_Lunge", "name_en": "Barbell Lunge", "name_fa": "لانژ هالتر", "sets": 3, "reps": "10 per leg"},
+          {"id": "Barbell_Side_Split_Squat", "name_en": "Side Split Squat", "name_fa": "اسکوات پهلو", "sets": 3, "reps": "8"}
         ]
       },
       {
@@ -746,8 +746,8 @@
         "focus_en": "Grip & Forearm Strength",
         "focus_fa": "روز پنجم: تقویت مچ و ساعد",
         "exercises": [
-          {"id": "Cable_Wrist_Curl", "sets": 3, "reps": "15"},
-          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "12"}
+          {"id": "Cable_Wrist_Curl", "name_en": "Wrist Curl", "name_fa": "جلو بازو مچ سیم‌کش", "sets": 3, "reps": "15"},
+          {"id": "Alternate_Hammer_Curl", "name_en": "Hammer Curl", "name_fa": "جلو بازو چکشی", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -755,7 +755,7 @@
         "focus_en": "Cardio & Match Stamina",
         "focus_fa": "روز ششم: هوازی و استقامت مسابقه",
         "exercises": [
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "45 min"}
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "45 min"}
         ]
       },
       {
@@ -763,7 +763,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -778,15 +778,15 @@
     "description_en": "Builds single-leg stability, glute strength, and calf durability to prevent running injuries.",
     "description_fa": "تقویت ثبات تک‌پا، قدرت باسن و استقامت ساق پا برای جلوگیری از آسیب‌های دویدن.",
     "info_en": "Targeted at runners to strengthen knees, ankles, and core stability, reducing impact stress during long-distance runs.",
-    "info_fa": "مناسب دوگانه‌کاران و دوندگان برای تقویت زانو، مچ پا و ثبات مرکزی جهت کاهش فشار ضربات در دویدن‌های استقامتی.",
+    "info_fa": "مناسب دوندگان برای تقویت زانو، مچ پا و ثبات مرکزی جهت کاهش فشار ضربات در دویدن‌های استقامتی.",
     "schedule": [
       {
         "day": 1,
         "focus_en": "Single-Leg Stability & Glutes",
         "focus_fa": "روز اول: ثبات تک‌پا و عضلات باسن",
         "exercises": [
-          {"id": "Barbell_Glute_Bridge", "sets": 4, "reps": "12"},
-          {"id": "Barbell_Step_Ups", "sets": 3, "reps": "10 per leg"}
+          {"id": "Barbell_Glute_Bridge", "name_en": "Glute Bridge", "name_fa": "پل باسن هالتر", "sets": 4, "reps": "12"},
+          {"id": "Barbell_Step_Ups", "name_en": "Step Ups", "name_fa": "استپ آپ با هالتر", "sets": 3, "reps": "10 per leg"}
         ]
       },
       {
@@ -794,8 +794,8 @@
         "focus_en": "Calf Durability & Ankle Strength",
         "focus_fa": "روز دوم: استقامت ساق و قدرت مچ پا",
         "exercises": [
-          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 4, "reps": "20"},
-          {"id": "Ankle_Circles", "sets": 3, "reps": "15"}
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "name_en": "Calf Press", "name_fa": "ساق پا با پرس", "sets": 4, "reps": "20"},
+          {"id": "Ankle_Circles", "name_en": "Ankle Circles", "name_fa": "چرخش مچ پا", "sets": 3, "reps": "15"}
         ]
       },
       {
@@ -803,7 +803,7 @@
         "focus_en": "Active Recovery / Easy Jog",
         "focus_fa": "روز سوم: استراحت فعال / دویدن سبک",
         "exercises": [
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "30 min"}
         ]
       },
       {
@@ -811,8 +811,8 @@
         "focus_en": "Core & Running Posture",
         "focus_fa": "روز چهارم: عضلات مرکزی و استایل دویدن",
         "exercises": [
-          {"id": "Air_Bike", "sets": 3, "reps": "50 sec"},
-          {"id": "Cat_Stretch", "sets": 3, "reps": "60 sec"}
+          {"id": "Air_Bike", "name_en": "Air Bike", "name_fa": "دوچرخه ایربایک", "sets": 3, "reps": "50 sec"},
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 3, "reps": "60 sec"}
         ]
       },
       {
@@ -820,8 +820,8 @@
         "focus_en": "Hamstring & Lower Back Strength",
         "focus_fa": "روز پنجم: قدرت همسترینگ و فیله کمر",
         "exercises": [
-          {"id": "Ball_Leg_Curl", "sets": 3, "reps": "12"},
-          {"id": "Cat_Stretch", "sets": 3, "reps": "10"}
+          {"id": "Ball_Leg_Curl", "name_en": "Ball Leg Curl", "name_fa": "پشت پا با توپ", "sets": 3, "reps": "12"},
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -829,7 +829,7 @@
         "focus_en": "Long Distance Prep / Stamina",
         "focus_fa": "روز ششم: آمادگی مسافت طولانی / استقامت",
         "exercises": [
-          {"id": "Bicycling", "sets": 1, "reps": "60 min"}
+          {"id": "Bicycling", "name_en": "Cardio", "name_fa": "هوازی طولانی", "sets": 1, "reps": "60 min"}
         ]
       },
       {
@@ -837,7 +837,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -859,9 +859,9 @@
         "focus_en": "Glute & Quad Focus",
         "focus_fa": "روز اول: تمرکز روی باسن و چهارسر",
         "exercises": [
-          {"id": "Barbell_Full_Squat", "sets": 4, "reps": "8-10"},
-          {"id": "Barbell_Glute_Bridge", "sets": 4, "reps": "12"},
-          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "10 per leg"}
+          {"id": "Barbell_Full_Squat", "name_en": "Full Squat", "name_fa": "اسکوات کامل", "sets": 4, "reps": "8-10"},
+          {"id": "Barbell_Glute_Bridge", "name_en": "Glute Bridge", "name_fa": "پل باسن هالتر", "sets": 4, "reps": "12"},
+          {"id": "Barbell_Walking_Lunge", "name_en": "Walking Lunge", "name_fa": "لانژ راه رفتنی", "sets": 3, "reps": "10 per leg"}
         ]
       },
       {
@@ -869,9 +869,9 @@
         "focus_en": "Upper Body Toning & Core",
         "focus_fa": "روز دوم: فرم‌دهی بالاتنه و شکم",
         "exercises": [
-          {"id": "Cable_Chest_Press", "sets": 3, "reps": "12"},
-          {"id": "Around_The_Worlds", "sets": 3, "reps": "12"},
-          {"id": "Cable_Crunch", "sets": 3, "reps": "15"}
+          {"id": "Cable_Chest_Press", "name_en": "Cable Chest Press", "name_fa": "پرس سینه سیم‌کش", "sets": 3, "reps": "12"},
+          {"id": "Around_The_Worlds", "name_en": "Around The Worlds", "name_fa": "حرکت دور دنیا", "sets": 3, "reps": "12"},
+          {"id": "Cable_Crunch", "name_en": "Cable Crunch", "name_fa": "کرانچ سیم‌کش", "sets": 3, "reps": "15"}
         ]
       },
       {
@@ -879,9 +879,9 @@
         "focus_en": "Hamstring & Glute Isolation",
         "focus_fa": "روز سوم: همسترینگ و تفکیک باسن",
         "exercises": [
-          {"id": "Barbell_Deadlift", "sets": 3, "reps": "8"},
-          {"id": "Ball_Leg_Curl", "sets": 3, "reps": "12"},
-          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 3, "reps": "15"}
+          {"id": "Barbell_Deadlift", "name_en": "Barbell Deadlift", "name_fa": "ددلیفت هالتر", "sets": 3, "reps": "8"},
+          {"id": "Ball_Leg_Curl", "name_en": "Ball Leg Curl", "name_fa": "پشت پا با توپ", "sets": 3, "reps": "12"},
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "name_en": "Calf Press", "name_fa": "ساق پا با پرس", "sets": 3, "reps": "15"}
         ]
       },
       {
@@ -889,8 +889,8 @@
         "focus_en": "Active Rest & Stretching",
         "focus_fa": "روز چهارم: استراحت فعال و کششی",
         "exercises": [
-          {"id": "Cat_Stretch", "sets": 1, "reps": "20 min"},
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "30 min"}
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 1, "reps": "20 min"},
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "30 min"}
         ]
       },
       {
@@ -898,8 +898,8 @@
         "focus_en": "Total Lower Body Burnout",
         "focus_fa": "روز پنجم: چربی‌سوزی و فرم‌دهی کل پایین‌تنه",
         "exercises": [
-          {"id": "Barbell_Side_Split_Squat", "sets": 3, "reps": "10 per leg"},
-          {"id": "Barbell_Step_Ups", "sets": 3, "reps": "12 per leg"}
+          {"id": "Barbell_Side_Split_Squat", "name_en": "Side Split Squat", "name_fa": "اسکوات پهلو", "sets": 3, "reps": "10 per leg"},
+          {"id": "Barbell_Step_Ups", "name_en": "Step Ups", "name_fa": "استپ آپ", "sets": 3, "reps": "12 per leg"}
         ]
       },
       {
@@ -907,9 +907,9 @@
         "focus_en": "Upper Body & Posture",
         "focus_fa": "روز ششم: بالاتنه و اصلاح فرم ایستادن",
         "exercises": [
-          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "12"},
-          {"id": "Cable_One_Arm_Tricep_Extension", "sets": 3, "reps": "12"},
-          {"id": "Air_Bike", "sets": 3, "reps": "45 sec"}
+          {"id": "Alternate_Hammer_Curl", "name_en": "Hammer Curl", "name_fa": "جلو بازو چکشی", "sets": 3, "reps": "12"},
+          {"id": "Cable_One_Arm_Tricep_Extension", "name_en": "Tricep Extension", "name_fa": "پشت بازو سیم‌کش", "sets": 3, "reps": "12"},
+          {"id": "Air_Bike", "name_en": "Air Bike", "name_fa": "دوچرخه ایربایک", "sets": 3, "reps": "45 sec"}
         ]
       },
       {
@@ -917,7 +917,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -939,9 +939,9 @@
         "focus_en": "Full Body Circuit A",
         "focus_fa": "روز اول: دایره‌ای کل بدن (الف)",
         "exercises": [
-          {"id": "Barbell_Full_Squat", "sets": 3, "reps": "15"},
-          {"id": "Cable_Chest_Press", "sets": 3, "reps": "15"},
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "20 min"}
+          {"id": "Barbell_Full_Squat", "name_en": "Full Squat", "name_fa": "اسکوات کامل", "sets": 3, "reps": "15"},
+          {"id": "Cable_Chest_Press", "name_en": "Cable Chest Press", "name_fa": "پرس سینه سیم‌کش", "sets": 3, "reps": "15"},
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "20 min"}
         ]
       },
       {
@@ -949,8 +949,8 @@
         "focus_en": "Core & Cardio Burn",
         "focus_fa": "روز دوم: هوازی و عضلات مرکزی",
         "exercises": [
-          {"id": "Air_Bike", "sets": 4, "reps": "60 sec"},
-          {"id": "Cable_Crunch", "sets": 3, "reps": "20"}
+          {"id": "Air_Bike", "name_en": "Air Bike", "name_fa": "دوچرخه ایربایک", "sets": 4, "reps": "60 sec"},
+          {"id": "Cable_Crunch", "name_en": "Cable Crunch", "name_fa": "کرانچ سیم‌کش", "sets": 3, "reps": "20"}
         ]
       },
       {
@@ -958,9 +958,9 @@
         "focus_en": "Full Body Circuit B",
         "focus_fa": "روز سوم: دایره‌ای کل بدن (ب)",
         "exercises": [
-          {"id": "Barbell_Deadlift", "sets": 3, "reps": "12"},
-          {"id": "Barbell_Shoulder_Press", "sets": 3, "reps": "12"},
-          {"id": "Bicycling", "sets": 1, "reps": "25 min"}
+          {"id": "Barbell_Deadlift", "name_en": "Barbell Deadlift", "name_fa": "ددلیفت هالتر", "sets": 3, "reps": "12"},
+          {"id": "Barbell_Shoulder_Press", "name_en": "Shoulder Press", "name_fa": "پرس سرشانه", "sets": 3, "reps": "12"},
+          {"id": "Bicycling", "name_en": "Bicycling", "name_fa": "دوچرخه‌سواری", "sets": 1, "reps": "25 min"}
         ]
       },
       {
@@ -968,7 +968,7 @@
         "focus_en": "Active Rest & Stretch",
         "focus_fa": "روز چهارم: استراحت فعال و کشش",
         "exercises": [
-          {"id": "Cat_Stretch", "sets": 1, "reps": "30 min"}
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 1, "reps": "30 min"}
         ]
       },
       {
@@ -976,8 +976,8 @@
         "focus_en": "Lower Body Tone & Sweat",
         "focus_fa": "روز پنجم: فرم‌دهی پایین‌تنه و تعریق",
         "exercises": [
-          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "15 per leg"},
-          {"id": "Barbell_Glute_Bridge", "sets": 4, "reps": "15"}
+          {"id": "Barbell_Walking_Lunge", "name_en": "Walking Lunge", "name_fa": "لانژ راه رفتنی", "sets": 3, "reps": "15 per leg"},
+          {"id": "Barbell_Glute_Bridge", "name_en": "Glute Bridge", "name_fa": "پل باسن", "sets": 4, "reps": "15"}
         ]
       },
       {
@@ -985,8 +985,8 @@
         "focus_en": "HIIT & Core Stability",
         "focus_fa": "روز ششم: تمرین پرفشار اینتروال و ثبات شکم",
         "exercises": [
-          {"id": "Box_Jump_Multiple_Response", "sets": 3, "reps": "10"},
-          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "20"}
+          {"id": "Box_Jump_Multiple_Response", "name_en": "Box Jump", "name_fa": "پرش روی جعبه", "sets": 3, "reps": "10"},
+          {"id": "Cable_Russian_Twists", "name_en": "Russian Twist", "name_fa": "چرخش روسی", "sets": 3, "reps": "20"}
         ]
       },
       {
@@ -994,7 +994,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -1009,16 +1009,16 @@
     "description_en": "Designed for ectomorph women to build curves and gain healthy body weight.",
     "description_fa": "مخصوص بانوان لاغراندام (اکتومورف) برای ساخت فرم بدن و افزایش وزن سالم.",
     "info_en": "Focuses on moderate-to-heavy compound lifts with lower frequencies to ensure caloric surplus converts into solid muscle mass rather than fatigue.",
-    "info_en_fa": "تمرکز روی حرکات ترکیبی با وزنه نسبتاً سنگین و حجم تکرار کنترل‌شده تا مازاد کالری دریافتی تبدیل به بافت عضلانی باکیفیت شود.",
+    "info_fa": "تمرکز روی حرکات ترکیبی با وزنه نسبتاً سنگین و حجم تکرار کنترل‌شده تا مازاد کالری دریافتی تبدیل به بافت عضلانی باکیفیت شود.",
     "schedule": [
       {
         "day": 1,
         "focus_en": "Heavy Lower Body",
         "focus_fa": "روز اول: پایین‌تنه سنگین",
         "exercises": [
-          {"id": "Barbell_Full_Squat", "sets": 4, "reps": "8"},
-          {"id": "Barbell_Deadlift", "sets": 3, "reps": "6"},
-          {"id": "Barbell_Glute_Bridge", "sets": 3, "reps": "10"}
+          {"id": "Barbell_Full_Squat", "name_en": "Full Squat", "name_fa": "اسکوات کامل", "sets": 4, "reps": "8"},
+          {"id": "Barbell_Deadlift", "name_en": "Barbell Deadlift", "name_fa": "ددلیفت هالتر", "sets": 3, "reps": "6"},
+          {"id": "Barbell_Glute_Bridge", "name_en": "Glute Bridge", "name_fa": "پل باسن", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -1026,9 +1026,9 @@
         "focus_en": "Upper Body & Arms",
         "focus_fa": "روز دوم: بالاتنه و بازوها",
         "exercises": [
-          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "sets": 3, "reps": "8"},
-          {"id": "Bent_Over_Barbell_Row", "sets": 3, "reps": "8"},
-          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "10"}
+          {"id": "Barbell_Incline_Bench_Press_-_Medium_Grip", "name_en": "Incline Bench Press", "name_fa": "پرس بالا سینه", "sets": 3, "reps": "8"},
+          {"id": "Bent_Over_Barbell_Row", "name_en": "Barbell Row", "name_fa": "باربل رو", "sets": 3, "reps": "8"},
+          {"id": "Alternate_Hammer_Curl", "name_en": "Hammer Curl", "name_fa": "جلو بازو چکشی", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -1036,7 +1036,7 @@
         "focus_en": "Rest & Nutrition Focus",
         "focus_fa": "روز سوم: استراحت و تمرکز روی تغذیه",
         "exercises": [
-          {"id": "Cat_Stretch", "sets": 1, "reps": "15 min"}
+          {"id": "Cat_Stretch", "name_en": "Cat Stretch", "name_fa": "کشش گربه", "sets": 1, "reps": "15 min"}
         ]
       },
       {
@@ -1044,9 +1044,9 @@
         "focus_en": "Glute & Leg Shaping",
         "focus_fa": "روز چهارم: فرم‌دهی باسن و پا",
         "exercises": [
-          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "10 per leg"},
-          {"id": "Ball_Leg_Curl", "sets": 3, "reps": "10"},
-          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 3, "reps": "12"}
+          {"id": "Barbell_Walking_Lunge", "name_en": "Walking Lunge", "name_fa": "لانژ راه رفتنی", "sets": 3, "reps": "10 per leg"},
+          {"id": "Ball_Leg_Curl", "name_en": "Ball Leg Curl", "name_fa": "پشت پا با توپ", "sets": 3, "reps": "10"},
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "name_en": "Calf Press", "name_fa": "ساق پا", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -1054,8 +1054,8 @@
         "focus_en": "Shoulder & Back Width",
         "focus_fa": "روز پنجم: سرشانه و عرض پشت",
         "exercises": [
-          {"id": "Barbell_Shoulder_Press", "sets": 3, "reps": "8"},
-          {"id": "Around_The_Worlds", "sets": 3, "reps": "10"}
+          {"id": "Barbell_Shoulder_Press", "name_en": "Shoulder Press", "name_fa": "پرس سرشانه", "sets": 3, "reps": "8"},
+          {"id": "Around_The_Worlds", "name_en": "Around The Worlds", "name_fa": "دور دنیا", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -1063,7 +1063,7 @@
         "focus_en": "Core & Light Mobility",
         "focus_fa": "روز ششم: شکم و تحرک سبک",
         "exercises": [
-          {"id": "Cable_Crunch", "sets": 3, "reps": "12"}
+          {"id": "Cable_Crunch", "name_en": "Cable Crunch", "name_fa": "کرانچ سیم‌کش", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -1071,7 +1071,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]
@@ -1093,9 +1093,9 @@
         "focus_en": "Stage Glutes & Hamstrings",
         "focus_fa": "روز اول: باسن و همسترینگ استیجی",
         "exercises": [
-          {"id": "Barbell_Deadlift", "sets": 4, "reps": "8"},
-          {"id": "Barbell_Glute_Bridge", "sets": 4, "reps": "12"},
-          {"id": "Ball_Leg_Curl", "sets": 3, "reps": "12"}
+          {"id": "Barbell_Deadlift", "name_en": "Barbell Deadlift", "name_fa": "ددلیفت هالتر", "sets": 4, "reps": "8"},
+          {"id": "Barbell_Glute_Bridge", "name_en": "Glute Bridge", "name_fa": "پل باسن", "sets": 4, "reps": "12"},
+          {"id": "Ball_Leg_Curl", "name_en": "Ball Leg Curl", "name_fa": "پشت پا با توپ", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -1103,9 +1103,9 @@
         "focus_en": "Shoulder & Back V-Taper",
         "focus_fa": "روز دوم: سرشانه و زیربغل برای فرم V",
         "exercises": [
-          {"id": "Barbell_Shoulder_Press", "sets": 4, "reps": "10"},
-          {"id": "Around_The_Worlds", "sets": 3, "reps": "12"},
-          {"id": "Bent_Over_Barbell_Row", "sets": 3, "reps": "10"}
+          {"id": "Barbell_Shoulder_Press", "name_en": "Shoulder Press", "name_fa": "پرس سرشانه", "sets": 4, "reps": "10"},
+          {"id": "Around_The_Worlds", "name_en": "Around The Worlds", "name_fa": "دور دنیا", "sets": 3, "reps": "12"},
+          {"id": "Bent_Over_Barbell_Row", "name_en": "Barbell Row", "name_fa": "باربل رو", "sets": 3, "reps": "10"}
         ]
       },
       {
@@ -1113,8 +1113,8 @@
         "focus_en": "Core & Stage Posing Practice",
         "focus_fa": "روز سوم: شکم و تمرین ژس‌های استیج",
         "exercises": [
-          {"id": "Cable_Crunch", "sets": 4, "reps": "15"},
-          {"id": "Cable_Russian_Twists", "sets": 3, "reps": "20"}
+          {"id": "Cable_Crunch", "name_en": "Cable Crunch", "name_fa": "کرانچ سیم‌کش", "sets": 4, "reps": "15"},
+          {"id": "Cable_Russian_Twists", "name_en": "Russian Twist", "name_fa": "چرخش روسی", "sets": 3, "reps": "20"}
         ]
       },
       {
@@ -1122,9 +1122,9 @@
         "focus_en": "Quadriceps & Calves Shaping",
         "focus_fa": "روز چهارم: تفکیک چهارسر و ساق",
         "exercises": [
-          {"id": "Barbell_Full_Squat", "sets": 4, "reps": "8"},
-          {"id": "Barbell_Walking_Lunge", "sets": 3, "reps": "12 per leg"},
-          {"id": "Calf_Press_On_The_Leg_Press_Machine", "sets": 4, "reps": "15"}
+          {"id": "Barbell_Full_Squat", "name_en": "Full Squat", "name_fa": "اسکوات کامل", "sets": 4, "reps": "8"},
+          {"id": "Barbell_Walking_Lunge", "name_en": "Walking Lunge", "name_fa": "لانژ راه رفتنی", "sets": 3, "reps": "12 per leg"},
+          {"id": "Calf_Press_On_The_Leg_Press_Machine", "name_en": "Calf Press", "name_fa": "ساق پا", "sets": 4, "reps": "15"}
         ]
       },
       {
@@ -1132,8 +1132,8 @@
         "focus_en": "Upper Body Polish",
         "focus_fa": "روز پنجم: پرداخت نهایی بالاتنه",
         "exercises": [
-          {"id": "Cable_Chest_Press", "sets": 3, "reps": "12"},
-          {"id": "Alternate_Hammer_Curl", "sets": 3, "reps": "12"}
+          {"id": "Cable_Chest_Press", "name_en": "Cable Chest Press", "name_fa": "پرس سینه سیم‌کش", "sets": 3, "reps": "12"},
+          {"id": "Alternate_Hammer_Curl", "name_en": "Hammer Curl", "name_fa": "جلو بازو چکشی", "sets": 3, "reps": "12"}
         ]
       },
       {
@@ -1141,7 +1141,7 @@
         "focus_en": "Cardio & Conditioning Burn",
         "focus_fa": "روز ششم: هوازی و تخلیه نهایی چربی",
         "exercises": [
-          {"id": "Bicycling_Stationary", "sets": 1, "reps": "45 min"}
+          {"id": "Bicycling_Stationary", "name_en": "Stationary Cycling", "name_fa": "دوچرخه ثابت", "sets": 1, "reps": "45 min"}
         ]
       },
       {
@@ -1149,7 +1149,7 @@
         "focus_en": "Complete Rest Day",
         "focus_fa": "روز هفتم: استراحت مطلق",
         "exercises": [
-          {"id": "Childs_Pose", "sets": 1, "reps": "All Day"}
+          {"id": "Childs_Pose", "name_en": "Child's Pose", "name_fa": "حرکت استراحت کودک", "sets": 1, "reps": "All Day"}
         ]
       }
     ]

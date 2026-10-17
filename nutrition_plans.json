@@ -15,6 +15,12 @@
         "protein_g": 180,
         "carbs_g": 400,
         "fats_g": 90,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Whole Eggs + 100g Oatmeal + 1 Banana + Peanut Butter"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Chicken Breast + 300g White Rice + Olive Oil Salad"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "30g Whey Protein + 1 Apple + Rice Cakes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Lean Beef + 250g Potatoes + Mixed Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
           {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "30g post-workout"}
@@ -26,6 +32,12 @@
         "protein_g": 180,
         "carbs_g": 400,
         "fats_g": 90,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "4 Egg Whites + 2 Whole Eggs + Whole Wheat Bread + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Grilled Salmon + 300g Sweet Potatoes + Asparagus"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "30g Whey Protein + Dextrose Drink"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Turkey Breast + 300g Rice + Green Salad"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
           {"name_en": "Omega-3 Fish Oil", "name_fa": "امگا ۳", "dose": "2000mg with meal"}
@@ -37,6 +49,12 @@
         "protein_g": 180,
         "carbs_g": 400,
         "fats_g": 90,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal Pancake with 2 Eggs and Milk + Berries"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Chicken Thighs + 300g Pasta + Tomato Sauce"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "30g Whey Protein + Banana"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Tuna Fish + 250g Rice + Olive Oil"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
           {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "30g post-workout"}
@@ -48,6 +66,11 @@
         "protein_g": 160,
         "carbs_g": 320,
         "fats_g": 85,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Scrambled Eggs + Toast + Avocado"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken Breast + 250g Rice + Salad"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g White Fish + 200g Potatoes + Broccoli"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet with breakfast"}
@@ -59,6 +82,12 @@
         "protein_g": 180,
         "carbs_g": 400,
         "fats_g": 90,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal with Milk, Honey, and Almonds + 3 Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Lean Beef + 300g Rice + Salad"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "Whey Protein + Rice Cakes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Chicken Breast + 300g Pasta"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
           {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "30g post-workout"}
@@ -70,6 +99,12 @@
         "protein_g": 180,
         "carbs_g": 400,
         "fats_g": 90,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Omelet with 3 Eggs, Mushrooms, and Cheese + Bread"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Salmon + 300g Sweet Potatoes"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "Whey Protein + Fruit Juice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Beef Steak + 300g Mashed Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
           {"name_en": "BCAA", "name_fa": "آمینو اسید شاخه‌دار", "dose": "10g during workout"}
@@ -81,6 +116,11 @@
         "protein_g": 150,
         "carbs_g": 300,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt with Granola and Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken Breast + 250g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Omelet with 3 Eggs and Spinach"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
           {"name_en": "Omega-3 Fish Oil", "name_fa": "امگا ۳", "dose": "2000mg with meal"}
@@ -118,6 +158,12 @@
         "protein_g": 190,
         "carbs_g": 430,
         "fats_g": 100,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "4 Whole Eggs + 120g Oatmeal + Whole Milk + Nuts"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "300g Beef Steak + 350g Rice + Olive Oil"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "Mass Gainer + Banana"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Chicken Breast + 300g Potatoes + Avocado"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
           {"name_en": "Pre-Workout", "name_fa": "پری‌ورک‌آوت", "dose": "1 scoop pre-workout"}
@@ -129,6 +175,11 @@
         "protein_g": 190,
         "carbs_g": 430,
         "fats_g": 100,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Pancakes with Eggs, Oats, and Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "300g Salmon + 350g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Lean Meat + 300g Rice"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
           {"name_en": "Pre-Workout", "name_fa": "پری‌ورک‌آوت", "dose": "1 scoop pre-workout"}
@@ -140,6 +191,11 @@
         "protein_g": 160,
         "carbs_g": 330,
         "fats_g": 90,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Eggs + Toast + Peanut Butter"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken + 250g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Fish + 250g Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
@@ -151,6 +207,11 @@
         "protein_g": 200,
         "carbs_g": 440,
         "fats_g": 105,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "4 Eggs + 150g Oatmeal + Whole Milk"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "300g Beef + 400g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "300g Chicken Breast + 350g Pasta"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g post-workout"},
           {"name_en": "Pre-Workout", "name_fa": "پری‌ورک‌آوت", "dose": "1 scoop pre-workout"}
@@ -162,6 +223,11 @@
         "protein_g": 175,
         "carbs_g": 380,
         "fats_g": 95,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Eggs + Oatmeal + Banana"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Chicken + 300g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Tuna + 300g Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg"}
@@ -173,6 +239,11 @@
         "protein_g": 150,
         "carbs_g": 310,
         "fats_g": 85,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Scrambled Eggs + Bread"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Beef + 250g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Chicken + 250g Pasta"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"}
         ]
@@ -183,6 +254,11 @@
         "protein_g": 150,
         "carbs_g": 290,
         "fats_g": 85,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Honey + Nuts"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken Breast + 250g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Omelet + Salad"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین مونوهیدرات", "dose": "5g morning"},
           {"name_en": "Glutamine", "name_fa": "گلوتامین", "dose": "5g before bed"}
@@ -220,6 +296,12 @@
         "protein_g": 200,
         "carbs_g": 180,
         "fats_g": 60,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "5 Egg Whites + 1 Whole Egg + Oatmeal + Green Tea"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Chicken Breast + 150g Brown Rice + Broccoli"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "30g Whey Isolate + Water"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g White Fish + Large Green Salad with Lemon"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg pre-cardio"},
           {"name_en": "Whey Isolate", "name_fa": "پروتئین وی ایزوله", "dose": "30g post-workout"}
@@ -231,6 +313,11 @@
         "protein_g": 200,
         "carbs_g": 180,
         "fats_g": 60,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Omelet with 4 Egg Whites and Spinach + Toast"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Turkey Breast + 150g Sweet Potatoes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Chicken Breast + Asparagus"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg pre-cardio"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
@@ -242,6 +329,11 @@
         "protein_g": 190,
         "carbs_g": 160,
         "fats_g": 55,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Berries + Almonds"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Tuna + 120g Brown Rice + Salad"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Lean Beef + Broccoli"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg pre-cardio"},
           {"name_en": "Fat Burner", "name_fa": "چربی‌سوز", "dose": "1 capsule morning"}
@@ -253,6 +345,11 @@
         "protein_g": 180,
         "carbs_g": 150,
         "fats_g": 55,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Boiled Eggs + Cucumber & Tomato"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken Breast + 100g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g White Fish + Spinach"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg"}
         ]
@@ -263,6 +360,11 @@
         "protein_g": 200,
         "carbs_g": 180,
         "fats_g": 60,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal with Protein Powder + Berries"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Chicken + 150g Rice + Salad"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Beef + Broccoli"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg pre-cardio"},
           {"name_en": "Whey Isolate", "name_fa": "پروتئین وی ایزوله", "dose": "30g post-workout"}
@@ -274,6 +376,11 @@
         "protein_g": 200,
         "carbs_g": 180,
         "fats_g": 60,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg White Omelet + Toast"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Salmon + 150g Sweet Potatoes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Chicken + Salad"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg pre-cardio"},
           {"name_en": "BCAA", "name_fa": "آمینو اسید شاخه‌دار", "dose": "10g"}
@@ -285,6 +392,11 @@
         "protein_g": 170,
         "carbs_g": 130,
         "fats_g": 50,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Cucumber"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken Breast + Salad"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Tuna + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -321,6 +433,12 @@
         "protein_g": 230,
         "carbs_g": 220,
         "fats_g": 45,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "6 Egg Whites + 80g Oatmeal + Water"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "300g Chicken Breast + 200g Rice + Steamed Spinach"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "40g Whey Isolate"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "300g White Fish + Asparagus"}
+        ],
         "supplements": [
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "15g daily"},
           {"name_en": "Glutamine", "name_fa": "گلوتامین", "dose": "10g daily"},
@@ -333,6 +451,11 @@
         "protein_g": 230,
         "carbs_g": 220,
         "fats_g": 45,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg White Omelet + Oatmeal"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "300g Turkey Breast + 200g Potatoes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "300g Chicken + Broccoli"}
+        ],
         "supplements": [
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "15g daily"},
           {"name_en": "Glutamine", "name_fa": "گلوتامین", "dose": "10g daily"}
@@ -344,6 +467,11 @@
         "protein_g": 220,
         "carbs_g": 200,
         "fats_g": 45,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites + Rice Cakes"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Chicken + 180g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Fish + Spinach"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "3000mg"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
@@ -355,6 +483,11 @@
         "protein_g": 230,
         "carbs_g": 220,
         "fats_g": 45,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites + Oatmeal"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "300g Chicken + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "300g Beef + Salad"}
+        ],
         "supplements": [
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "15g daily"},
           {"name_en": "Whey Isolate", "name_fa": "وی ایزوله", "dose": "40g"}
@@ -366,6 +499,11 @@
         "protein_g": 220,
         "carbs_g": 180,
         "fats_g": 40,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites + Spinach"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Chicken + 150g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g White Fish + Broccoli"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "3000mg"},
           {"name_en": "Glutamine", "name_fa": "گلوتامین", "dose": "10g"}
@@ -377,6 +515,11 @@
         "protein_g": 210,
         "carbs_g": 160,
         "fats_g": 40,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites + Toast"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Turkey + 120g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Chicken + Salad"}
+        ],
         "supplements": [
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "15g"}
         ]
@@ -387,6 +530,11 @@
         "protein_g": 200,
         "carbs_g": 150,
         "fats_g": 35,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites + Greens"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken + 100g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Fish + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -423,6 +571,12 @@
         "protein_g": 140,
         "carbs_g": 260,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "2 Eggs + 80g Oatmeal + Banana + Peanut Butter"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken Breast + 200g Rice + Salad"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "25g Whey Protein + Rice Cakes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Salmon + 150g Sweet Potatoes + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Collagen Peptides", "name_fa": "کلاژن", "dose": "10g morning"},
           {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"}
@@ -434,6 +588,11 @@
         "protein_g": 130,
         "carbs_g": 230,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Granola + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Turkey + 200g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Chicken + Salad"}
+        ],
         "supplements": [
           {"name_en": "Collagen Peptides", "name_fa": "کلاژن", "dose": "10g morning"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین بانوان", "dose": "1 tablet"}
@@ -445,6 +604,11 @@
         "protein_g": 140,
         "carbs_g": 260,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal Pancake + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Beef + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Chicken + Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Collagen Peptides", "name_fa": "کلاژن", "dose": "10g morning"},
           {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"}
@@ -456,6 +620,11 @@
         "protein_g": 120,
         "carbs_g": 210,
         "fats_g": 65,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Toast + Avocado + 2 Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken + 180g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Fish + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳ بانوان", "dose": "1000mg"}
         ]
@@ -466,6 +635,11 @@
         "protein_g": 140,
         "carbs_g": 260,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal + Milk + Fruit"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Beef + Salad"}
+        ],
         "supplements": [
           {"name_en": "Collagen Peptides", "name_fa": "کلاژن", "dose": "10g morning"},
           {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"}
@@ -477,6 +651,11 @@
         "protein_g": 135,
         "carbs_g": 240,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Omelet + Bread"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Salmon + 200g Potatoes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Chicken + Rice"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -487,6 +666,11 @@
         "protein_g": 110,
         "carbs_g": 200,
         "fats_g": 60,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken + 150g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Eggs + Salad"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -523,6 +707,11 @@
         "protein_g": 130,
         "carbs_g": 150,
         "fats_g": 55,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Egg Whites + 1 Egg + Oatmeal + Green Tea"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken Breast + 100g Brown Rice + Salad"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g White Fish + Steamed Vegetables"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "1500mg pre-workout"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین بانوان", "dose": "1 tablet"}
@@ -534,6 +723,11 @@
         "protein_g": 130,
         "carbs_g": 150,
         "fats_g": 55,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Berries"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Turkey + 100g Sweet Potatoes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Chicken + Spinach"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "1500mg pre-workout"}
         ]
@@ -544,6 +738,11 @@
         "protein_g": 125,
         "carbs_g": 140,
         "fats_g": 50,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Omelet + Toast"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Tuna + 100g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Fish + Salad"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -554,6 +753,11 @@
         "protein_g": 120,
         "carbs_g": 135,
         "fats_g": 50,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Boiled Eggs + Cucumber"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "130g Chicken + 80g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "130g Beef + Broccoli"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -564,6 +768,11 @@
         "protein_g": 130,
         "carbs_g": 150,
         "fats_g": 55,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal + Protein"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken + 100g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Fish + Salad"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "1500mg pre-workout"}
         ]
@@ -574,6 +783,11 @@
         "protein_g": 130,
         "carbs_g": 150,
         "fats_g": 55,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Eggs + Toast"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Salmon + 100g Sweet Potatoes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Chicken + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "1500mg pre-workout"}
         ]
@@ -584,6 +798,11 @@
         "protein_g": 110,
         "carbs_g": 120,
         "fats_g": 45,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "130g Chicken + Salad"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "130g Tuna + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -620,6 +839,12 @@
         "protein_g": 135,
         "carbs_g": 320,
         "fats_g": 85,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Eggs + 100g Oatmeal + Honey + Milk"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken Breast + 250g Rice + Olive Oil"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "Mass Gainer + Banana"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Beef + 200g Potatoes + Salad"}
+        ],
         "supplements": [
           {"name_en": "Mass Gainer / Protein", "name_fa": "پروتئین ترکیبی", "dose": "1 scoop post-workout"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
@@ -631,6 +856,11 @@
         "protein_g": 135,
         "carbs_g": 320,
         "fats_g": 85,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Pancakes with Oats and Eggs + Berries"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Salmon + 250g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Turkey + 200g Rice"}
+        ],
         "supplements": [
           {"name_en": "Mass Gainer / Protein", "name_fa": "پروتئین ترکیبی", "dose": "1 scoop post-workout"}
         ]
@@ -641,6 +871,11 @@
         "protein_g": 125,
         "carbs_g": 290,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Granola + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -651,6 +886,11 @@
         "protein_g": 135,
         "carbs_g": 320,
         "fats_g": 85,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal with Peanut Butter + Milk"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Beef + 250g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Chicken + Pasta"}
+        ],
         "supplements": [
           {"name_en": "Mass Gainer / Protein", "name_fa": "پروتئین ترکیبی", "dose": "1 scoop post-workout"}
         ]
@@ -661,6 +901,11 @@
         "protein_g": 130,
         "carbs_g": 300,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Eggs + Toast + Avocado"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Salmon + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -671,6 +916,11 @@
         "protein_g": 120,
         "carbs_g": 290,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Omelet + Bread"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Turkey + 200g Potatoes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Chicken + Rice"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -681,6 +931,11 @@
         "protein_g": 110,
         "carbs_g": 260,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken + 180g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Eggs + Salad"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -717,6 +972,12 @@
         "protein_g": 160,
         "carbs_g": 170,
         "fats_g": 45,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "5 Egg Whites + 50g Oatmeal + Green Tea"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken Breast + 120g Rice + Spinach"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "30g Whey Isolate"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g White Fish + Asparagus"}
+        ],
         "supplements": [
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"},
           {"name_en": "Whey Isolate", "name_fa": "وی ایزوله", "dose": "30g"},
@@ -729,6 +990,11 @@
         "protein_g": 160,
         "carbs_g": 170,
         "fats_g": 45,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites + Oatmeal"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Turkey + 120g Sweet Potatoes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Chicken + Broccoli"}
+        ],
         "supplements": [
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"}
         ]
@@ -739,6 +1005,11 @@
         "protein_g": 155,
         "carbs_g": 160,
         "fats_g": 45,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites + Rice Cakes"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 100g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + Spinach"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg"}
         ]
@@ -749,6 +1020,11 @@
         "protein_g": 160,
         "carbs_g": 170,
         "fats_g": 45,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites + Oatmeal"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken + 120g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Beef + Salad"}
+        ],
         "supplements": [
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"},
           {"name_en": "Whey Isolate", "name_fa": "وی ایزوله", "dose": "30g"}
@@ -760,6 +1036,11 @@
         "protein_g": 150,
         "carbs_g": 150,
         "fats_g": 40,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites + Greens"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 100g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + Broccoli"}
+        ],
         "supplements": [
           {"name_en": "L-Carnitine", "name_fa": "ال‌کارنیتین", "dose": "2000mg"}
         ]
@@ -770,6 +1051,11 @@
         "protein_g": 145,
         "carbs_g": 140,
         "fats_g": 40,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites + Toast"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Turkey + 90g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Chicken + Salad"}
+        ],
         "supplements": [
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"}
         ]
@@ -780,6 +1066,11 @@
         "protein_g": 140,
         "carbs_g": 130,
         "fats_g": 40,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Egg Whites"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken + 80g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Fish + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -816,6 +1107,12 @@
         "protein_g": 150,
         "carbs_g": 280,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Eggs + 80g Oatmeal + Banana"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken Breast + 200g Rice + Salad"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "25g Whey Protein"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + 180g Potatoes + Broccoli"}
+        ],
         "supplements": [
           {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
@@ -827,6 +1124,11 @@
         "protein_g": 150,
         "carbs_g": 280,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal Pancake + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Turkey + 200g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Chicken + Salad"}
+        ],
         "supplements": [
           {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"}
         ]
@@ -837,6 +1139,11 @@
         "protein_g": 135,
         "carbs_g": 250,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 180g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Tuna + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -847,6 +1154,11 @@
         "protein_g": 150,
         "carbs_g": 280,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Eggs + Toast + Peanut Butter"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Beef + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Chicken + Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Whey Protein", "name_fa": "پروتئین وی", "dose": "25g post-workout"}
         ]
@@ -857,6 +1169,11 @@
         "protein_g": 150,
         "carbs_g": 280,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal + Milk"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken + 200g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + Salad"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -867,6 +1184,11 @@
         "protein_g": 140,
         "carbs_g": 260,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Omelet + Bread"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Turkey + 180g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Chicken + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -877,6 +1199,11 @@
         "protein_g": 130,
         "carbs_g": 230,
         "fats_g": 65,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Granola"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken + 150g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Eggs + Salad"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -913,6 +1240,11 @@
         "protein_g": 120,
         "carbs_g": 240,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal with Berries & Walnuts + Green Tea"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Salmon + 180g Brown Rice + Olive Oil Salad"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Chicken Breast + Sweet Potatoes + Broccoli"}
+        ],
         "supplements": [
           {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg daily"}
@@ -924,6 +1256,11 @@
         "protein_g": 120,
         "carbs_g": 240,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt with Honey & Almonds"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Tuna + 180g Quinoa + Salad"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Fish + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg daily"}
@@ -935,6 +1272,11 @@
         "protein_g": 120,
         "carbs_g": 240,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Eggs + Avocado Toast"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 180g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Salmon + Salad"}
+        ],
         "supplements": [
           {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
@@ -946,6 +1288,11 @@
         "protein_g": 120,
         "carbs_g": 240,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal with Fruits"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Salmon + 180g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Beef + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg daily"}
@@ -957,6 +1304,11 @@
         "protein_g": 120,
         "carbs_g": 240,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Berries"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 180g Quinoa"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Fish + Spinach"}
+        ],
         "supplements": [
           {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg daily"}
@@ -968,6 +1320,11 @@
         "protein_g": 120,
         "carbs_g": 240,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Eggs + Bread + Avocado"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Tuna + 180g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Chicken + Salad"}
+        ],
         "supplements": [
           {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
@@ -979,6 +1336,11 @@
         "protein_g": 110,
         "carbs_g": 220,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal with Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken + 150g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Fish + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Glucosamine Chondroitin", "name_fa": "گلوکوزامین کندرویتین", "dose": "1500mg daily"},
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg daily"}
@@ -1016,6 +1378,12 @@
         "protein_g": 160,
         "carbs_g": 420,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Eggs + 100g Oatmeal + Banana + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Chicken Breast + 300g Rice + Salad"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "Isotonic Drink + Fruit"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Fish + 300g Potatoes + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop during training"},
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"}
@@ -1027,6 +1395,11 @@
         "protein_g": 160,
         "carbs_g": 420,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal Pancake + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Turkey + 300g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Chicken + 250g Rice"}
+        ],
         "supplements": [
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop during training"},
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
@@ -1038,6 +1411,11 @@
         "protein_g": 145,
         "carbs_g": 360,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Granola"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken + 250g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Beef + Salad"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -1048,6 +1426,11 @@
         "protein_g": 165,
         "carbs_g": 440,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Eggs + Oatmeal + Milk"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Beef + 350g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Chicken + 300g Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop during training"},
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"}
@@ -1059,6 +1442,11 @@
         "protein_g": 155,
         "carbs_g": 400,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Toast + Peanut Butter + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken + 300g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + Salad"}
+        ],
         "supplements": [
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
         ]
@@ -1069,6 +1457,11 @@
         "protein_g": 170,
         "carbs_g": 450,
         "fats_g": 85,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Pancakes + Honey + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Salmon + 350g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "250g Chicken + 300g Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "2 scoops match simulation"},
           {"name_en": "BCAA", "name_fa": "آمینو اسید", "dose": "10g"}
@@ -1080,6 +1473,11 @@
         "protein_g": 140,
         "carbs_g": 340,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Fruit"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Eggs + Salad"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -1116,6 +1514,12 @@
         "protein_g": 160,
         "carbs_g": 390,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Eggs + 100g Oatmeal + Banana"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "220g Chicken Breast + 280g Rice + Salad"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "Whey Protein + Rice Cakes"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + 250g Potatoes + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین", "dose": "5g"},
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
@@ -1127,6 +1531,11 @@
         "protein_g": 160,
         "carbs_g": 390,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal Pancake + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "220g Turkey + 280g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Chicken + Rice"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین", "dose": "5g"},
           {"name_en": "Collagen", "name_fa": "کلاژن شانه", "dose": "10g"}
@@ -1138,6 +1547,11 @@
         "protein_g": 140,
         "carbs_g": 340,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 220g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Tuna + Salad"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -1148,6 +1562,11 @@
         "protein_g": 165,
         "carbs_g": 400,
         "fats_g": 85,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Eggs + Oatmeal + Milk"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "220g Beef + 300g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Chicken + Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین", "dose": "5g"},
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
@@ -1159,6 +1578,11 @@
         "protein_g": 150,
         "carbs_g": 380,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Toast + Peanut Butter"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken + 250g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + Salad"}
+        ],
         "supplements": [
           {"name_en": "Creatine Monohydrate", "name_fa": "کراتین", "dose": "5g"}
         ]
@@ -1169,6 +1593,11 @@
         "protein_g": 150,
         "carbs_g": 380,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Salmon + 250g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Chicken + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Collagen", "name_fa": "کلاژن", "dose": "10g"}
         ]
@@ -1179,6 +1608,11 @@
         "protein_g": 135,
         "carbs_g": 320,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Eggs + Salad"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -1215,6 +1649,12 @@
         "protein_g": 170,
         "carbs_g": 430,
         "fats_g": 85,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Eggs + 100g Oatmeal + Banana + Milk"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Chicken Breast + 300g Rice + Salad"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "Whey Protein + Fruit Juice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Beef + 300g Potatoes + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Creatine", "name_fa": "کراتین", "dose": "5g"},
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
@@ -1226,6 +1666,11 @@
         "protein_g": 165,
         "carbs_g": 410,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal Pancake + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Turkey + 300g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Chicken + 250g Rice"}
+        ],
         "supplements": [
           {"name_en": "Creatine", "name_fa": "کراتین", "dose": "5g"}
         ]
@@ -1236,6 +1681,11 @@
         "protein_g": 145,
         "carbs_g": 360,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Granola"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken + 250g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + Salad"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -1246,6 +1696,11 @@
         "protein_g": 170,
         "carbs_g": 430,
         "fats_g": 85,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Eggs + Oatmeal + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Beef + 350g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Chicken + 300g Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Creatine", "name_fa": "کراتین", "dose": "5g"},
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
@@ -1257,6 +1712,11 @@
         "protein_g": 160,
         "carbs_g": 390,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Toast + Peanut Butter"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken + 300g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + Salad"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -1267,6 +1727,11 @@
         "protein_g": 165,
         "carbs_g": 410,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "250g Salmon + 300g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Chicken + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
         ]
@@ -1277,6 +1742,11 @@
         "protein_g": 140,
         "carbs_g": 340,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Eggs + Salad"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -1313,6 +1783,12 @@
         "protein_g": 150,
         "carbs_g": 380,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Eggs + 80g Oatmeal + Banana"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken Breast + 250g Rice + Salad"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "Whey Protein + Fruit"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Fish + 200g Potatoes + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"},
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
@@ -1324,6 +1800,11 @@
         "protein_g": 150,
         "carbs_g": 380,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal Pancake + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Turkey + 250g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Chicken + Rice"}
+        ],
         "supplements": [
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
         ]
@@ -1334,6 +1815,11 @@
         "protein_g": 140,
         "carbs_g": 340,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Tuna + Salad"}
+        ],
         "supplements": [
           {"name_en": "Collagen", "name_fa": "کلاژن برای مچ و شانه", "dose": "10g"}
         ]
@@ -1344,6 +1830,11 @@
         "protein_g": 155,
         "carbs_g": 390,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Eggs + Oatmeal + Milk"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "220g Beef + 280g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Chicken + Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
         ]
@@ -1354,6 +1845,11 @@
         "protein_g": 145,
         "carbs_g": 360,
         "fats_g": 75,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Toast + Peanut Butter"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 250g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Fish + Salad"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
@@ -1364,6 +1860,11 @@
         "protein_g": 160,
         "carbs_g": 410,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "220g Salmon + 300g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Chicken + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
         ]
@@ -1374,6 +1875,11 @@
         "protein_g": 130,
         "carbs_g": 330,
         "fats_g": 65,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken + 180g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Eggs + Salad"}
+        ],
         "supplements": [
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "1000mg"}
         ]
@@ -1410,6 +1916,12 @@
         "protein_g": 140,
         "carbs_g": 410,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "3 Eggs + 100g Oatmeal + Banana + Honey"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Chicken Breast + 300g Brown Rice + Salad"},
+          {"meal_name_en": "Post-Workout", "meal_name_fa": "پس از تمرین", "items": "Energy Bar + Fruit"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Salmon + 250g Sweet Potatoes + Vegetables"}
+        ],
         "supplements": [
           {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"},
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
@@ -1421,6 +1933,11 @@
         "protein_g": 140,
         "carbs_g": 410,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Oatmeal Pancake + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Turkey + 300g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Chicken + Rice"}
+        ],
         "supplements": [
           {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"},
           {"name_en": "Omega-3", "name_fa": "امگا ۳", "dose": "2000mg"}
@@ -1432,6 +1949,11 @@
         "protein_g": 130,
         "carbs_g": 350,
         "fats_g": 65,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt + Granola"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 250g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Tuna + Salad"}
+        ],
         "supplements": [
           {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"}
         ]
@@ -1442,6 +1964,11 @@
         "protein_g": 145,
         "carbs_g": 430,
         "fats_g": 70,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Eggs + Oatmeal + Milk"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "200g Beef + 350g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "180g Chicken + Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"},
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "1 scoop"}
@@ -1453,6 +1980,11 @@
         "protein_g": 135,
         "carbs_g": 390,
         "fats_g": 65,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Toast + Peanut Butter"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "180g Chicken + 300g Pasta"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "150g Fish + Salad"}
+        ],
         "supplements": [
           {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"}
         ]
@@ -1463,6 +1995,11 @@
         "protein_g": 160,
         "carbs_g": 480,
         "fats_g": 80,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Pancakes + Honey + Eggs"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "220g Salmon + 380g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "200g Chicken + Potatoes"}
+        ],
         "supplements": [
           {"name_en": "Collagen Peptides", "name_fa": "کلاژن مفاصل", "dose": "15g daily"},
           {"name_en": "Electrolytes", "name_fa": "الکترولیت", "dose": "2 scoops long run"}
@@ -1474,6 +2011,11 @@
         "protein_g": 120,
         "carbs_g": 340,
         "fats_g": 60,
+        "meals": [
+          {"meal_name_en": "Breakfast", "meal_name_fa": "صبحانه", "items": "Greek Yogurt"},
+          {"meal_name_en": "Lunch", "meal_name_fa": "ناهار", "items": "150g Chicken + 200g Rice"},
+          {"meal_name_en": "Dinner", "meal_name_fa": "شام", "items": "Eggs + Salad"}
+        ],
         "supplements": [
           {"name_en": "Multivitamin", "name_fa": "مولتی ویتامین", "dose": "1 tablet"}
         ]
